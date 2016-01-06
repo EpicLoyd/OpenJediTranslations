@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,80 +15,80 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           09JAK004
 LANG_ENGLISH        "Hmmm.  Nothing.  Is Master Skywalker wrong about this place?"
-LANG_RUSSIAN         "Хммм.  Ни черта.  Может, мастер Скайуокер ошибался насчет этого места?"
+LANG_RUSSIAN         "РҐРјРјРј.  РќРё С‡РµСЂС‚Р°.  РњРѕР¶РµС‚, РјР°СЃС‚РµСЂ РЎРєР°Р№СѓРѕРєРµСЂ РѕС€РёР±Р°Р»СЃСЏ РЅР°СЃС‡РµС‚ СЌС‚РѕРіРѕ РјРµСЃС‚Р°?"
 
 REFERENCE           09JAK005
 NOTES               "(sees something in the distance)"
 LANG_ENGLISH        "What's that?"
-LANG_RUSSIAN         "Что это было?"
+LANG_RUSSIAN         "Р§С‚Рѕ СЌС‚Рѕ Р±С‹Р»Рѕ?"
 
 REFERENCE           09JAK006
 LANG_ENGLISH        "Guess I'd better check it out."
-LANG_RUSSIAN         "Думаю, лучше проверить."
+LANG_RUSSIAN         "Р”СѓРјР°СЋ, Р»СѓС‡С€Рµ РїСЂРѕРІРµСЂРёС‚СЊ."
 
 REFERENCE           09JAK007
 NOTES               "(looks around)"
 LANG_ENGLISH        "I can probably cover more distance with one of those tauntauns."
-LANG_RUSSIAN         "Может, я одолею большее расстояние с помощью этих тоон-тоон."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, СЏ РѕРґРѕР»РµСЋ Р±РѕР»СЊС€РµРµ СЂР°СЃСЃС‚РѕСЏРЅРёРµ СЃ РїРѕРјРѕС‰СЊСЋ СЌС‚РёС… С‚РѕРѕРЅ-С‚РѕРѕРЅ."
 
 REFERENCE           09JAK008
 NOTES               "(catches a tauntaun)"
 LANG_ENGLISH        "Gotcha!"
-LANG_RUSSIAN         "Попался!"
+LANG_RUSSIAN         "РџРѕРїР°Р»СЃСЏ!"
 
 REFERENCE           09JAK009
 LANG_ENGLISH        "Imperials?  Here?  Maybe Master Luke was right after all."
-LANG_RUSSIAN         "Имперцы ?  Здесь?  Похоже, мастер Люк в конце концов оказался прав."
+LANG_RUSSIAN         "РРјРїРµСЂС†С‹ ?  Р—РґРµСЃСЊ?  РџРѕС…РѕР¶Рµ, РјР°СЃС‚РµСЂ Р›СЋРє РІ РєРѕРЅС†Рµ РєРѕРЅС†РѕРІ РѕРєР°Р·Р°Р»СЃСЏ РїСЂР°РІ."
 
 REFERENCE           09JAK010
 NOTES               "(leaving his tauntaun)"
 LANG_ENGLISH        "Thanks for the ride."
-LANG_RUSSIAN         "Спасибо за поездку."
+LANG_RUSSIAN         "РЎРїР°СЃРёР±Рѕ Р·Р° РїРѕРµР·РґРєСѓ."
 
 REFERENCE           09JAK011
 NOTES               "(to wampa)"
 LANG_ENGLISH        "I don't want to hurt you!"
-LANG_RUSSIAN         "Я не хочу делать тебе больно !"
+LANG_RUSSIAN         "РЇ РЅРµ С…РѕС‡Сѓ РґРµР»Р°С‚СЊ С‚РµР±Рµ Р±РѕР»СЊРЅРѕ !"
 
 REFERENCE           09JAK012
 NOTES               "(freezing)"
 LANG_ENGLISH        "So... cold."
-LANG_RUSSIAN         "Так... холодно."
+LANG_RUSSIAN         "РўР°Рє... С…РѕР»РѕРґРЅРѕ."
 
 REFERENCE           09JAK013
 NOTES               "(freezing)"
 LANG_ENGLISH        "I'm... freezing."
-LANG_RUSSIAN         "Я... мерзну."
+LANG_RUSSIAN         "РЇ... РјРµСЂР·РЅСѓ."
 
 REFERENCE           09JAK014
 NOTES               "(freezes to death)"
 LANG_ENGLISH        "Got t-to get..."
-LANG_RUSSIAN         "Нужно добра-а-аться..."
+LANG_RUSSIAN         "РќСѓР¶РЅРѕ РґРѕР±СЂР°-Р°-Р°С‚СЊСЃСЏ..."
 
 REFERENCE           09JAK015
 LANG_ENGLISH        "There... Echo Base!"
-LANG_RUSSIAN         "Сюда... База Эхо!"
+LANG_RUSSIAN         "РЎСЋРґР°... Р‘Р°Р·Р° Р­С…Рѕ!"
 
 REFERENCE           09JAK016
 LANG_ENGLISH        "Doesn't look like they got in from here.  Must be another way in."
-LANG_RUSSIAN         "Не похоже, что они заходят туда отсюда.  Должен быть другой путь внутрь."
+LANG_RUSSIAN         "РќРµ РїРѕС…РѕР¶Рµ, С‡С‚Рѕ РѕРЅРё Р·Р°С…РѕРґСЏС‚ С‚СѓРґР° РѕС‚СЃСЋРґР°.  Р”РѕР»Р¶РµРЅ Р±С‹С‚СЊ РґСЂСѓРіРѕР№ РїСѓС‚СЊ РІРЅСѓС‚СЂСЊ."
 
 REFERENCE           09JAK017
 LANG_ENGLISH        "This isn't what it looked like in the holovids.  The weather here must be fierce!"
-LANG_RUSSIAN         "По головиду все выглядит совершенно по-другому.  Погода тут, похоже, просто ужасная!"
+LANG_RUSSIAN         "РџРѕ РіРѕР»РѕРІРёРґСѓ РІСЃРµ РІС‹РіР»СЏРґРёС‚ СЃРѕРІРµСЂС€РµРЅРЅРѕ РїРѕ-РґСЂСѓРіРѕРјСѓ.  РџРѕРіРѕРґР° С‚СѓС‚, РїРѕС…РѕР¶Рµ, РїСЂРѕСЃС‚Рѕ СѓР¶Р°СЃРЅР°СЏ!"
 
 REFERENCE           09JAK018
 LANG_ENGLISH        "This entrance is blocked, too.  How did they get in?"
-LANG_RUSSIAN         "Этот вход тоже закрыт.  Как же они туда заходят?"
+LANG_RUSSIAN         "Р­С‚РѕС‚ РІС…РѕРґ С‚РѕР¶Рµ Р·Р°РєСЂС‹С‚.  РљР°Рє Р¶Рµ РѕРЅРё С‚СѓРґР° Р·Р°С…РѕРґСЏС‚?"
 
 REFERENCE           09JAK019
 NOTES               "(looking around)"
 LANG_ENGLISH        "I guess I should keep following the beacons."
-LANG_RUSSIAN         "Полагаю, стоит идти по маякам."
+LANG_RUSSIAN         "РџРѕР»Р°РіР°СЋ, СЃС‚РѕРёС‚ РёРґС‚Рё РїРѕ РјР°СЏРєР°Рј."
 
 REFERENCE           09JAK020
 LANG_ENGLISH        "Why would they be guarding this pile of junk?"
-LANG_RUSSIAN         "Зачем им охранять эту кучу хлама?"
+LANG_RUSSIAN         "Р—Р°С‡РµРј РёРј РѕС…СЂР°РЅСЏС‚СЊ СЌС‚Сѓ РєСѓС‡Сѓ С…Р»Р°РјР°?"
 
 
 ENDMARKER

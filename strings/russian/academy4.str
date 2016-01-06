@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,59 +15,59 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           17LUK001
 LANG_ENGLISH        "The Disciples of Ragnos are getting bold.  They've managed to siphon Force energy from every site that was mentioned in my journal.  We still don't know what it is they're planning to do with the energy though."
-LANG_RUSSIAN         "Приверженцы Рагноса набираются наглости.  Они смогли откачать энергию Силы из всех мест, указанных в моем журнале.  И мы еще не знаем, что они собираются делать с этой энергией."
+LANG_RUSSIAN         "РџСЂРёРІРµСЂР¶РµРЅС†С‹ Р Р°РіРЅРѕСЃР° РЅР°Р±РёСЂР°СЋС‚СЃСЏ РЅР°РіР»РѕСЃС‚Рё.  РћРЅРё СЃРјРѕРіР»Рё РѕС‚РєР°С‡Р°С‚СЊ СЌРЅРµСЂРіРёСЋ РЎРёР»С‹ РёР· РІСЃРµС… РјРµСЃС‚, СѓРєР°Р·Р°РЅРЅС‹С… РІ РјРѕРµРј Р¶СѓСЂРЅР°Р»Рµ.  Р РјС‹ РµС‰Рµ РЅРµ Р·РЅР°РµРј, С‡С‚Рѕ РѕРЅРё СЃРѕР±РёСЂР°СЋС‚СЃСЏ РґРµР»Р°С‚СЊ СЃ СЌС‚РѕР№ СЌРЅРµСЂРіРёРµР№."
 
 REFERENCE           17LUK002
 NOTES               "(pauses)"
 LANG_ENGLISH        "It's imperative that we track down the leader of this cult."
-LANG_RUSSIAN         "Нам приказано выследить лидера этого культа."
+LANG_RUSSIAN         "РќР°Рј РїСЂРёРєР°Р·Р°РЅРѕ РІС‹СЃР»РµРґРёС‚СЊ Р»РёРґРµСЂР° СЌС‚РѕРіРѕ РєСѓР»СЊС‚Р°."
 
 REFERENCE           17JE1001
 LANG_ENGLISH        "But how?  If they've already hit every place in your journal...?"
-LANG_RUSSIAN         "Но как?  Если они уже побывали во всех местах, описанных в журнале...?"
+LANG_RUSSIAN         "РќРѕ РєР°Рє?  Р•СЃР»Рё РѕРЅРё СѓР¶Рµ РїРѕР±С‹РІР°Р»Рё РІРѕ РІСЃРµС… РјРµСЃС‚Р°С…, РѕРїРёСЃР°РЅРЅС‹С… РІ Р¶СѓСЂРЅР°Р»Рµ...?"
 
 REFERENCE           17LUK003
 LANG_ENGLISH        "There are several places I didn't mention by name that they've discovered, like Dagobah.  My fear is that they may use clues in my journals to discover other places."
-LANG_RUSSIAN         "Есть несколько мест, не упомянутых напрямую, например Дагобар.  Я опасаюсь, что с помощью намеков в моем журнале они найдут эти места."
+LANG_RUSSIAN         "Р•СЃС‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ РјРµСЃС‚, РЅРµ СѓРїРѕРјСЏРЅСѓС‚С‹С… РЅР°РїСЂСЏРјСѓСЋ, РЅР°РїСЂРёРјРµСЂ Р”Р°РіРѕР±Р°СЂ.  РЇ РѕРїР°СЃР°СЋСЃСЊ, С‡С‚Рѕ СЃ РїРѕРјРѕС‰СЊСЋ РЅР°РјРµРєРѕРІ РІ РјРѕРµРј Р¶СѓСЂРЅР°Р»Рµ РѕРЅРё РЅР°Р№РґСѓС‚ СЌС‚Рё РјРµСЃС‚Р°."
 
 REFERENCE           17LUK004
 NOTES               "(pauses)"
 LANG_ENGLISH        "We need to beat them to these locations.  Considering how we... lost a student last time, we must be very cautious.  Everyone will travel in pairs.  Kyle, Jaden, you'll be going to Vjun. "
-LANG_RUSSIAN         "Мы должны выгнать их оттуда.  Так как мы... потеряли в прошлый раз кадета, все должны быть предельно осторожны.  Все отправляются в парах.  Кайл, Джейден, вы летите на Вьюн. "
+LANG_RUSSIAN         "РњС‹ РґРѕР»Р¶РЅС‹ РІС‹РіРЅР°С‚СЊ РёС… РѕС‚С‚СѓРґР°.  РўР°Рє РєР°Рє РјС‹... РїРѕС‚РµСЂСЏР»Рё РІ РїСЂРѕС€Р»С‹Р№ СЂР°Р· РєР°РґРµС‚Р°, РІСЃРµ РґРѕР»Р¶РЅС‹ Р±С‹С‚СЊ РїСЂРµРґРµР»СЊРЅРѕ РѕСЃС‚РѕСЂРѕР¶РЅС‹.  Р’СЃРµ РѕС‚РїСЂР°РІР»СЏСЋС‚СЃСЏ РІ РїР°СЂР°С….  РљР°Р№Р», Р”Р¶РµР№РґРµРЅ, РІС‹ Р»РµС‚РёС‚Рµ РЅР° Р’СЊСЋРЅ. "
 
 REFERENCE           17KYK001
 NOTES               "(confused)"
 LANG_ENGLISH        "Vjun?  Isn't that just a big, dead rock?"
-LANG_RUSSIAN         "Вьюн?  Это не тот огромный безжизненный кусок скалы?"
+LANG_RUSSIAN         "Р’СЊСЋРЅ?  Р­С‚Рѕ РЅРµ С‚РѕС‚ РѕРіСЂРѕРјРЅС‹Р№ Р±РµР·Р¶РёР·РЅРµРЅРЅС‹Р№ РєСѓСЃРѕРє СЃРєР°Р»С‹?"
 
 REFERENCE           17LUK005
 NOTES               "(amused, but serious)"
 LANG_ENGLISH        "It also happens to be the location of one of my father's strongholds."
-LANG_RUSSIAN         "Там еще находится одна из цитаделей моего отца."
+LANG_RUSSIAN         "РўР°Рј РµС‰Рµ РЅР°С…РѕРґРёС‚СЃСЏ РѕРґРЅР° РёР· С†РёС‚Р°РґРµР»РµР№ РјРѕРµРіРѕ РѕС‚С†Р°."
 
 REFERENCE           17KYK002
 NOTES               "(surprised, a bit intimidated)"
 LANG_ENGLISH        "Ooookay, so it's a big, dead, important rock."
-LANG_RUSSIAN         "Оооокей, значит это огромный безжизненный кусок скалы немалой важности."
+LANG_RUSSIAN         "РћРѕРѕРѕРєРµР№, Р·РЅР°С‡РёС‚ СЌС‚Рѕ РѕРіСЂРѕРјРЅС‹Р№ Р±РµР·Р¶РёР·РЅРµРЅРЅС‹Р№ РєСѓСЃРѕРє СЃРєР°Р»С‹ РЅРµРјР°Р»РѕР№ РІР°Р¶РЅРѕСЃС‚Рё."
 
 REFERENCE           17LUK006
 LANG_ENGLISH        "Streen, you and Tionne are..."
-LANG_RUSSIAN         "Стрин, ты и Тионн..."
+LANG_RUSSIAN         "РЎС‚СЂРёРЅ, С‚С‹ Рё РўРёРѕРЅРЅ..."
 
 REFERENCE           17KYK003
 NOTES               "(to Jaden, a little spooked)"
 LANG_ENGLISH        "This ought to be interesting.  I'd heard rumors that Luke had been to Vjun, but he never really talked about it.  "
-LANG_RUSSIAN         "Это будет интересно.  До меня доходили слухи, что Люк бывал на Вьюне, но он никогда не говорил об этом.  "
+LANG_RUSSIAN         "Р­С‚Рѕ Р±СѓРґРµС‚ РёРЅС‚РµСЂРµСЃРЅРѕ.  Р”Рѕ РјРµРЅСЏ РґРѕС…РѕРґРёР»Рё СЃР»СѓС…Рё, С‡С‚Рѕ Р›СЋРє Р±С‹РІР°Р» РЅР° Р’СЊСЋРЅРµ, РЅРѕ РѕРЅ РЅРёРєРѕРіРґР° РЅРµ РіРѕРІРѕСЂРёР» РѕР± СЌС‚РѕРј.  "
 
 REFERENCE           17LUK007
 NOTES               "(pause)"
 LANG_ENGLISH        "Vjun is dangerous.  The dark side is strong there... oppressive.  Be extremely careful."
-LANG_RUSSIAN         "Вьюн опасен.  Темная сторона сильна там... очень сильна.  Будьте чрезвычайно осторожны."
+LANG_RUSSIAN         "Р’СЊСЋРЅ РѕРїР°СЃРµРЅ.  РўРµРјРЅР°СЏ СЃС‚РѕСЂРѕРЅР° СЃРёР»СЊРЅР° С‚Р°Рј... РѕС‡РµРЅСЊ СЃРёР»СЊРЅР°.  Р‘СѓРґСЊС‚Рµ С‡СЂРµР·РІС‹С‡Р°Р№РЅРѕ РѕСЃС‚РѕСЂРѕР¶РЅС‹."
 
 REFERENCE           17KYK004
 NOTES               "(serious)"
 LANG_ENGLISH        "Sure, Luke.  Don't worry."
-LANG_RUSSIAN         "Конечно, Люк.  Не волнуйся."
+LANG_RUSSIAN         "РљРѕРЅРµС‡РЅРѕ, Р›СЋРє.  РќРµ РІРѕР»РЅСѓР№СЃСЏ."
 
 
 ENDMARKER

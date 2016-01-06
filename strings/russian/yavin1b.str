@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,186 +16,186 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           01PIL006
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden, we can't get to you.  Make your way to the temple.  The shuttle will meet us there."
-LANG_RUSSIAN         "Джейден, мы не можем до тебя добраться.  Найди дорогу в храм.  Там нас заберет челнок."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РјС‹ РЅРµ РјРѕР¶РµРј РґРѕ С‚РµР±СЏ РґРѕР±СЂР°С‚СЊСЃСЏ.  РќР°Р№РґРё РґРѕСЂРѕРіСѓ РІ С…СЂР°Рј.  РўР°Рј РЅР°СЃ Р·Р°Р±РµСЂРµС‚ С‡РµР»РЅРѕРє."
 
 REFERENCE           01ROP008
 LANG_ENGLISH        "Jaden, hey!  I'm stuck.  Can you help?"
-LANG_RUSSIAN         "Джейден, эй!  Я застрял.  Можешь помочь?"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЌР№!  РЇ Р·Р°СЃС‚СЂСЏР».  РњРѕР¶РµС€СЊ РїРѕРјРѕС‡СЊ?"
 
 REFERENCE           01JAK005
 LANG_ENGLISH        "Hold on, Rosh! I'm on my way."
-LANG_RUSSIAN         "Держись, Рош! Я иду."
+LANG_RUSSIAN         "Р”РµСЂР¶РёСЃСЊ, Р РѕС€! РЇ РёРґСѓ."
 
 REFERENCE           01ROP009
 NOTES               "(pointing)"
 LANG_ENGLISH        "Jaden, see if you can make your way around there."
-LANG_RUSSIAN         "Джейден, посмотри, может, ты сможешь сюда пробраться."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РїРѕСЃРјРѕС‚СЂРё, РјРѕР¶РµС‚, С‚С‹ СЃРјРѕР¶РµС€СЊ СЃСЋРґР° РїСЂРѕР±СЂР°С‚СЊСЃСЏ."
 
 REFERENCE           01ROP010
 LANG_ENGLISH        "Maybe you can use your lightsaber to cut those trees down and make a bridge."
-LANG_RUSSIAN         "Может, с помощью лазерного меча ты срубишь пару деревьев и сделаешь мост."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, СЃ РїРѕРјРѕС‰СЊСЋ Р»Р°Р·РµСЂРЅРѕРіРѕ РјРµС‡Р° С‚С‹ СЃСЂСѓР±РёС€СЊ РїР°СЂСѓ РґРµСЂРµРІСЊРµРІ Рё СЃРґРµР»Р°РµС€СЊ РјРѕСЃС‚."
 
 REFERENCE           01ROP011
 LANG_ENGLISH        "Thanks Jaden, let's get to the temple.  "
-LANG_RUSSIAN         "Спасибо тебе, Джейден, пошли к храму.  "
+LANG_RUSSIAN         "РЎРїР°СЃРёР±Рѕ С‚РµР±Рµ, Р”Р¶РµР№РґРµРЅ, РїРѕС€Р»Рё Рє С…СЂР°РјСѓ.  "
 
 REFERENCE           01ROP012
 LANG_ENGLISH        "Whoa, howlers!"
-LANG_RUSSIAN         "Ух ты, ревуны!"
+LANG_RUSSIAN         "РЈС… С‚С‹, СЂРµРІСѓРЅС‹!"
 
 REFERENCE           01ROP013
 LANG_ENGLISH        "Watch out!"
-LANG_RUSSIAN         "Берегись!"
+LANG_RUSSIAN         "Р‘РµСЂРµРіРёСЃСЊ!"
 
 REFERENCE           01ROP014
 LANG_ENGLISH        "These howlers make good target practice, eh, Jaden?"
-LANG_RUSSIAN         "Эти ревуны просто отличные мишени, верно, Джейден?"
+LANG_RUSSIAN         "Р­С‚Рё СЂРµРІСѓРЅС‹ РїСЂРѕСЃС‚Рѕ РѕС‚Р»РёС‡РЅС‹Рµ РјРёС€РµРЅРё, РІРµСЂРЅРѕ, Р”Р¶РµР№РґРµРЅ?"
 
 REFERENCE           01ROP015
 LANG_ENGLISH        "Gotcha!"
-LANG_RUSSIAN         "Попался!"
+LANG_RUSSIAN         "РџРѕРїР°Р»СЃСЏ!"
 
 REFERENCE           01ROP016
 LANG_ENGLISH        "Look out cause here I come!"
-LANG_RUSSIAN         "Берегись, вот он я!"
+LANG_RUSSIAN         "Р‘РµСЂРµРіРёСЃСЊ, РІРѕС‚ РѕРЅ СЏ!"
 
 REFERENCE           01ROP017
 LANG_ENGLISH        "Hey, maybe you can use your saber to make another bridge."
-LANG_RUSSIAN         "Эй, может сделаешь мечом еще один мост."
+LANG_RUSSIAN         "Р­Р№, РјРѕР¶РµС‚ СЃРґРµР»Р°РµС€СЊ РјРµС‡РѕРј РµС‰Рµ РѕРґРёРЅ РјРѕСЃС‚."
 
 REFERENCE           01ROP018
 LANG_ENGLISH        "Great, let's go."
-LANG_RUSSIAN         "Отлично, пошли."
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅРѕ, РїРѕС€Р»Рё."
 
 REFERENCE           01ROP019
 LANG_ENGLISH        "The river's too wide and strong to wade across.  There's got to be another way."
-LANG_RUSSIAN         "Река слишком полноводна и широка, чтобы пересечь ее.  Должен быть другой путь."
+LANG_RUSSIAN         "Р РµРєР° СЃР»РёС€РєРѕРј РїРѕР»РЅРѕРІРѕРґРЅР° Рё С€РёСЂРѕРєР°, С‡С‚РѕР±С‹ РїРµСЂРµСЃРµС‡СЊ РµРµ.  Р”РѕР»Р¶РµРЅ Р±С‹С‚СЊ РґСЂСѓРіРѕР№ РїСѓС‚СЊ."
 
 REFERENCE           01ROP020
 NOTES               "(loud whisper)"
 LANG_ENGLISH        "Jaden, get down!  There's stormtroopers in the clearing!"
-LANG_RUSSIAN         "Джейден, ложись!  На участке штурмовики!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, Р»РѕР¶РёСЃСЊ!  РќР° СѓС‡Р°СЃС‚РєРµ С€С‚СѓСЂРјРѕРІРёРєРё!"
 
 REFERENCE           01ROP021
 LANG_ENGLISH        "Maybe you should check it out."
-LANG_RUSSIAN         "Думаю, лучше все проверить."
+LANG_RUSSIAN         "Р”СѓРјР°СЋ, Р»СѓС‡С€Рµ РІСЃРµ РїСЂРѕРІРµСЂРёС‚СЊ."
 
 REFERENCE           01ROP022
 LANG_ENGLISH        "You're the one with the lightsaber after all."
-LANG_RUSSIAN         "Кроме всего прочего, ты единственный, у кого есть лазерный меч."
+LANG_RUSSIAN         "РљСЂРѕРјРµ РІСЃРµРіРѕ РїСЂРѕС‡РµРіРѕ, С‚С‹ РµРґРёРЅСЃС‚РІРµРЅРЅС‹Р№, Сѓ РєРѕРіРѕ РµСЃС‚СЊ Р»Р°Р·РµСЂРЅС‹Р№ РјРµС‡."
 
 REFERENCE           01JAK006
 LANG_ENGLISH        "Stay here."
-LANG_RUSSIAN         "Стой здесь."
+LANG_RUSSIAN         "РЎС‚РѕР№ Р·РґРµСЃСЊ."
 
 REFERENCE           01TAA001
 NOTES               "(surprised)"
 LANG_ENGLISH        "What?"
-LANG_RUSSIAN         "Чего?"
+LANG_RUSSIAN         "Р§РµРіРѕ?"
 
 REFERENCE           01JAK007
 NOTES               "(Opens eyes)"
 LANG_ENGLISH        "Huh? What? Who are you?"
-LANG_RUSSIAN         "Ух? Чего? Кто вы?"
+LANG_RUSSIAN         "РЈС…? Р§РµРіРѕ? РљС‚Рѕ РІС‹?"
 
 REFERENCE           01KYK001
 LANG_ENGLISH        "Kyle Katarn, at your service. Welcome to a day in the life of a Jedi. "
-LANG_RUSSIAN         "Кайл Катарн, к вашим услугам. Добро пожаловать в день из жизни джедая. "
+LANG_RUSSIAN         "РљР°Р№Р» РљР°С‚Р°СЂРЅ, Рє РІР°С€РёРј СѓСЃР»СѓРіР°Рј. Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РІ РґРµРЅСЊ РёР· Р¶РёР·РЅРё РґР¶РµРґР°СЏ. "
 
 REFERENCE           01JAK008
 LANG_ENGLISH        "What happened?"
-LANG_RUSSIAN         "Что произошло?"
+LANG_RUSSIAN         "Р§С‚Рѕ РїСЂРѕРёР·РѕС€Р»Рѕ?"
 
 REFERENCE           01KYK002
 LANG_ENGLISH        "We were kind of hoping you could tell us."
-LANG_RUSSIAN         "Мы надеялись, ты нам расскажешь."
+LANG_RUSSIAN         "РњС‹ РЅР°РґРµСЏР»РёСЃСЊ, С‚С‹ РЅР°Рј СЂР°СЃСЃРєР°Р¶РµС€СЊ."
 
 REFERENCE           01ROP023
 LANG_ENGLISH        "I saw a huge flash of light and ran over to find you just lying unconscious."
-LANG_RUSSIAN         "Я видел мощную вспышку и вышел, чтобы обнаружить вас, лежащими без сознания."
+LANG_RUSSIAN         "РЇ РІРёРґРµР» РјРѕС‰РЅСѓСЋ РІСЃРїС‹С€РєСѓ Рё РІС‹С€РµР», С‡С‚РѕР±С‹ РѕР±РЅР°СЂСѓР¶РёС‚СЊ РІР°СЃ, Р»РµР¶Р°С‰РёРјРё Р±РµР· СЃРѕР·РЅР°РЅРёСЏ."
 
 REFERENCE           01LUK004
 LANG_ENGLISH        "Do you recall anything?"
-LANG_RUSSIAN         "Ты ничего не помнишь?"
+LANG_RUSSIAN         "РўС‹ РЅРёС‡РµРіРѕ РЅРµ РїРѕРјРЅРёС€СЊ?"
 
 REFERENCE           01JAK009
 LANG_ENGLISH        "I... I saw three people. One was holding some sort of scepter and it was glowing. That's all I can remember."
-LANG_RUSSIAN         "Я... Я видел трех человек. Один из них держал нечто вроде светящегося скипетра. Это все, что я могу припомнить."
+LANG_RUSSIAN         "РЇ... РЇ РІРёРґРµР» С‚СЂРµС… С‡РµР»РѕРІРµРє. РћРґРёРЅ РёР· РЅРёС… РґРµСЂР¶Р°Р» РЅРµС‡С‚Рѕ РІСЂРѕРґРµ СЃРІРµС‚СЏС‰РµРіРѕСЃСЏ СЃРєРёРїРµС‚СЂР°. Р­С‚Рѕ РІСЃРµ, С‡С‚Рѕ СЏ РјРѕРіСѓ РїСЂРёРїРѕРјРЅРёС‚СЊ."
 
 REFERENCE           01ROP024
 LANG_ENGLISH        "A scepter? That sounds bad."
-LANG_RUSSIAN         "Скипетр? Звучит очень плохо."
+LANG_RUSSIAN         "РЎРєРёРїРµС‚СЂ? Р—РІСѓС‡РёС‚ РѕС‡РµРЅСЊ РїР»РѕС…Рѕ."
 
 REFERENCE           01KYK003
 LANG_ENGLISH        "It always is."
-LANG_RUSSIAN         "Как обычно."
+LANG_RUSSIAN         "РљР°Рє РѕР±С‹С‡РЅРѕ."
 
 REFERENCE           01LUK005
 LANG_ENGLISH        "Are you able to stand?"
-LANG_RUSSIAN         "Можешь стоять на ногах?"
+LANG_RUSSIAN         "РњРѕР¶РµС€СЊ СЃС‚РѕСЏС‚СЊ РЅР° РЅРѕРіР°С…?"
 
 REFERENCE           01JAK010
 LANG_ENGLISH        "...yeah...  I'm okay."
-LANG_RUSSIAN         "...ага...  Я в норме."
+LANG_RUSSIAN         "...Р°РіР°...  РЇ РІ РЅРѕСЂРјРµ."
 
 REFERENCE           01LUK006
 NOTES               "concerned"
 LANG_ENGLISH        "I sense a disturbance in the Force."
-LANG_RUSSIAN         "Я чувствую возмущение в Силе."
+LANG_RUSSIAN         "РЇ С‡СѓРІСЃС‚РІСѓСЋ РІРѕР·РјСѓС‰РµРЅРёРµ РІ РЎРёР»Рµ."
 
 REFERENCE           01KYK004
 LANG_ENGLISH        "You always sense a disturbance in the Force. But yeah, I sense it too. It could just be residual dark side aura from this temple."
-LANG_RUSSIAN         "Ты вечно чувствуешь возмущение в Силе. Но я тоже его чувствую. Возможно, это остатки темной ауры этого храма."
+LANG_RUSSIAN         "РўС‹ РІРµС‡РЅРѕ С‡СѓРІСЃС‚РІСѓРµС€СЊ РІРѕР·РјСѓС‰РµРЅРёРµ РІ РЎРёР»Рµ. РќРѕ СЏ С‚РѕР¶Рµ РµРіРѕ С‡СѓРІСЃС‚РІСѓСЋ. Р’РѕР·РјРѕР¶РЅРѕ, СЌС‚Рѕ РѕСЃС‚Р°С‚РєРё С‚РµРјРЅРѕР№ Р°СѓСЂС‹ СЌС‚РѕРіРѕ С…СЂР°РјР°."
 
 REFERENCE           01LUK007
 LANG_ENGLISH        "Perhaps..."
-LANG_RUSSIAN         "Возможно..."
+LANG_RUSSIAN         "Р’РѕР·РјРѕР¶РЅРѕ..."
 
 REFERENCE           01LUK008
 NOTES               "(To Kyle"
 LANG_ENGLISH        "Kyle, why don't you..."
-LANG_RUSSIAN         "Кайл, почему бы тебе не..."
+LANG_RUSSIAN         "РљР°Р№Р», РїРѕС‡РµРјСѓ Р±С‹ С‚РµР±Рµ РЅРµ..."
 
 REFERENCE           01KYK005
 NOTES               "(sarcastic)"
 LANG_ENGLISH        "Stay here and investigate? I'd love to. Why don't you take the kids back home now?"
-LANG_RUSSIAN         "Остаться здесь и расследовать? Я бы с радостью. Почему бы тебе не отвезти ребят домой?"
+LANG_RUSSIAN         "РћСЃС‚Р°С‚СЊСЃСЏ Р·РґРµСЃСЊ Рё СЂР°СЃСЃР»РµРґРѕРІР°С‚СЊ? РЇ Р±С‹ СЃ СЂР°РґРѕСЃС‚СЊСЋ. РџРѕС‡РµРјСѓ Р±С‹ С‚РµР±Рµ РЅРµ РѕС‚РІРµР·С‚Рё СЂРµР±СЏС‚ РґРѕРјРѕР№?"
 
 REFERENCE           01LUK009
 LANG_ENGLISH        "Be careful Kyle."
-LANG_RUSSIAN         "Береги себя, Кайл."
+LANG_RUSSIAN         "Р‘РµСЂРµРіРё СЃРµР±СЏ, РљР°Р№Р»."
 
 REFERENCE           01LUK010
 NOTES               "(a bit louder)"
 LANG_ENGLISH        "Everyone follow me to the shuttle."
-LANG_RUSSIAN         "Всем следовать за мной в челнок."
+LANG_RUSSIAN         "Р’СЃРµРј СЃР»РµРґРѕРІР°С‚СЊ Р·Р° РјРЅРѕР№ РІ С‡РµР»РЅРѕРє."
 
 REFERENCE           01ROP025
 LANG_ENGLISH        "I think that was Luke Skywalker. I can't believe it!"
-LANG_RUSSIAN         "Думаю, это был Люк Скайуокер. Просто не верится!"
+LANG_RUSSIAN         "Р”СѓРјР°СЋ, СЌС‚Рѕ Р±С‹Р» Р›СЋРє РЎРєР°Р№СѓРѕРєРµСЂ. РџСЂРѕСЃС‚Рѕ РЅРµ РІРµСЂРёС‚СЃСЏ!"
 
 REFERENCE           01TAA002
 NOTES               "In shadows"
 LANG_ENGLISH        "Did you recover Skywalker's records?"
-LANG_RUSSIAN         "Вы вернули записи Скайуокера?"
+LANG_RUSSIAN         "Р’С‹ РІРµСЂРЅСѓР»Рё Р·Р°РїРёСЃРё РЎРєР°Р№СѓРѕРєРµСЂР°?"
 
 REFERENCE           01ALO001
 NOTES               "satisfied chuckle"
 LANG_ENGLISH        "Yes. With all the Jedi in the jungle, it was almost too easy."
-LANG_RUSSIAN         "Да. Это было не слишком сложно с джунглями, полными джедаев."
+LANG_RUSSIAN         "Р”Р°. Р­С‚Рѕ Р±С‹Р»Рѕ РЅРµ СЃР»РёС€РєРѕРј СЃР»РѕР¶РЅРѕ СЃ РґР¶СѓРЅРіР»СЏРјРё, РїРѕР»РЅС‹РјРё РґР¶РµРґР°РµРІ."
 
 REFERENCE           01TAA003
 LANG_ENGLISH        "Excellent."
-LANG_RUSSIAN         "Превосходно."
+LANG_RUSSIAN         "РџСЂРµРІРѕСЃС…РѕРґРЅРѕ."
 
 REFERENCE           09ROP004_Y1
 NOTES               "(cockily)"
 LANG_ENGLISH        "No problem."
-LANG_RUSSIAN         "Нет проблем."
+LANG_RUSSIAN         "РќРµС‚ РїСЂРѕР±Р»РµРј."
 
 REFERENCE           HINT1
 LANG_ENGLISH        "There must be a way to open this."
-LANG_RUSSIAN         "Должен быть способ открыть это."
+LANG_RUSSIAN         "Р”РѕР»Р¶РµРЅ Р±С‹С‚СЊ СЃРїРѕСЃРѕР± РѕС‚РєСЂС‹С‚СЊ СЌС‚Рѕ."
 
 
 ENDMARKER

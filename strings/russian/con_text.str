@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,39 +15,39 @@ FILENOTES           "Text printed at console"
 
 REFERENCE           DUMP_USAGE
 LANG_ENGLISH        "usage: condump <filename>"
-LANG_RUSSIAN         "применение: condump <имя файла>"
+LANG_RUSSIAN         "РїСЂРёРјРµРЅРµРЅРёРµ: condump <РёРјСЏ С„Р°Р№Р»Р°>"
 
 REFERENCE           NEED_CD
 LANG_ENGLISH        "Disk 1 not in drive"
-LANG_RUSSIAN         "Диск 1 отсутствует"
+LANG_RUSSIAN         "Р”РёСЃРє 1 РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚"
 
 REFERENCE           NO_DEMO_SELECTED
 LANG_ENGLISH        "No demo selected."
-LANG_RUSSIAN         "Демонстрационный ролик не выбран."
+LANG_RUSSIAN         "Р”РµРјРѕРЅСЃС‚СЂР°С†РёРѕРЅРЅС‹Р№ СЂРѕР»РёРє РЅРµ РІС‹Р±СЂР°РЅ."
 
 REFERENCE           FAILED_MEMTEST
 LANG_ENGLISH        "Your machine failed to allocate %dMB in a memory test, which may mean you'll have problems running this game all the way through.\n\nContinue anyway?"
-LANG_RUSSIAN         "Ваша машина не смогла выделить %dMB в ходе теста памяти, что может означать проблемы при запуске игры.\n\nПродолжить?"
+LANG_RUSSIAN         "Р’Р°С€Р° РјР°С€РёРЅР° РЅРµ СЃРјРѕРіР»Р° РІС‹РґРµР»РёС‚СЊ %dMB РІ С…РѕРґРµ С‚РµСЃС‚Р° РїР°РјСЏС‚Рё, С‡С‚Рѕ РјРѕР¶РµС‚ РѕР·РЅР°С‡Р°С‚СЊ РїСЂРѕР±Р»РµРјС‹ РїСЂРё Р·Р°РїСѓСЃРєРµ РёРіСЂС‹.\n\nРџСЂРѕРґРѕР»Р¶РёС‚СЊ?"
 
 REFERENCE           INSUFFICIENT_MEMORY
 LANG_ENGLISH        "Insufficient memory to run this game!\n"
-LANG_RUSSIAN         "Для запуска этой игры не хватает памяти!\n"
+LANG_RUSSIAN         "Р”Р»СЏ Р·Р°РїСѓСЃРєР° СЌС‚РѕР№ РёРіСЂС‹ РЅРµ С…РІР°С‚Р°РµС‚ РїР°РјСЏС‚Рё!\n"
 
 REFERENCE           LOW_DESKTOP_COLOUR_DEPTH
 LANG_ENGLISH        "Low Desktop Color Depth"
-LANG_RUSSIAN         "Низкая глубина цвета рабочего стола"
+LANG_RUSSIAN         "РќРёР·РєР°СЏ РіР»СѓР±РёРЅР° С†РІРµС‚Р° СЂР°Р±РѕС‡РµРіРѕ СЃС‚РѕР»Р°"
 
 REFERENCE           TRY_ANYWAY
 LANG_ENGLISH        "It is highly unlikely that a correct windowed\ndisplay can be initialized with the current\ndesktop display depth.  Select 'OK' to try\nanyway.  Select 'Cancel' to try a fullscreen\nmode instead."
-LANG_RUSSIAN         "Весьма маловероятно, что правильное\nотображение в оконном режиме сможет инициализироваться при текущейt\nглубине цвета рабочего стола.  Выберите 'ОК', чтобы произвести\nпопытку.  Выберите 'Отмена', чтобы вместо этого перейти к\nполноэкранному режиму."
+LANG_RUSSIAN         "Р’РµСЃСЊРјР° РјР°Р»РѕРІРµСЂРѕСЏС‚РЅРѕ, С‡С‚Рѕ РїСЂР°РІРёР»СЊРЅРѕРµ\nРѕС‚РѕР±СЂР°Р¶РµРЅРёРµ РІ РѕРєРѕРЅРЅРѕРј СЂРµР¶РёРјРµ СЃРјРѕР¶РµС‚ РёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°С‚СЊСЃСЏ РїСЂРё С‚РµРєСѓС‰РµР№t\nРіР»СѓР±РёРЅРµ С†РІРµС‚Р° СЂР°Р±РѕС‡РµРіРѕ СЃС‚РѕР»Р°.  Р’С‹Р±РµСЂРёС‚Рµ 'РћРљ', С‡С‚РѕР±С‹ РїСЂРѕРёР·РІРµСЃС‚Рё\nРїРѕРїС‹С‚РєСѓ.  Р’С‹Р±РµСЂРёС‚Рµ 'РћС‚РјРµРЅР°', С‡С‚РѕР±С‹ РІРјРµСЃС‚Рѕ СЌС‚РѕРіРѕ РїРµСЂРµР№С‚Рё Рє\nРїРѕР»РЅРѕСЌРєСЂР°РЅРЅРѕРјСѓ СЂРµР¶РёРјСѓ."
 
 REFERENCE           SKIPPING
 LANG_ENGLISH        "Skipping cinematic...\n"
-LANG_RUSSIAN         "Пропуск кинематографии...\n"
+LANG_RUSSIAN         "РџСЂРѕРїСѓСЃРє РєРёРЅРµРјР°С‚РѕРіСЂР°С„РёРё...\n"
 
 REFERENCE           SAVING_GAME
 LANG_ENGLISH        "Saving game"
-LANG_RUSSIAN         "Запись игры"
+LANG_RUSSIAN         "Р—Р°РїРёСЃСЊ РёРіСЂС‹"
 
 
 ENDMARKER

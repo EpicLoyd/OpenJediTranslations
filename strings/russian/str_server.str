@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,7 +15,7 @@ FILENOTES           "Server strings"
 
 REFERENCE           SERVER_NOT_RUNNING
 LANG_ENGLISH        "Server is not running\n"
-LANG_RUSSIAN         "Сервер не работает\n"
+LANG_RUSSIAN         "РЎРµСЂРІРµСЂ РЅРµ СЂР°Р±РѕС‚Р°РµС‚\n"
 
 
 ENDMARKER

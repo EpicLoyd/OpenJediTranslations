@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,42 +15,42 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           22LUK001
 LANG_ENGLISH        "That cloaking device is too powerful to fall into the wrong hands, cult or otherwise.  It may be better to just destroy it."
-LANG_RUSSIAN         "Это маскирующее устройство слишком важно, чтобы попадать в неправильные руки, например, к культу.  Лучше просто уничтожить его."
+LANG_RUSSIAN         "Р­С‚Рѕ РјР°СЃРєРёСЂСѓСЋС‰РµРµ СѓСЃС‚СЂРѕР№СЃС‚РІРѕ СЃР»РёС€РєРѕРј РІР°Р¶РЅРѕ, С‡С‚РѕР±С‹ РїРѕРїР°РґР°С‚СЊ РІ РЅРµРїСЂР°РІРёР»СЊРЅС‹Рµ СЂСѓРєРё, РЅР°РїСЂРёРјРµСЂ, Рє РєСѓР»СЊС‚Сѓ.  Р›СѓС‡С€Рµ РїСЂРѕСЃС‚Рѕ СѓРЅРёС‡С‚РѕР¶РёС‚СЊ РµРіРѕ."
 
 REFERENCE           22JAK001
 NOTES               "(to himself)"
 LANG_ENGLISH        "Looks like no one's home.  Guess I should get up to the top and disable that cloaking device."
-LANG_RUSSIAN         "Похоже, никого нет дома.  Похоже, мне нужно подняться наверх и отключить маскирующее устройство.."
+LANG_RUSSIAN         "РџРѕС…РѕР¶Рµ, РЅРёРєРѕРіРѕ РЅРµС‚ РґРѕРјР°.  РџРѕС…РѕР¶Рµ, РјРЅРµ РЅСѓР¶РЅРѕ РїРѕРґРЅСЏС‚СЊСЃСЏ РЅР°РІРµСЂС… Рё РѕС‚РєР»СЋС‡РёС‚СЊ РјР°СЃРєРёСЂСѓСЋС‰РµРµ СѓСЃС‚СЂРѕР№СЃС‚РІРѕ.."
 
 REFERENCE           22JAK002
 NOTES               "(to himself)"
 LANG_ENGLISH        "Imperials!  Now I have to destroy that thing."
-LANG_RUSSIAN         "Имперцы!  Теперь мне придется уничтожить эту штуку."
+LANG_RUSSIAN         "РРјРїРµСЂС†С‹!  РўРµРїРµСЂСЊ РјРЅРµ РїСЂРёРґРµС‚СЃСЏ СѓРЅРёС‡С‚РѕР¶РёС‚СЊ СЌС‚Сѓ С€С‚СѓРєСѓ."
 
 REFERENCE           22JAK003
 NOTES               "(to himself)"
 LANG_ENGLISH        "Maybe I should shut it down first so the explosion doesn't take out the whole tower."
-LANG_RUSSIAN         "Возможно, стоит сначала отключить его, чтобы взрыв не разнес всю башню."
+LANG_RUSSIAN         "Р’РѕР·РјРѕР¶РЅРѕ, СЃС‚РѕРёС‚ СЃРЅР°С‡Р°Р»Р° РѕС‚РєР»СЋС‡РёС‚СЊ РµРіРѕ, С‡С‚РѕР±С‹ РІР·СЂС‹РІ РЅРµ СЂР°Р·РЅРµСЃ РІСЃСЋ Р±Р°С€РЅСЋ."
 
 REFERENCE           22JAK004
 NOTES               "(Pronounced 'NO-gree') (to himself)"
 LANG_ENGLISH        "Noghri?  How did they get here?"
-LANG_RUSSIAN         "Ногри?  Как они сюда попали?"
+LANG_RUSSIAN         "РќРѕРіСЂРё?  РљР°Рє РѕРЅРё СЃСЋРґР° РїРѕРїР°Р»Рё?"
 
 REFERENCE           22JAK005
 NOTES               "(to himself)"
 LANG_ENGLISH        "Okay, the power's down."
-LANG_RUSSIAN         "О'кей, все отключено."
+LANG_RUSSIAN         "Рћ'РєРµР№, РІСЃРµ РѕС‚РєР»СЋС‡РµРЅРѕ."
 
 REFERENCE           22JAK006
 NOTES               "(to himself, thinking)"
 LANG_ENGLISH        "Maybe if I cut these pipes..."
-LANG_RUSSIAN         "Может, если перерезать эти трубы..."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, РµСЃР»Рё РїРµСЂРµСЂРµР·Р°С‚СЊ СЌС‚Рё С‚СЂСѓР±С‹..."
 
 REFERENCE           22JAK007
 NOTES               "(to himself, noticing det packs)"
 LANG_ENGLISH        "Maybe I can use these old det packs..."
-LANG_RUSSIAN         "Может, мне использовать эти старые взрывпакеты..."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, РјРЅРµ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЌС‚Рё СЃС‚Р°СЂС‹Рµ РІР·СЂС‹РІРїР°РєРµС‚С‹..."
 
 
 ENDMARKER

@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,101 +16,101 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           10SO1001
 NOTES               "(use for snowtrooper)"
 LANG_ENGLISH        "Anything to report?"
-LANG_RUSSIAN         "Есть о чем докладывать?"
+LANG_RUSSIAN         "Р•СЃС‚СЊ Рѕ С‡РµРј РґРѕРєР»Р°РґС‹РІР°С‚СЊ?"
 
 REFERENCE           10ST1001
 NOTES               "(use for snowtrooper)"
 LANG_ENGLISH        "No, sir."
-LANG_RUSSIAN         "Нет, сэр."
+LANG_RUSSIAN         "РќРµС‚, СЃСЌСЂ."
 
 REFERENCE           10SO1002
 NOTES               "(nods)  (use for snowtrooper)"
 LANG_ENGLISH        "Keep sharp.  We've lost contact with the perimeter patrols.  Could be the storm... or Wampas.  You don't want one of those things surprising you."
-LANG_RUSSIAN         "Не теряйте бдительности.  Мы потеряли связь с передовыми патрулями.  Может, дело в буре... или вампах.  Ни то, ни другое не должно оказаться для вас неожиданностью."
+LANG_RUSSIAN         "РќРµ С‚РµСЂСЏР№С‚Рµ Р±РґРёС‚РµР»СЊРЅРѕСЃС‚Рё.  РњС‹ РїРѕС‚РµСЂСЏР»Рё СЃРІСЏР·СЊ СЃ РїРµСЂРµРґРѕРІС‹РјРё РїР°С‚СЂСѓР»СЏРјРё.  РњРѕР¶РµС‚, РґРµР»Рѕ РІ Р±СѓСЂРµ... РёР»Рё РІР°РјРїР°С….  РќРё С‚Рѕ, РЅРё РґСЂСѓРіРѕРµ РЅРµ РґРѕР»Р¶РЅРѕ РѕРєР°Р·Р°С‚СЊСЃСЏ РґР»СЏ РІР°СЃ РЅРµРѕР¶РёРґР°РЅРЅРѕСЃС‚СЊСЋ."
 
 REFERENCE           10ST2001
 NOTES               "(use for snowtrooper)"
 LANG_ENGLISH        "I'm glad we're guarding this hole and not the command center."
-LANG_RUSSIAN         "Я рад, что мы охраняем эту дыру, а не командный центр."
+LANG_RUSSIAN         "РЇ СЂР°Рґ, С‡С‚Рѕ РјС‹ РѕС…СЂР°РЅСЏРµРј СЌС‚Сѓ РґС‹СЂСѓ, Р° РЅРµ РєРѕРјР°РЅРґРЅС‹Р№ С†РµРЅС‚СЂ."
 
 REFERENCE           10ST1002
 NOTES               "(use for snowtrooper)"
 LANG_ENGLISH        "Why?  It's probably nice and warm in there."
-LANG_RUSSIAN         "Почему?  Там, наверно, тепло и уютно."
+LANG_RUSSIAN         "РџРѕС‡РµРјСѓ?  РўР°Рј, РЅР°РІРµСЂРЅРѕ, С‚РµРїР»Рѕ Рё СѓСЋС‚РЅРѕ."
 
 REFERENCE           10ST2002
 NOTES               "(use for snowtrooper)"
 LANG_ENGLISH        "I don't want to be anywhere near those Sith fanatics. They give me the creeps."
-LANG_RUSSIAN         "Я не хочу и близко подходить к этим фанатикам Сита. Они наводят на меня ужас."
+LANG_RUSSIAN         "РЇ РЅРµ С…РѕС‡Сѓ Рё Р±Р»РёР·РєРѕ РїРѕРґС…РѕРґРёС‚СЊ Рє СЌС‚РёРј С„Р°РЅР°С‚РёРєР°Рј РЎРёС‚Р°. РћРЅРё РЅР°РІРѕРґСЏС‚ РЅР° РјРµРЅСЏ СѓР¶Р°СЃ."
 
 REFERENCE           10ST1003
 NOTES               "(use for snowtrooper)"
 LANG_ENGLISH        "Yeah, I know what you mean."
-LANG_RUSSIAN         "Ага, я понимаю, о чем ты."
+LANG_RUSSIAN         "РђРіР°, СЏ РїРѕРЅРёРјР°СЋ, Рѕ С‡РµРј С‚С‹."
 
 REFERENCE           10JAK001
 LANG_ENGLISH        "I wonder if there's anything useful in here..."
-LANG_RUSSIAN         "Интересно, здесь есть хоть что-то полезное..."
+LANG_RUSSIAN         "РРЅС‚РµСЂРµСЃРЅРѕ, Р·РґРµСЃСЊ РµСЃС‚СЊ С…РѕС‚СЊ С‡С‚Рѕ-С‚Рѕ РїРѕР»РµР·РЅРѕРµ..."
 
 REFERENCE           10JAK002
 LANG_ENGLISH        "Hmmph, won't be getting in this way.  There's got to be another way."
-LANG_RUSSIAN         "Хмммфф, так мы никуда не попадем.  Должен быть другой путь."
+LANG_RUSSIAN         "РҐРјРјРјС„С„, С‚Р°Рє РјС‹ РЅРёРєСѓРґР° РЅРµ РїРѕРїР°РґРµРј.  Р”РѕР»Р¶РµРЅ Р±С‹С‚СЊ РґСЂСѓРіРѕР№ РїСѓС‚СЊ."
 
 REFERENCE           10CU1001
 NOTES               "(talking into comlink)"
 LANG_ENGLISH        "Command Center to Alora."
-LANG_RUSSIAN         "Командный центр Алора."
+LANG_RUSSIAN         "РљРѕРјР°РЅРґРЅС‹Р№ С†РµРЅС‚СЂ РђР»РѕСЂР°."
 
 REFERENCE           10ALO001
 NOTES               "(via comm)"
 LANG_ENGLISH        "Alora here."
-LANG_RUSSIAN         "Алора на связи."
+LANG_RUSSIAN         "РђР»РѕСЂР° РЅР° СЃРІСЏР·Рё."
 
 REFERENCE           10CU1002
 NOTES               "(talking into comlink"
 LANG_ENGLISH        "We've just finished downloading the data.  The Rebels must have erased everything during the evacuation.  Luckily for us, the computer kept logging their flight information."
-LANG_RUSSIAN         "Мы только что закончили загрузку данных.  Похоже, во время эвакуации повстанцы стерли практически все.  К счастью для нас, компьютер регистрировал информацию о полетах."
+LANG_RUSSIAN         "РњС‹ С‚РѕР»СЊРєРѕ С‡С‚Рѕ Р·Р°РєРѕРЅС‡РёР»Рё Р·Р°РіСЂСѓР·РєСѓ РґР°РЅРЅС‹С….  РџРѕС…РѕР¶Рµ, РІРѕ РІСЂРµРјСЏ СЌРІР°РєСѓР°С†РёРё РїРѕРІСЃС‚Р°РЅС†С‹ СЃС‚РµСЂР»Рё РїСЂР°РєС‚РёС‡РµСЃРєРё РІСЃРµ.  Рљ СЃС‡Р°СЃС‚СЊСЋ РґР»СЏ РЅР°СЃ, РєРѕРјРїСЊСЋС‚РµСЂ СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°Р» РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ РїРѕР»РµС‚Р°С…."
 
 REFERENCE           10ALO002
 NOTES               "(via comm)"
 LANG_ENGLISH        "And...?"
-LANG_RUSSIAN         "И...?"
+LANG_RUSSIAN         "Р...?"
 
 REFERENCE           10CU1003
 NOTES               "(talking into comlink"
 LANG_ENGLISH        "And we found Rogue Leader's flight trajectory when he left Hoth.  From it, we've been able to determine that Skywalker went to Dagobah."
-LANG_RUSSIAN         "И мы нашли траекторию полета лидера эскадрона Жулик, когда он покидал Хот.  Так мы смогли определить, что Скайуокер летел на Дагобар."
+LANG_RUSSIAN         "Р РјС‹ РЅР°С€Р»Рё С‚СЂР°РµРєС‚РѕСЂРёСЋ РїРѕР»РµС‚Р° Р»РёРґРµСЂР° СЌСЃРєР°РґСЂРѕРЅР° Р–СѓР»РёРє, РєРѕРіРґР° РѕРЅ РїРѕРєРёРґР°Р» РҐРѕС‚.  РўР°Рє РјС‹ СЃРјРѕРіР»Рё РѕРїСЂРµРґРµР»РёС‚СЊ, С‡С‚Рѕ РЎРєР°Р№СѓРѕРєРµСЂ Р»РµС‚РµР» РЅР° Р”Р°РіРѕР±Р°СЂ."
 
 REFERENCE           10ALO003
 NOTES               "(via comm)"
 LANG_ENGLISH        "Dagobah?  That sneaky little Jedi."
-LANG_RUSSIAN         "Дагобар?  Этот хитрый маленький джедай."
+LANG_RUSSIAN         "Р”Р°РіРѕР±Р°СЂ?  Р­С‚РѕС‚ С…РёС‚СЂС‹Р№ РјР°Р»РµРЅСЊРєРёР№ РґР¶РµРґР°Р№."
 
 REFERENCE           10JAK003
 LANG_ENGLISH        "This isn't good.  I'd better find this Alora."
-LANG_RUSSIAN         "Это плохо.  Лучше найти эту Алору."
+LANG_RUSSIAN         "Р­С‚Рѕ РїР»РѕС…Рѕ.  Р›СѓС‡С€Рµ РЅР°Р№С‚Рё СЌС‚Сѓ РђР»РѕСЂСѓ."
 
 REFERENCE           10ALO004
 LANG_ENGLISH        "Yes, Master.  Dagobah.  Skywalker didn't mention it in his journals; he must have been trying to protect something."
-LANG_RUSSIAN         "Да, хозяин.  Дагобар.  Скайуокер не упоминал о нем в своих журналах, должно быть, он пытался сохранить что-то в тайне."
+LANG_RUSSIAN         "Р”Р°, С…РѕР·СЏРёРЅ.  Р”Р°РіРѕР±Р°СЂ.  РЎРєР°Р№СѓРѕРєРµСЂ РЅРµ СѓРїРѕРјРёРЅР°Р» Рѕ РЅРµРј РІ СЃРІРѕРёС… Р¶СѓСЂРЅР°Р»Р°С…, РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ, РѕРЅ РїС‹С‚Р°Р»СЃСЏ СЃРѕС…СЂР°РЅРёС‚СЊ С‡С‚Рѕ-С‚Рѕ РІ С‚Р°Р№РЅРµ."
 
 REFERENCE           10TAA001
 NOTES               "(pleased) HOLO or via comm"
 LANG_ENGLISH        "Well done, my apprentice.  Meet me there."
-LANG_RUSSIAN         "Неплохо, мой ученик.  Встретимся тут."
+LANG_RUSSIAN         "РќРµРїР»РѕС…Рѕ, РјРѕР№ СѓС‡РµРЅРёРє.  Р’СЃС‚СЂРµС‚РёРјСЃСЏ С‚СѓС‚."
 
 REFERENCE           10ALO005
 LANG_ENGLISH        "Ah.  You must be the saber-wielding troublemaker who neutralized our perimeter guard.  Are the Jedi stretched so thin that Skywalker sends children to battle the Disciples of Ragnos?"
-LANG_RUSSIAN         "А.  Похоже, ты тот комок неприятностей с мечом, который нейтрализовал нашу охрану на периметре.  Разве джедаи так измельчали, что Скайуокер посылает на бой с последователями Рагноса детишек?"
+LANG_RUSSIAN         "Рђ.  РџРѕС…РѕР¶Рµ, С‚С‹ С‚РѕС‚ РєРѕРјРѕРє РЅРµРїСЂРёСЏС‚РЅРѕСЃС‚РµР№ СЃ РјРµС‡РѕРј, РєРѕС‚РѕСЂС‹Р№ РЅРµР№С‚СЂР°Р»РёР·РѕРІР°Р» РЅР°С€Сѓ РѕС…СЂР°РЅСѓ РЅР° РїРµСЂРёРјРµС‚СЂРµ.  Р Р°Р·РІРµ РґР¶РµРґР°Рё С‚Р°Рє РёР·РјРµР»СЊС‡Р°Р»Рё, С‡С‚Рѕ РЎРєР°Р№СѓРѕРєРµСЂ РїРѕСЃС‹Р»Р°РµС‚ РЅР° Р±РѕР№ СЃ РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЏРјРё Р Р°РіРЅРѕСЃР° РґРµС‚РёС€РµРє?"
 
 REFERENCE           10ALO006
 NOTES               "(Pause)"
 LANG_ENGLISH        "We'll meet again, whelp."
-LANG_RUSSIAN         "Мы еще встретимся, щенок."
+LANG_RUSSIAN         "РњС‹ РµС‰Рµ РІСЃС‚СЂРµС‚РёРјСЃСЏ, С‰РµРЅРѕРє."
 
 REFERENCE           10JAK004
 LANG_ENGLISH        "I can't wait."
-LANG_RUSSIAN         "Не могу дождаться."
+LANG_RUSSIAN         "РќРµ РјРѕРіСѓ РґРѕР¶РґР°С‚СЊСЃСЏ."
 
 
 ENDMARKER

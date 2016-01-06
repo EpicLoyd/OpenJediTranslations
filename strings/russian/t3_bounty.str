@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,49 +15,49 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           24KYK001
 LANG_ENGLISH        "This should be easy.  Just plant some charges, watch the fireworks, and come home.  What can go wrong?"
-LANG_RUSSIAN         "Это будет не сложно.  Просто поставить заряды, посмотреть на фейерверк и лететь домой.  Что может пойти не так?"
+LANG_RUSSIAN         "Р­С‚Рѕ Р±СѓРґРµС‚ РЅРµ СЃР»РѕР¶РЅРѕ.  РџСЂРѕСЃС‚Рѕ РїРѕСЃС‚Р°РІРёС‚СЊ Р·Р°СЂСЏРґС‹, РїРѕСЃРјРѕС‚СЂРµС‚СЊ РЅР° С„РµР№РµСЂРІРµСЂРє Рё Р»РµС‚РµС‚СЊ РґРѕРјРѕР№.  Р§С‚Рѕ РјРѕР¶РµС‚ РїРѕР№С‚Рё РЅРµ С‚Р°Рє?"
 
 REFERENCE           24JAK001
 NOTES               "(to himself, shrugging at how easy it was to find it)"
 LANG_ENGLISH        "Hunh, there's some of the weapons."
-LANG_RUSSIAN         "Фухх, тут есть оружие."
+LANG_RUSSIAN         "Р¤СѓС…С…, С‚СѓС‚ РµСЃС‚СЊ РѕСЂСѓР¶РёРµ."
 
 REFERENCE           24JAK002
 NOTES               "(starstruck and scared at the same time)"
 LANG_ENGLISH        "Boba Fett!"
-LANG_RUSSIAN         "Боба Фетт!"
+LANG_RUSSIAN         "Р‘РѕР±Р° Р¤РµС‚С‚!"
 
 REFERENCE           24BOF001
 LANG_ENGLISH        "This doesn't concern you, Jedi.  Just walk away."
-LANG_RUSSIAN         "Это тебя не касается, джедай.  Просто уходи."
+LANG_RUSSIAN         "Р­С‚Рѕ С‚РµР±СЏ РЅРµ РєР°СЃР°РµС‚СЃСЏ, РґР¶РµРґР°Р№.  РџСЂРѕСЃС‚Рѕ СѓС…РѕРґРё."
 
 REFERENCE           24JAK003
 LANG_ENGLISH        "Look, I can't do that..."
-LANG_RUSSIAN         "Послушай, я этого сделать не могу..."
+LANG_RUSSIAN         "РџРѕСЃР»СѓС€Р°Р№, СЏ СЌС‚РѕРіРѕ СЃРґРµР»Р°С‚СЊ РЅРµ РјРѕРіСѓ..."
 
 REFERENCE           24JAK004
 NOTES               "(to himself, mockingly)"
 LANG_ENGLISH        "What can go wrong?"
-LANG_RUSSIAN         "Что может пойти не так?"
+LANG_RUSSIAN         "Р§С‚Рѕ РјРѕР¶РµС‚ РїРѕР№С‚Рё РЅРµ С‚Р°Рє?"
 
 REFERENCE           24JAK005
 NOTES               "(to himself, during combat)"
 LANG_ENGLISH        "Just my luck.  Boba Fett."
-LANG_RUSSIAN         "Как всегда.  Боба Фетт."
+LANG_RUSSIAN         "РљР°Рє РІСЃРµРіРґР°.  Р‘РѕР±Р° Р¤РµС‚С‚."
 
 REFERENCE           24JAK006
 NOTES               "(to himself, during combat)"
 LANG_ENGLISH        "How many gadgets does he have in that suit?"
-LANG_RUSSIAN         "Сколько у него в этом костюме разных устройств?"
+LANG_RUSSIAN         "РЎРєРѕР»СЊРєРѕ Сѓ РЅРµРіРѕ РІ СЌС‚РѕРј РєРѕСЃС‚СЋРјРµ СЂР°Р·РЅС‹С… СѓСЃС‚СЂРѕР№СЃС‚РІ?"
 
 REFERENCE           24JAK007
 NOTES               "(yelling to Boba Fett during combat)"
 LANG_ENGLISH        "Can't we talk about this?!"
-LANG_RUSSIAN         "Мы можем об этом поговорить?!"
+LANG_RUSSIAN         "РњС‹ РјРѕР¶РµРј РѕР± СЌС‚РѕРј РїРѕРіРѕРІРѕСЂРёС‚СЊ?!"
 
 REFERENCE           24BOF002
 LANG_ENGLISH        "No bounties on you.  A shame."
-LANG_RUSSIAN         "Для тебя никаких поблажек.  Позор."
+LANG_RUSSIAN         "Р”Р»СЏ С‚РµР±СЏ РЅРёРєР°РєРёС… РїРѕР±Р»Р°Р¶РµРє.  РџРѕР·РѕСЂ."
 
 
 ENDMARKER

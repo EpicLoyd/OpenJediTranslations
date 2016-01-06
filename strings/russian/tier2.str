@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,27 +15,27 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           7
 LANG_ENGLISH        "Master Skywalker and Master Katarn have left the Academy.  I have been instructed to provide you with a set of possible missions."
-LANG_RUSSIAN         "Мастер Скайуокер и мастер Катарн покинули академию.  Я получил приказ поручить тебе несколько возможных заданий."
+LANG_RUSSIAN         "РњР°СЃС‚РµСЂ РЎРєР°Р№СѓРѕРєРµСЂ Рё РјР°СЃС‚РµСЂ РљР°С‚Р°СЂРЅ РїРѕРєРёРЅСѓР»Рё Р°РєР°РґРµРјРёСЋ.  РЇ РїРѕР»СѓС‡РёР» РїСЂРёРєР°Р· РїРѕСЂСѓС‡РёС‚СЊ С‚РµР±Рµ РЅРµСЃРєРѕР»СЊРєРѕ РІРѕР·РјРѕР¶РЅС‹С… Р·Р°РґР°РЅРёР№."
 
 REFERENCE           8
 LANG_ENGLISH        "Master Skywalker and Master Katarn have not yet returned from their respective missions."
-LANG_RUSSIAN         "Мастер Скайуокер и мастер Катарн еще не вернулись с задания."
+LANG_RUSSIAN         "РњР°СЃС‚РµСЂ РЎРєР°Р№СѓРѕРєРµСЂ Рё РјР°СЃС‚РµСЂ РљР°С‚Р°СЂРЅ РµС‰Рµ РЅРµ РІРµСЂРЅСѓР»РёСЃСЊ СЃ Р·Р°РґР°РЅРёСЏ."
 
 REFERENCE           9
 LANG_ENGLISH        "Hey, Jaden.  I'm not sure if Luke's discovered anything on Dagobah, but I found out that Rosh has been captured.  I tried to find out where they've taken him, but those blasted Sith cultists are covering their tracks pretty well."
-LANG_RUSSIAN         "Эй, Джейден.  Я не уверен, нашел ли Люк на Дагобаре что-либо, но я узнал, что Рош попал в плен.  Я пытался узнать, куда его забрали, но эти чертовы последователи культа Сита очень хорошо заметают следы."
+LANG_RUSSIAN         "Р­Р№, Р”Р¶РµР№РґРµРЅ.  РЇ РЅРµ СѓРІРµСЂРµРЅ, РЅР°С€РµР» Р»Рё Р›СЋРє РЅР° Р”Р°РіРѕР±Р°СЂРµ С‡С‚Рѕ-Р»РёР±Рѕ, РЅРѕ СЏ СѓР·РЅР°Р», С‡С‚Рѕ Р РѕС€ РїРѕРїР°Р» РІ РїР»РµРЅ.  РЇ РїС‹С‚Р°Р»СЃСЏ СѓР·РЅР°С‚СЊ, РєСѓРґР° РµРіРѕ Р·Р°Р±СЂР°Р»Рё, РЅРѕ СЌС‚Рё С‡РµСЂС‚РѕРІС‹ РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё РєСѓР»СЊС‚Р° РЎРёС‚Р° РѕС‡РµРЅСЊ С…РѕСЂРѕС€Рѕ Р·Р°РјРµС‚Р°СЋС‚ СЃР»РµРґС‹."
 
 REFERENCE           10
 LANG_ENGLISH        "Jaden, I learned that some Disciples of Ragnos were on Dagobah. They siphoned the dark Force energy from the cave there.  "
-LANG_RUSSIAN         "Джейден, я узнал, что какие-то последователи Рагноса были на Дагобаре. Из местной пещеры они забрали темную энергию Силы.  "
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЏ СѓР·РЅР°Р», С‡С‚Рѕ РєР°РєРёРµ-С‚Рѕ РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё Р Р°РіРЅРѕСЃР° Р±С‹Р»Рё РЅР° Р”Р°РіРѕР±Р°СЂРµ. РР· РјРµСЃС‚РЅРѕР№ РїРµС‰РµСЂС‹ РѕРЅРё Р·Р°Р±СЂР°Р»Рё С‚РµРјРЅСѓСЋ СЌРЅРµСЂРіРёСЋ РЎРёР»С‹.  "
 
 REFERENCE           11
 LANG_ENGLISH        "Luke's coming up with a plan for tracking down the Disciples of Ragnos  but it may take some time.  If you want, you can take one more mission.  Otherwise, meet us in the audience chamber."
-LANG_RUSSIAN         "Люк готовит план выслеживания последователей Рагноса, но это замет некоторое время.  Если хочешь, можешь взяться еще за одно задание.  В противном случае, встретимся в общем зале. "
+LANG_RUSSIAN         "Р›СЋРє РіРѕС‚РѕРІРёС‚ РїР»Р°РЅ РІС‹СЃР»РµР¶РёРІР°РЅРёСЏ РїРѕСЃР»РµРґРѕРІР°С‚РµР»РµР№ Р Р°РіРЅРѕСЃР°, РЅРѕ СЌС‚Рѕ Р·Р°РјРµС‚ РЅРµРєРѕС‚РѕСЂРѕРµ РІСЂРµРјСЏ.  Р•СЃР»Рё С…РѕС‡РµС€СЊ, РјРѕР¶РµС€СЊ РІР·СЏС‚СЊСЃСЏ РµС‰Рµ Р·Р° РѕРґРЅРѕ Р·Р°РґР°РЅРёРµ.  Р’ РїСЂРѕС‚РёРІРЅРѕРј СЃР»СѓС‡Р°Рµ, РІСЃС‚СЂРµС‚РёРјСЃСЏ РІ РѕР±С‰РµРј Р·Р°Р»Рµ. "
 
 REFERENCE           12
 LANG_ENGLISH        "Luke's ready to present his plan to find the cult leaders.  Get to the audience chamber."
-LANG_RUSSIAN         "Люк уже готов представить свой план поиска лидеров культа.  Направляйся в общий зал."
+LANG_RUSSIAN         "Р›СЋРє СѓР¶Рµ РіРѕС‚РѕРІ РїСЂРµРґСЃС‚Р°РІРёС‚СЊ СЃРІРѕР№ РїР»Р°РЅ РїРѕРёСЃРєР° Р»РёРґРµСЂРѕРІ РєСѓР»СЊС‚Р°.  РќР°РїСЂР°РІР»СЏР№СЃСЏ РІ РѕР±С‰РёР№ Р·Р°Р»."
 
 
 ENDMARKER

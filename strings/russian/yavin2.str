@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,206 +16,206 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           02KYK001
 NOTES               "in a by the book tone"
 LANG_ENGLISH        "Ahem. This is one of the many training grounds here at the Academy. I'm going to put you two in separate courses. When you're ready, Jaden, go through that door."
-LANG_RUSSIAN         "Кхм. В академии много тренировочных полигонов. Я назначу вам разные курсы подготовки. Когда будешь готов, Джейден, выходи через эту дверь."
+LANG_RUSSIAN         "РљС…Рј. Р’ Р°РєР°РґРµРјРёРё РјРЅРѕРіРѕ С‚СЂРµРЅРёСЂРѕРІРѕС‡РЅС‹С… РїРѕР»РёРіРѕРЅРѕРІ. РЇ РЅР°Р·РЅР°С‡Сѓ РІР°Рј СЂР°Р·РЅС‹Рµ РєСѓСЂСЃС‹ РїРѕРґРіРѕС‚РѕРІРєРё. РљРѕРіРґР° Р±СѓРґРµС€СЊ РіРѕС‚РѕРІ, Р”Р¶РµР№РґРµРЅ, РІС‹С…РѕРґРё С‡РµСЂРµР· СЌС‚Сѓ РґРІРµСЂСЊ."
 
 REFERENCE           02KYK002
 NOTES               "to Rosh"
 LANG_ENGLISH        "Rosh, follow me."
-LANG_RUSSIAN         "Рош, за мной."
+LANG_RUSSIAN         "Р РѕС€, Р·Р° РјРЅРѕР№."
 
 REFERENCE           02KYK003
 LANG_ENGLISH        "This course will familiarize you with your core Force abilities. These are powers that every Force user has. As you progress in your training, you will learn new abilities. Both the light and dark sides will be open to you. Remember, abilities are not inherently good or evil. It's how you use them. Every Jedi is naturally stronger in different areas of the Force, and it will be up to you to decide what to focus on."
-LANG_RUSSIAN         "Этот курс ознакомит вас с врожденными способностями в Силе. Это возможности, которыми обладает любое существо, использующее Силу. По ходу обучения ты будешь учиться новым способностям.. Тебе будут открыты и светлая, и темная стороны. Запомни, способности не несут ни зла, ни добра. Все зависит от того, как их использовать. Каждый джедай с рождения силен в какой-то из сфер действия Силы, тебе решать, на чем ты будешь концентрировать свои усилия."
+LANG_RUSSIAN         "Р­С‚РѕС‚ РєСѓСЂСЃ РѕР·РЅР°РєРѕРјРёС‚ РІР°СЃ СЃ РІСЂРѕР¶РґРµРЅРЅС‹РјРё СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЏРјРё РІ РЎРёР»Рµ. Р­С‚Рѕ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё, РєРѕС‚РѕСЂС‹РјРё РѕР±Р»Р°РґР°РµС‚ Р»СЋР±РѕРµ СЃСѓС‰РµСЃС‚РІРѕ, РёСЃРїРѕР»СЊР·СѓСЋС‰РµРµ РЎРёР»Сѓ. РџРѕ С…РѕРґСѓ РѕР±СѓС‡РµРЅРёСЏ С‚С‹ Р±СѓРґРµС€СЊ СѓС‡РёС‚СЊСЃСЏ РЅРѕРІС‹Рј СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЏРј.. РўРµР±Рµ Р±СѓРґСѓС‚ РѕС‚РєСЂС‹С‚С‹ Рё СЃРІРµС‚Р»Р°СЏ, Рё С‚РµРјРЅР°СЏ СЃС‚РѕСЂРѕРЅС‹. Р—Р°РїРѕРјРЅРё, СЃРїРѕСЃРѕР±РЅРѕСЃС‚Рё РЅРµ РЅРµСЃСѓС‚ РЅРё Р·Р»Р°, РЅРё РґРѕР±СЂР°. Р’СЃРµ Р·Р°РІРёСЃРёС‚ РѕС‚ С‚РѕРіРѕ, РєР°Рє РёС… РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ. РљР°Р¶РґС‹Р№ РґР¶РµРґР°Р№ СЃ СЂРѕР¶РґРµРЅРёСЏ СЃРёР»РµРЅ РІ РєР°РєРѕР№-С‚Рѕ РёР· СЃС„РµСЂ РґРµР№СЃС‚РІРёСЏ РЎРёР»С‹, С‚РµР±Рµ СЂРµС€Р°С‚СЊ, РЅР° С‡РµРј С‚С‹ Р±СѓРґРµС€СЊ РєРѕРЅС†РµРЅС‚СЂРёСЂРѕРІР°С‚СЊ СЃРІРѕРё СѓСЃРёР»РёСЏ."
 
 REFERENCE           02KYK004
 LANG_ENGLISH        "Alright, let's get started.  In the next area, you'll find some training remotes. These will help you learn how to handle a lightsaber. Ready?"
-LANG_RUSSIAN         "Хорошо, можем начинать.  В следующей зоне ты найдешь учебное снаряжение. Оно поможет тебе обучиться владению лазерным мечом. Готов?"
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ, РјРѕР¶РµРј РЅР°С‡РёРЅР°С‚СЊ.  Р’ СЃР»РµРґСѓСЋС‰РµР№ Р·РѕРЅРµ С‚С‹ РЅР°Р№РґРµС€СЊ СѓС‡РµР±РЅРѕРµ СЃРЅР°СЂСЏР¶РµРЅРёРµ. РћРЅРѕ РїРѕРјРѕР¶РµС‚ С‚РµР±Рµ РѕР±СѓС‡РёС‚СЊСЃСЏ РІР»Р°РґРµРЅРёСЋ Р»Р°Р·РµСЂРЅС‹Рј РјРµС‡РѕРј. Р“РѕС‚РѕРІ?"
 
 REFERENCE           02ROP001
 NOTES               "(O.S.)"
 LANG_ENGLISH        "Ready!"
-LANG_RUSSIAN         "Готовсь!"
+LANG_RUSSIAN         "Р“РѕС‚РѕРІСЃСЊ!"
 
 REFERENCE           02JAK001
 LANG_ENGLISH        "Ready."
-LANG_RUSSIAN         "И я тоже!"
+LANG_RUSSIAN         "Р СЏ С‚РѕР¶Рµ!"
 
 REFERENCE           02KYK005
 LANG_ENGLISH        "Here come the remotes!"
-LANG_RUSSIAN         "А вот и они!"
+LANG_RUSSIAN         "Рђ РІРѕС‚ Рё РѕРЅРё!"
 
 REFERENCE           02ROP002
 NOTES               "(O.S.)"
 LANG_ENGLISH        "Done!"
-LANG_RUSSIAN         "Готово!"
+LANG_RUSSIAN         "Р“РѕС‚РѕРІРѕ!"
 
 REFERENCE           02KYK006
 NOTES               "looking over the wall"
 LANG_ENGLISH        "Nice work, Rosh."
-LANG_RUSSIAN         "Отличная работа, Рош."
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅР°СЏ СЂР°Р±РѕС‚Р°, Р РѕС€."
 
 REFERENCE           02KYK007
 NOTES               "(to Jaden)"
 LANG_ENGLISH        "You did well too, Jaden."
-LANG_RUSSIAN         "Ты тоже неплох, Джейден."
+LANG_RUSSIAN         "РўС‹ С‚РѕР¶Рµ РЅРµРїР»РѕС…, Р”Р¶РµР№РґРµРЅ."
 
 REFERENCE           02KYK008
 NOTES               "(to both of them)"
 LANG_ENGLISH        "Your lightsaber is an invaluable tool. Even when inactive, it can defuse a potentially volatile situation. Trust me on that. As you train, you'll learn additional fighting styles. Changing styles during combat can surprise your opponent, allowing you to gain the upper hand."
-LANG_RUSSIAN         "Твой лазерный меч - бесценная вещь. Даже если он отключен, ты можешь избежать многих щекотливых ситуаций. Поверь мне. По ходу обучения ты изучишь дополнительные стили фехтования. Смена стиля во время боя может озадачить противника и дать тебе преимущество."
+LANG_RUSSIAN         "РўРІРѕР№ Р»Р°Р·РµСЂРЅС‹Р№ РјРµС‡ - Р±РµСЃС†РµРЅРЅР°СЏ РІРµС‰СЊ. Р”Р°Р¶Рµ РµСЃР»Рё РѕРЅ РѕС‚РєР»СЋС‡РµРЅ, С‚С‹ РјРѕР¶РµС€СЊ РёР·Р±РµР¶Р°С‚СЊ РјРЅРѕРіРёС… С‰РµРєРѕС‚Р»РёРІС‹С… СЃРёС‚СѓР°С†РёР№. РџРѕРІРµСЂСЊ РјРЅРµ. РџРѕ С…РѕРґСѓ РѕР±СѓС‡РµРЅРёСЏ С‚С‹ РёР·СѓС‡РёС€СЊ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Рµ СЃС‚РёР»Рё С„РµС…С‚РѕРІР°РЅРёСЏ. РЎРјРµРЅР° СЃС‚РёР»СЏ РІРѕ РІСЂРµРјСЏ Р±РѕСЏ РјРѕР¶РµС‚ РѕР·Р°РґР°С‡РёС‚СЊ РїСЂРѕС‚РёРІРЅРёРєР° Рё РґР°С‚СЊ С‚РµР±Рµ РїСЂРµРёРјСѓС‰РµСЃС‚РІРѕ."
 
 REFERENCE           02KYK009
 LANG_ENGLISH        "From here on out, we'll talk via comlink in each area. Let's move on."
-LANG_RUSSIAN         "Теперь мы будем говорить через комлинк. А сейчас пора двигаться."
+LANG_RUSSIAN         "РўРµРїРµСЂСЊ РјС‹ Р±СѓРґРµРј РіРѕРІРѕСЂРёС‚СЊ С‡РµСЂРµР· РєРѕРјР»РёРЅРє. Рђ СЃРµР№С‡Р°СЃ РїРѕСЂР° РґРІРёРіР°С‚СЊСЃСЏ."
 
 REFERENCE           02KYK010
 NOTES               "(via comm)"
 LANG_ENGLISH        "Okay, Jaden.  You need to use the Force to jump across the ravine.  It shouldn't be a problem.  If you fall, jump back up to the bridge and try again."
-LANG_RUSSIAN         "Хорошо, Джейден.  Чтобы перепрыгнуть через ущелье, ты должен использовать Силу.  Это не должно тебя затруднить.  Если упадешь, запрыгни обратно на мост и повтори попытку."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ, Р”Р¶РµР№РґРµРЅ.  Р§С‚РѕР±С‹ РїРµСЂРµРїСЂС‹РіРЅСѓС‚СЊ С‡РµСЂРµР· СѓС‰РµР»СЊРµ, С‚С‹ РґРѕР»Р¶РµРЅ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РЎРёР»Сѓ.  Р­С‚Рѕ РЅРµ РґРѕР»Р¶РЅРѕ С‚РµР±СЏ Р·Р°С‚СЂСѓРґРЅРёС‚СЊ.  Р•СЃР»Рё СѓРїР°РґРµС€СЊ, Р·Р°РїСЂС‹РіРЅРё РѕР±СЂР°С‚РЅРѕ РЅР° РјРѕСЃС‚ Рё РїРѕРІС‚РѕСЂРё РїРѕРїС‹С‚РєСѓ."
 
 REFERENCE           02KYK011
 NOTES               "(via comm)"
 LANG_ENGLISH        "You'll have to use Push to get out of here and into the next area."
-LANG_RUSSIAN         "Ты должен использовать Толчок, чтобы выбраться отсюда и перейти в следующую зону."
+LANG_RUSSIAN         "РўС‹ РґРѕР»Р¶РµРЅ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РўРѕР»С‡РѕРє, С‡С‚РѕР±С‹ РІС‹Р±СЂР°С‚СЊСЃСЏ РѕС‚СЃСЋРґР° Рё РїРµСЂРµР№С‚Рё РІ СЃР»РµРґСѓСЋС‰СѓСЋ Р·РѕРЅСѓ."
 
 REFERENCE           02KYK012
 NOTES               "(via comm)"
 LANG_ENGLISH        "Remember: you can sense objects that can be affected by your powers.  Examine the area and see if anything stands out..."
-LANG_RUSSIAN         "Запомни: ты можешь чувствовать предметы, на которые действует твоя сила.  Проверь район и осмотри все, что выделяется..."
+LANG_RUSSIAN         "Р—Р°РїРѕРјРЅРё: С‚С‹ РјРѕР¶РµС€СЊ С‡СѓРІСЃС‚РІРѕРІР°С‚СЊ РїСЂРµРґРјРµС‚С‹, РЅР° РєРѕС‚РѕСЂС‹Рµ РґРµР№СЃС‚РІСѓРµС‚ С‚РІРѕСЏ СЃРёР»Р°.  РџСЂРѕРІРµСЂСЊ СЂР°Р№РѕРЅ Рё РѕСЃРјРѕС‚СЂРё РІСЃРµ, С‡С‚Рѕ РІС‹РґРµР»СЏРµС‚СЃСЏ..."
 
 REFERENCE           02ROP003
 NOTES               "(laughing)"
 LANG_ENGLISH        "Hey Jaden!  This should keep you busy 'til I finish the course!"
-LANG_RUSSIAN         "Эй, Джейден, это развлечет тебя, пока я буду продолжать курс!"
+LANG_RUSSIAN         "Р­Р№, Р”Р¶РµР№РґРµРЅ, СЌС‚Рѕ СЂР°Р·РІР»РµС‡РµС‚ С‚РµР±СЏ, РїРѕРєР° СЏ Р±СѓРґСѓ РїСЂРѕРґРѕР»Р¶Р°С‚СЊ РєСѓСЂСЃ!"
 
 REFERENCE           02KYK013
 NOTES               "(via comm)"
 LANG_ENGLISH        "What took you so long, Jaden?"
-LANG_RUSSIAN         "Что тебя так задержало, Джейден?"
+LANG_RUSSIAN         "Р§С‚Рѕ С‚РµР±СЏ С‚Р°Рє Р·Р°РґРµСЂР¶Р°Р»Рѕ, Р”Р¶РµР№РґРµРЅ?"
 
 REFERENCE           02JAK002
 NOTES               "(grimacing)"
 LANG_ENGLISH        "Nothing."
-LANG_RUSSIAN         "Ничего."
+LANG_RUSSIAN         "РќРёС‡РµРіРѕ."
 
 REFERENCE           02KYK014
 NOTES               "(via comm)"
 LANG_ENGLISH        "You're sure?"
-LANG_RUSSIAN         "Ты уверен?"
+LANG_RUSSIAN         "РўС‹ СѓРІРµСЂРµРЅ?"
 
 REFERENCE           02JAK003
 NOTES               "(a bit angry)"
 LANG_ENGLISH        "It was nothing."
-LANG_RUSSIAN         "Ничего особенного."
+LANG_RUSSIAN         "РќРёС‡РµРіРѕ РѕСЃРѕР±РµРЅРЅРѕРіРѕ."
 
 REFERENCE           02KYK015
 NOTES               "(via comm) (not convinced) (pause after okay)"
 LANG_ENGLISH        "To get to the next area, you must "Pull" a lever somewhere in the room.  But you can't reach the lever with your hands.  Remember to examine your environment carefully.  When you are out on a mission, if you find a locked door, look for the guy in charge.  He usually has a key."
-LANG_RUSSIAN         "Чтобы перейти в следующую зону, вы должны "Потянуть" рычаг, что находится де-то в помещении.  Но рукой до рычага вам не достать.  Не забывайте внимательно исследовать окружающую обстановку.  Когда вы на задании и обнаруживаете запертую дверь, ищите дежурного.  Обычно у него есть ключ."
+LANG_RUSSIAN         "Р§С‚РѕР±С‹ РїРµСЂРµР№С‚Рё РІ СЃР»РµРґСѓСЋС‰СѓСЋ Р·РѕРЅСѓ, РІС‹ РґРѕР»Р¶РЅС‹ "РџРѕС‚СЏРЅСѓС‚СЊ" СЂС‹С‡Р°Рі, С‡С‚Рѕ РЅР°С…РѕРґРёС‚СЃСЏ РґРµ-С‚Рѕ РІ РїРѕРјРµС‰РµРЅРёРё.  РќРѕ СЂСѓРєРѕР№ РґРѕ СЂС‹С‡Р°РіР° РІР°Рј РЅРµ РґРѕСЃС‚Р°С‚СЊ.  РќРµ Р·Р°Р±С‹РІР°Р№С‚Рµ РІРЅРёРјР°С‚РµР»СЊРЅРѕ РёСЃСЃР»РµРґРѕРІР°С‚СЊ РѕРєСЂСѓР¶Р°СЋС‰СѓСЋ РѕР±СЃС‚Р°РЅРѕРІРєСѓ.  РљРѕРіРґР° РІС‹ РЅР° Р·Р°РґР°РЅРёРё Рё РѕР±РЅР°СЂСѓР¶РёРІР°РµС‚Рµ Р·Р°РїРµСЂС‚СѓСЋ РґРІРµСЂСЊ, РёС‰РёС‚Рµ РґРµР¶СѓСЂРЅРѕРіРѕ.  РћР±С‹С‡РЅРѕ Сѓ РЅРµРіРѕ РµСЃС‚СЊ РєР»СЋС‡."
 
 REFERENCE           02KYK016
 NOTES               "(via comm) (cont'd)"
 LANG_ENGLISH        "Solutions to problems aren't always obvious.  Use your Force Sense to see if you can find a way out of the room."
-LANG_RUSSIAN         "Решения проблем не всегда очевидны.  Пользуйтесь чувством Силы, чтобы найти выход из помещения."
+LANG_RUSSIAN         "Р РµС€РµРЅРёСЏ РїСЂРѕР±Р»РµРј РЅРµ РІСЃРµРіРґР° РѕС‡РµРІРёРґРЅС‹.  РџРѕР»СЊР·СѓР№С‚РµСЃСЊ С‡СѓРІСЃС‚РІРѕРј РЎРёР»С‹, С‡С‚РѕР±С‹ РЅР°Р№С‚Рё РІС‹С…РѕРґ РёР· РїРѕРјРµС‰РµРЅРёСЏ."
 
 REFERENCE           02KYK017
 NOTES               "(via comm)"
 LANG_ENGLISH        "You're almost done. You'll need to move fast in this next area.  You can use the Force to Speed up both physically and mentally, allowing you more time to make decisions. "
-LANG_RUSSIAN         "Вы почти закончили. В следующей зоне вам придется пошевелиться.  Вы можете использовать Силу, чтобы ускориться физически и психологически, что даст вам больше времени на принятие решений. "
+LANG_RUSSIAN         "Р’С‹ РїРѕС‡С‚Рё Р·Р°РєРѕРЅС‡РёР»Рё. Р’ СЃР»РµРґСѓСЋС‰РµР№ Р·РѕРЅРµ РІР°Рј РїСЂРёРґРµС‚СЃСЏ РїРѕС€РµРІРµР»РёС‚СЊСЃСЏ.  Р’С‹ РјРѕР¶РµС‚Рµ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РЎРёР»Сѓ, С‡С‚РѕР±С‹ СѓСЃРєРѕСЂРёС‚СЊСЃСЏ С„РёР·РёС‡РµСЃРєРё Рё РїСЃРёС…РѕР»РѕРіРёС‡РµСЃРєРё, С‡С‚Рѕ РґР°СЃС‚ РІР°Рј Р±РѕР»СЊС€Рµ РІСЂРµРјРµРЅРё РЅР° РїСЂРёРЅСЏС‚РёРµ СЂРµС€РµРЅРёР№. "
 
 REFERENCE           02ROP004
 NOTES               "overly excited"
 LANG_ENGLISH        "So, did I win?"
-LANG_RUSSIAN         "Ну как, я победил??"
+LANG_RUSSIAN         "РќСѓ РєР°Рє, СЏ РїРѕР±РµРґРёР»??"
 
 REFERENCE           02KYK018
 LANG_ENGLISH        "It wasn't a competition."
-LANG_RUSSIAN         "Это не соревнование."
+LANG_RUSSIAN         "Р­С‚Рѕ РЅРµ СЃРѕСЂРµРІРЅРѕРІР°РЅРёРµ."
 
 REFERENCE           02ROP005
 LANG_ENGLISH        "I'm sorry. I..."
-LANG_RUSSIAN         "Прошу прощения. Я..."
+LANG_RUSSIAN         "РџСЂРѕС€Сѓ РїСЂРѕС‰РµРЅРёСЏ. РЇ..."
 
 REFERENCE           02KYK019
 NOTES               "(interrupting)"
 LANG_ENGLISH        "I'm not the one you should be apologizing to."
-LANG_RUSSIAN         "Я не тот, кому следует приносить извинения."
+LANG_RUSSIAN         "РЇ РЅРµ С‚РѕС‚, РєРѕРјСѓ СЃР»РµРґСѓРµС‚ РїСЂРёРЅРѕСЃРёС‚СЊ РёР·РІРёРЅРµРЅРёСЏ."
 
 REFERENCE           02JAK004
 NOTES               "seething"
 LANG_ENGLISH        "It's no big deal. You said yourself this wasn't a competition."
-LANG_RUSSIAN         "Не велика проблема. Вы же сами сказали, что это не соревнование."
+LANG_RUSSIAN         "РќРµ РІРµР»РёРєР° РїСЂРѕР±Р»РµРјР°. Р’С‹ Р¶Рµ СЃР°РјРё СЃРєР°Р·Р°Р»Рё, С‡С‚Рѕ СЌС‚Рѕ РЅРµ СЃРѕСЂРµРІРЅРѕРІР°РЅРёРµ."
 
 REFERENCE           02ROP006
 NOTES               "(squirming)"
 LANG_ENGLISH        "Hey, it was just a joke!  I didn't think it would-"
-LANG_RUSSIAN         "Эй, я же пошутил!  Не думаю, что -"
+LANG_RUSSIAN         "Р­Р№, СЏ Р¶Рµ РїРѕС€СѓС‚РёР»!  РќРµ РґСѓРјР°СЋ, С‡С‚Рѕ -"
 
 REFERENCE           02KYK020
 NOTES               "(intervening)"
 LANG_ENGLISH        "If that droid was set to Luke's training regimen, it would have killed Jaden.  What were you thinking?"
-LANG_RUSSIAN         "Если бы этого дроида установили в тренировочный режим Люка, он наверняка убил бы Джейдена.  Чем ты думал?"
+LANG_RUSSIAN         "Р•СЃР»Рё Р±С‹ СЌС‚РѕРіРѕ РґСЂРѕРёРґР° СѓСЃС‚Р°РЅРѕРІРёР»Рё РІ С‚СЂРµРЅРёСЂРѕРІРѕС‡РЅС‹Р№ СЂРµР¶РёРј Р›СЋРєР°, РѕРЅ РЅР°РІРµСЂРЅСЏРєР° СѓР±РёР» Р±С‹ Р”Р¶РµР№РґРµРЅР°.  Р§РµРј С‚С‹ РґСѓРјР°Р»?"
 
 REFERENCE           02ROP007
 NOTES               "(frantic)"
 LANG_ENGLISH        "Jaden, I'm so sorry. I can't believe I ...I mean I wasn't trying to ..."
-LANG_RUSSIAN         "Джейден, мне очень жаль. НЕ могу в это поверить ...я хочу сказать, что и в мыслях не держал ..."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РјРЅРµ РѕС‡РµРЅСЊ Р¶Р°Р»СЊ. РќР• РјРѕРіСѓ РІ СЌС‚Рѕ РїРѕРІРµСЂРёС‚СЊ ...СЏ С…РѕС‡Сѓ СЃРєР°Р·Р°С‚СЊ, С‡С‚Рѕ Рё РІ РјС‹СЃР»СЏС… РЅРµ РґРµСЂР¶Р°Р» ..."
 
 REFERENCE           02JAK005
 NOTES               "(still pretty pissed)"
 LANG_ENGLISH        "Save it, Rosh."
-LANG_RUSSIAN         "Хватит, Рош."
+LANG_RUSSIAN         "РҐРІР°С‚РёС‚, Р РѕС€."
 
 REFERENCE           02KYK021
 LANG_ENGLISH        "Jaden, you have a right to be angry, but believe me when I say you don't want to feed that emotion."
-LANG_RUSSIAN         "Джейден, ты имеешь право сердиться, но поверь мне, не стоит питать подобные чувства."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, С‚С‹ РёРјРµРµС€СЊ РїСЂР°РІРѕ СЃРµСЂРґРёС‚СЊСЃСЏ, РЅРѕ РїРѕРІРµСЂСЊ РјРЅРµ, РЅРµ СЃС‚РѕРёС‚ РїРёС‚Р°С‚СЊ РїРѕРґРѕР±РЅС‹Рµ С‡СѓРІСЃС‚РІР°."
 
 REFERENCE           02JAK006
 LANG_ENGLISH        "I understand, Master Katarn.  "
-LANG_RUSSIAN         "Я все понимаю, мастер Катарн.  "
+LANG_RUSSIAN         "РЇ РІСЃРµ РїРѕРЅРёРјР°СЋ, РјР°СЃС‚РµСЂ РљР°С‚Р°СЂРЅ.  "
 
 REFERENCE           02JAK007
 NOTES               "(turns to Rosh, no longer angry)"
 LANG_ENGLISH        "Apology accepted, Rosh."
-LANG_RUSSIAN         "Извинения приняты, Рош."
+LANG_RUSSIAN         "РР·РІРёРЅРµРЅРёСЏ РїСЂРёРЅСЏС‚С‹, Р РѕС€."
 
 REFERENCE           02KYK022
 NOTES               "(in good humor)"
 LANG_ENGLISH        "Good, that's settled.  And remember, it's Kyle."
-LANG_RUSSIAN         "Хорошо, все в порядке.  И помни, меня зовут Кайл."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ, РІСЃРµ РІ РїРѕСЂСЏРґРєРµ.  Р РїРѕРјРЅРё, РјРµРЅСЏ Р·РѕРІСѓС‚ РљР°Р№Р»."
 
 REFERENCE           02JAK008
 LANG_ENGLISH        "Yes Mas-... Kyle."
-LANG_RUSSIAN         "Да, мас-... Кайл."
+LANG_RUSSIAN         "Р”Р°, РјР°СЃ-... РљР°Р№Р»."
 
 REFERENCE           02ROP008
 NOTES               "(cocky again"
 LANG_ENGLISH        "Sure thing, Kyle!"
-LANG_RUSSIAN         "Обязательно, Кайл!"
+LANG_RUSSIAN         "РћР±СЏР·Р°С‚РµР»СЊРЅРѕ, РљР°Р№Р»!"
 
 REFERENCE           02KYK023
 LANG_ENGLISH        "Okay, you're both ready to start putting what you've learned to use.  Let's see how you do in the real world."
-LANG_RUSSIAN         "О'кей, похоже, вы готовы на практике использовать то, чему научились.  Посмотрим, как вы покажете себя в реальном мире."
+LANG_RUSSIAN         "Рћ'РєРµР№, РїРѕС…РѕР¶Рµ, РІС‹ РіРѕС‚РѕРІС‹ РЅР° РїСЂР°РєС‚РёРєРµ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ С‚Рѕ, С‡РµРјСѓ РЅР°СѓС‡РёР»РёСЃСЊ.  РџРѕСЃРјРѕС‚СЂРёРј, РєР°Рє РІС‹ РїРѕРєР°Р¶РµС‚Рµ СЃРµР±СЏ РІ СЂРµР°Р»СЊРЅРѕРј РјРёСЂРµ."
 
 REFERENCE           02LUK001
 LANG_ENGLISH        "Kyle. I did some research on that strange mark from the clothing we found at the temple. It is the symbol of Marka Ragnos, a Sith Lord that died almost five thousand years ago."
-LANG_RUSSIAN         "Кайл. Я исследовал тот странный символ на одежде, которую мы нашли в храме. Это знак Марка Рагноса, лорда Сита, умершего почти пять тысяч лет назад."
+LANG_RUSSIAN         "РљР°Р№Р». РЇ РёСЃСЃР»РµРґРѕРІР°Р» С‚РѕС‚ СЃС‚СЂР°РЅРЅС‹Р№ СЃРёРјРІРѕР» РЅР° РѕРґРµР¶РґРµ, РєРѕС‚РѕСЂСѓСЋ РјС‹ РЅР°С€Р»Рё РІ С…СЂР°РјРµ. Р­С‚Рѕ Р·РЅР°Рє РњР°СЂРєР° Р Р°РіРЅРѕСЃР°, Р»РѕСЂРґР° РЎРёС‚Р°, СѓРјРµСЂС€РµРіРѕ РїРѕС‡С‚Рё РїСЏС‚СЊ С‚С‹СЃСЏС‡ Р»РµС‚ РЅР°Р·Р°Рґ."
 
 REFERENCE           02KYK024
 LANG_ENGLISH        "Five thousand years, are you serious? Wait, of course you're serious..."
-LANG_RUSSIAN         "Пять тысяч лет, ты что, серьезно? Стоп, разумеется, ты не шутишь..."
+LANG_RUSSIAN         "РџСЏС‚СЊ С‚С‹СЃСЏС‡ Р»РµС‚, С‚С‹ С‡С‚Рѕ, СЃРµСЂСЊРµР·РЅРѕ? РЎС‚РѕРї, СЂР°Р·СѓРјРµРµС‚СЃСЏ, С‚С‹ РЅРµ С€СѓС‚РёС€СЊ..."
 
 REFERENCE           02LUK002
 LANG_ENGLISH        "While you're out training your students, be on the lookout for information regarding a group affiliated with Ragnos."
-LANG_RUSSIAN         "Пока ты обучаешь кадетов, следи за информацией, связанной с группой приверженцев Рагноса."
+LANG_RUSSIAN         "РџРѕРєР° С‚С‹ РѕР±СѓС‡Р°РµС€СЊ РєР°РґРµС‚РѕРІ, СЃР»РµРґРё Р·Р° РёРЅС„РѕСЂРјР°С†РёРµР№, СЃРІСЏР·Р°РЅРЅРѕР№ СЃ РіСЂСѓРїРїРѕР№ РїСЂРёРІРµСЂР¶РµРЅС†РµРІ Р Р°РіРЅРѕСЃР°."
 
 REFERENCE           02KYK025
 LANG_ENGLISH        "Sure thing Luke."
-LANG_RUSSIAN         "Конечно, Люк."
+LANG_RUSSIAN         "РљРѕРЅРµС‡РЅРѕ, Р›СЋРє."
 
 REFERENCE           02KYK026
 LANG_ENGLISH        "The journey to become a Jedi begins with a single step. Which, I should point out, you have not yet taken. Move it, Jaden."
-LANG_RUSSIAN         "Путь к тому, чтобы стать джедаем, начинается с одного шага. Которого, как я заметил, вы еще не сделали. Вперед, Джейден."
+LANG_RUSSIAN         "РџСѓС‚СЊ Рє С‚РѕРјСѓ, С‡С‚РѕР±С‹ СЃС‚Р°С‚СЊ РґР¶РµРґР°РµРј, РЅР°С‡РёРЅР°РµС‚СЃСЏ СЃ РѕРґРЅРѕРіРѕ С€Р°РіР°. РљРѕС‚РѕСЂРѕРіРѕ, РєР°Рє СЏ Р·Р°РјРµС‚РёР», РІС‹ РµС‰Рµ РЅРµ СЃРґРµР»Р°Р»Рё. Р’РїРµСЂРµРґ, Р”Р¶РµР№РґРµРЅ."
 
 
 ENDMARKER

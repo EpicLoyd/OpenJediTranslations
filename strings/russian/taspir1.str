@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,47 +16,47 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           26KYK008
 NOTES               "(via comm)"
 LANG_ENGLISH        "I'll go in the back way.  If we enter from both sides, we're bound to find him."
-LANG_RUSSIAN         "Я пойду назад.  Если мы войдем в комнату с двух сторон, то обязательно его найдем."
+LANG_RUSSIAN         "РЇ РїРѕР№РґСѓ РЅР°Р·Р°Рґ.  Р•СЃР»Рё РјС‹ РІРѕР№РґРµРј РІ РєРѕРјРЅР°С‚Сѓ СЃ РґРІСѓС… СЃС‚РѕСЂРѕРЅ, С‚Рѕ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ РµРіРѕ РЅР°Р№РґРµРј."
 
 REFERENCE           26JAK009
 NOTES               "(uncomfortable)"
 LANG_ENGLISH        "It's hot here!"
-LANG_RUSSIAN         "Здесь жарковато!"
+LANG_RUSSIAN         "Р—РґРµСЃСЊ Р¶Р°СЂРєРѕРІР°С‚Рѕ!"
 
 REFERENCE           26JAK010
 NOTES               "(to himself)"
 LANG_ENGLISH        "Better be careful..."
-LANG_RUSSIAN         "Лучше смотри под ноги..."
+LANG_RUSSIAN         "Р›СѓС‡С€Рµ СЃРјРѕС‚СЂРё РїРѕРґ РЅРѕРіРё..."
 
 REFERENCE           26JAK011
 NOTES               "(to himself)"
 LANG_ENGLISH        "Don't think I'll go for a swim..."
-LANG_RUSSIAN         "Не думаю, что мне хочется купаться..."
+LANG_RUSSIAN         "РќРµ РґСѓРјР°СЋ, С‡С‚Рѕ РјРЅРµ С…РѕС‡РµС‚СЃСЏ РєСѓРїР°С‚СЊСЃСЏ..."
 
 REFERENCE           26JAK012
 NOTES               "(to himself)"
 LANG_ENGLISH        "They've disabled the controls.  There must be another way to retract the bridge."
-LANG_RUSSIAN         "Они отключили управление.  Должен быть другой способ выдвинуть мостик."
+LANG_RUSSIAN         "РћРЅРё РѕС‚РєР»СЋС‡РёР»Рё СѓРїСЂР°РІР»РµРЅРёРµ.  Р”РѕР»Р¶РµРЅ Р±С‹С‚СЊ РґСЂСѓРіРѕР№ СЃРїРѕСЃРѕР± РІС‹РґРІРёРЅСѓС‚СЊ РјРѕСЃС‚РёРє."
 
 REFERENCE           26JAK013
 NOTES               "(to himself)"
 LANG_ENGLISH        "Manual releases.  Not convenient, but clever."
-LANG_RUSSIAN         "Ручное выдвижение.  Неудобно, зато разумно."
+LANG_RUSSIAN         "Р СѓС‡РЅРѕРµ РІС‹РґРІРёР¶РµРЅРёРµ.  РќРµСѓРґРѕР±РЅРѕ, Р·Р°С‚Рѕ СЂР°Р·СѓРјРЅРѕ."
 
 REFERENCE           26KYK009
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden, I've just landed on the other side of the facility.  I'm going in."
-LANG_RUSSIAN         "Джейден, я только что приземлился на другой стороне комплекса.  Я вхожу."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЏ С‚РѕР»СЊРєРѕ С‡С‚Рѕ РїСЂРёР·РµРјР»РёР»СЃСЏ РЅР° РґСЂСѓРіРѕР№ СЃС‚РѕСЂРѕРЅРµ РєРѕРјРїР»РµРєСЃР°.  РЇ РІС…РѕР¶Сѓ."
 
 REFERENCE           26KYK010
 NOTES               "(via comm)"
 LANG_ENGLISH        "There's a lot of resistance here!"
-LANG_RUSSIAN         "Там сильное сопротивление!""
+LANG_RUSSIAN         "РўР°Рј СЃРёР»СЊРЅРѕРµ СЃРѕРїСЂРѕС‚РёРІР»РµРЅРёРµ!""
 
 REFERENCE           26KYK011
 NOTES               "(via comm, sarcastic)"
 LANG_ENGLISH        "Is it just me, or is it really hot here?"
-LANG_RUSSIAN         "Дело во мне, или там действительно очень жарко?"
+LANG_RUSSIAN         "Р”РµР»Рѕ РІРѕ РјРЅРµ, РёР»Рё С‚Р°Рј РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ РѕС‡РµРЅСЊ Р¶Р°СЂРєРѕ?"
 
 
 ENDMARKER

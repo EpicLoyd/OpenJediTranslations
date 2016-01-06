@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,86 +16,86 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           01PIL001
 NOTES               "(o.s.)"
 LANG_ENGLISH        "We'll be arriving at the Academy in just a few minutes."
-LANG_RUSSIAN         "Через несколько минут мы прибудем в академию."
+LANG_RUSSIAN         "Р§РµСЂРµР· РЅРµСЃРєРѕР»СЊРєРѕ РјРёРЅСѓС‚ РјС‹ РїСЂРёР±СѓРґРµРј РІ Р°РєР°РґРµРјРёСЋ."
 
 REFERENCE           01ROP001
 NOTES               "(chatting to student)"
 LANG_ENGLISH        "...that would be so great."
-LANG_RUSSIAN         "...это было бы здорово."
+LANG_RUSSIAN         "...СЌС‚Рѕ Р±С‹Р»Рѕ Р±С‹ Р·РґРѕСЂРѕРІРѕ."
 
 REFERENCE           01ROP002
 NOTES               "to Jaden"
 LANG_ENGLISH        "Aren't you excited?  We're gonna be Jedi!  Learning the ways of the Force, building a lightsaber..."
-LANG_RUSSIAN         "Разве ты не рад?  Мы станем джедаями!  Изучение путей Силы, сборка лазерных мечей..."
+LANG_RUSSIAN         "Р Р°Р·РІРµ С‚С‹ РЅРµ СЂР°Рґ?  РњС‹ СЃС‚Р°РЅРµРј РґР¶РµРґР°СЏРјРё!  РР·СѓС‡РµРЅРёРµ РїСѓС‚РµР№ РЎРёР»С‹, СЃР±РѕСЂРєР° Р»Р°Р·РµСЂРЅС‹С… РјРµС‡РµР№..."
 
 REFERENCE           01ROP003
 LANG_ENGLISH        "Of course, you already have one.  I'm gonna get one of those stupid training sabers and then..."
-LANG_RUSSIAN         "Конечно, у тебя один уже есть.  Я возьму один из этих глупых тренировочных мечей, и ..."
+LANG_RUSSIAN         "РљРѕРЅРµС‡РЅРѕ, Сѓ С‚РµР±СЏ РѕРґРёРЅ СѓР¶Рµ РµСЃС‚СЊ.  РЇ РІРѕР·СЊРјСѓ РѕРґРёРЅ РёР· СЌС‚РёС… РіР»СѓРїС‹С… С‚СЂРµРЅРёСЂРѕРІРѕС‡РЅС‹С… РјРµС‡РµР№, Рё ..."
 
 REFERENCE           01JAK001
 LANG_ENGLISH        "I wouldn't worry about that."
-LANG_RUSSIAN         "Я бы об этом не волновался."
+LANG_RUSSIAN         "РЇ Р±С‹ РѕР± СЌС‚РѕРј РЅРµ РІРѕР»РЅРѕРІР°Р»СЃСЏ."
 
 REFERENCE           01ROP004
 LANG_ENGLISH        "I can't help it.  I want to make a good impression..."
-LANG_RUSSIAN         "Ничего не могу поделать.  Хочу произвести хорошее впечатление..."
+LANG_RUSSIAN         "РќРёС‡РµРіРѕ РЅРµ РјРѕРіСѓ РїРѕРґРµР»Р°С‚СЊ.  РҐРѕС‡Сѓ РїСЂРѕРёР·РІРµСЃС‚Рё С…РѕСЂРѕС€РµРµ РІРїРµС‡Р°С‚Р»РµРЅРёРµ..."
 
 REFERENCE           01JAK002
 LANG_ENGLISH        "You seem really nervous."
-LANG_RUSSIAN         "Похоже, ты сидишь на нервах."
+LANG_RUSSIAN         "РџРѕС…РѕР¶Рµ, С‚С‹ СЃРёРґРёС€СЊ РЅР° РЅРµСЂРІР°С…."
 
 REFERENCE           01ROP005
 LANG_ENGLISH        "Aren't you? I mean why would you be? You already have a lightsaber so you're probably way ahead of me...I'm Rosh, by the way."
-LANG_RUSSIAN         "Разве нет? Я хотел сказать, с чего бы это? У тебя уже есть лазерный меч, так что ты уже, скорее всего, обогнал меня...Я Рош, кстати."
+LANG_RUSSIAN         "Р Р°Р·РІРµ РЅРµС‚? РЇ С…РѕС‚РµР» СЃРєР°Р·Р°С‚СЊ, СЃ С‡РµРіРѕ Р±С‹ СЌС‚Рѕ? РЈ С‚РµР±СЏ СѓР¶Рµ РµСЃС‚СЊ Р»Р°Р·РµСЂРЅС‹Р№ РјРµС‡, С‚Р°Рє С‡С‚Рѕ С‚С‹ СѓР¶Рµ, СЃРєРѕСЂРµРµ РІСЃРµРіРѕ, РѕР±РѕРіРЅР°Р» РјРµРЅСЏ...РЇ Р РѕС€, РєСЃС‚Р°С‚Рё."
 
 REFERENCE           01ROP006
 LANG_ENGLISH        "Um...what's your name?"
-LANG_RUSSIAN         "Мм...как тебя зовут?"
+LANG_RUSSIAN         "РњРј...РєР°Рє С‚РµР±СЏ Р·РѕРІСѓС‚?"
 
 REFERENCE           01JAK003
 LANG_ENGLISH        "Jaden."
-LANG_RUSSIAN         "Джейден."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ."
 
 REFERENCE           01ROP007
 LANG_ENGLISH        "So, where'd you get that lightsaber?"
-LANG_RUSSIAN         "Так где ты взял лазерный меч?"
+LANG_RUSSIAN         "РўР°Рє РіРґРµ С‚С‹ РІР·СЏР» Р»Р°Р·РµСЂРЅС‹Р№ РјРµС‡?"
 
 REFERENCE           01JAK004
 LANG_ENGLISH        "Well, it's kind of a long story. I found myself on..."
-LANG_RUSSIAN         "Это долгая история. Я оказался в..."
+LANG_RUSSIAN         "Р­С‚Рѕ РґРѕР»РіР°СЏ РёСЃС‚РѕСЂРёСЏ. РЇ РѕРєР°Р·Р°Р»СЃСЏ РІ..."
 
 REFERENCE           01PIL002
 NOTES               "(o.s.)"
 LANG_ENGLISH        "Hold on!"
-LANG_RUSSIAN         "Постой."
+LANG_RUSSIAN         "РџРѕСЃС‚РѕР№."
 
 REFERENCE           01LUK001
 NOTES               "(via comm)"
 LANG_ENGLISH        "Academy to Yavin Runner II.  Do you copy?"
-LANG_RUSSIAN         "Академия Гонцу Явина II.  Прием?"
+LANG_RUSSIAN         "РђРєР°РґРµРјРёСЏ Р“РѕРЅС†Сѓ РЇРІРёРЅР° II.  РџСЂРёРµРј?"
 
 REFERENCE           01PIL003
 NOTES               "(groggy and shaken)"
 LANG_ENGLISH        "Loud and clear. We made an emergency landing several clicks west of the Academy."
-LANG_RUSSIAN         "Вас слышу. Мы совершили аварийную посадку за несколько кликов на запад от академии."
+LANG_RUSSIAN         "Р’Р°СЃ СЃР»С‹С€Сѓ. РњС‹ СЃРѕРІРµСЂС€РёР»Рё Р°РІР°СЂРёР№РЅСѓСЋ РїРѕСЃР°РґРєСѓ Р·Р° РЅРµСЃРєРѕР»СЊРєРѕ РєР»РёРєРѕРІ РЅР° Р·Р°РїР°Рґ РѕС‚ Р°РєР°РґРµРјРёРё."
 
 REFERENCE           01LUK002
 NOTES               "(via comm)"
 LANG_ENGLISH        "Is everyone all right?"
-LANG_RUSSIAN         "Все в порядке?"
+LANG_RUSSIAN         "Р’СЃРµ РІ РїРѕСЂСЏРґРєРµ?"
 
 REFERENCE           01PIL004
 LANG_ENGLISH        "I think so."
-LANG_RUSSIAN         "Думаю, да."
+LANG_RUSSIAN         "Р”СѓРјР°СЋ, РґР°."
 
 REFERENCE           01LUK003
 NOTES               "(via comm)"
 LANG_ENGLISH        "Good, we'll send a shuttle to pick you up. Can you lead the students to the nearby Massassi Temple?"
-LANG_RUSSIAN         "Хорошо, мы пошлем за вами челнок. Вы не могли бы вывести кадетов к соседнему храму Массасси?"
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ, РјС‹ РїРѕС€Р»РµРј Р·Р° РІР°РјРё С‡РµР»РЅРѕРє. Р’С‹ РЅРµ РјРѕРіР»Рё Р±С‹ РІС‹РІРµСЃС‚Рё РєР°РґРµС‚РѕРІ Рє СЃРѕСЃРµРґРЅРµРјСѓ С…СЂР°РјСѓ РњР°СЃСЃР°СЃСЃРё?"
 
 REFERENCE           01PIL005
 LANG_ENGLISH        "Affirmative, Academy. We'll meet you there."
-LANG_RUSSIAN         "Так точно, академия. Мы встретим вас там."
+LANG_RUSSIAN         "РўР°Рє С‚РѕС‡РЅРѕ, Р°РєР°РґРµРјРёСЏ. РњС‹ РІСЃС‚СЂРµС‚РёРј РІР°СЃ С‚Р°Рј."
 
 
 ENDMARKER

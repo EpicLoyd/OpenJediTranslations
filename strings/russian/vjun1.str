@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,81 +15,81 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           17KYK005
 LANG_ENGLISH        "Great, looks like somebody's home.  Luke sure knows how to pick 'em.  We'll set down in that canyon and try to sneak into the castle."
-LANG_RUSSIAN         "Отлично, похоже, никого нет дома.  Люк наверняка знает, как их забрать.  Мы расположимся в этом каньоне и попробуем проникнуть в замок."
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅРѕ, РїРѕС…РѕР¶Рµ, РЅРёРєРѕРіРѕ РЅРµС‚ РґРѕРјР°.  Р›СЋРє РЅР°РІРµСЂРЅСЏРєР° Р·РЅР°РµС‚, РєР°Рє РёС… Р·Р°Р±СЂР°С‚СЊ.  РњС‹ СЂР°СЃРїРѕР»РѕР¶РёРјСЃСЏ РІ СЌС‚РѕРј РєР°РЅСЊРѕРЅРµ Рё РїРѕРїСЂРѕР±СѓРµРј РїСЂРѕРЅРёРєРЅСѓС‚СЊ РІ Р·Р°РјРѕРє."
 
 REFERENCE           17KYK006
 LANG_ENGLISH        "Great, looks like somebody's home.  Luke sure knows how to pick 'em.  We'll set down there at the base of the castle.  "
-LANG_RUSSIAN         "Отлично, похоже, никого нет дома.  Люк наверняка знает, как их забрать.  Мы расположимся здесь, у основания замка.  "
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅРѕ, РїРѕС…РѕР¶Рµ, РЅРёРєРѕРіРѕ РЅРµС‚ РґРѕРјР°.  Р›СЋРє РЅР°РІРµСЂРЅСЏРєР° Р·РЅР°РµС‚, РєР°Рє РёС… Р·Р°Р±СЂР°С‚СЊ.  РњС‹ СЂР°СЃРїРѕР»РѕР¶РёРјСЃСЏ Р·РґРµСЃСЊ, Сѓ РѕСЃРЅРѕРІР°РЅРёСЏ Р·Р°РјРєР°.  "
 
 REFERENCE           17KYK007
 NOTES               "(in pain)"
 LANG_ENGLISH        "Argh!  This rain's like acid!  Find some cover, fast!"
-LANG_RUSSIAN         "Аргх!  Этот дождь похож на кислоту!  Быстрее в укрытие!"
+LANG_RUSSIAN         "РђСЂРіС…!  Р­С‚РѕС‚ РґРѕР¶РґСЊ РїРѕС…РѕР¶ РЅР° РєРёСЃР»РѕС‚Сѓ!  Р‘С‹СЃС‚СЂРµРµ РІ СѓРєСЂС‹С‚РёРµ!"
 
 REFERENCE           17KYK008
 LANG_ENGLISH        "We're gonna have to run from cover to cover.  You've learned how to Protect yourself using the Force.  Use it so the rain doesn't hit you."
-LANG_RUSSIAN         "Нам придется перебегать от укрытия к укрытию.  Вы научились защищаться с помощью Силы.  Используйте этот навык, и дождь не коснется вас."
+LANG_RUSSIAN         "РќР°Рј РїСЂРёРґРµС‚СЃСЏ РїРµСЂРµР±РµРіР°С‚СЊ РѕС‚ СѓРєСЂС‹С‚РёСЏ Рє СѓРєСЂС‹С‚РёСЋ.  Р’С‹ РЅР°СѓС‡РёР»РёСЃСЊ Р·Р°С‰РёС‰Р°С‚СЊСЃСЏ СЃ РїРѕРјРѕС‰СЊСЋ РЎРёР»С‹.  РСЃРїРѕР»СЊР·СѓР№С‚Рµ СЌС‚РѕС‚ РЅР°РІС‹Рє, Рё РґРѕР¶РґСЊ РЅРµ РєРѕСЃРЅРµС‚СЃСЏ РІР°СЃ."
 
 REFERENCE           17KYK009
 LANG_ENGLISH        "We're gonna have to run from cover to cover.  Keep out of the rain as much as possible."
-LANG_RUSSIAN         "Нам придется перебегать от укрытия к укрытию.  Как можно меньше мокните под дождем."
+LANG_RUSSIAN         "РќР°Рј РїСЂРёРґРµС‚СЃСЏ РїРµСЂРµР±РµРіР°С‚СЊ РѕС‚ СѓРєСЂС‹С‚РёСЏ Рє СѓРєСЂС‹С‚РёСЋ.  РљР°Рє РјРѕР¶РЅРѕ РјРµРЅСЊС€Рµ РјРѕРєРЅРёС‚Рµ РїРѕРґ РґРѕР¶РґРµРј."
 
 REFERENCE           17KYK010
 LANG_ENGLISH        "Looks like the welcome wagon's arrived."
-LANG_RUSSIAN         "Похоже, прибыла приветственная тележка."
+LANG_RUSSIAN         "РџРѕС…РѕР¶Рµ, РїСЂРёР±С‹Р»Р° РїСЂРёРІРµС‚СЃС‚РІРµРЅРЅР°СЏ С‚РµР»РµР¶РєР°."
 
 REFERENCE           17KYK011
 LANG_ENGLISH        "What are these things?"
-LANG_RUSSIAN         "Это еще что за хрень?"
+LANG_RUSSIAN         "Р­С‚Рѕ РµС‰Рµ С‡С‚Рѕ Р·Р° С…СЂРµРЅСЊ?"
 
 REFERENCE           17KYK012
 NOTES               "(examining the body)"
 LANG_ENGLISH        "Must be some kind of trooper designed for nasty environments like this."
-LANG_RUSSIAN         "Похоже, какая=то пехота, предназначенная для действий в подобных условиях."
+LANG_RUSSIAN         "РџРѕС…РѕР¶Рµ, РєР°РєР°СЏ=С‚Рѕ РїРµС…РѕС‚Р°, РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅРЅР°СЏ РґР»СЏ РґРµР№СЃС‚РІРёР№ РІ РїРѕРґРѕР±РЅС‹С… СѓСЃР»РѕРІРёСЏС…."
 
 REFERENCE           17KYK013
 LANG_ENGLISH        "I say we try to avoid this garrison.  Our objective is the castle."
-LANG_RUSSIAN         "Я бы советовал избегать этого гарнизона.  Наша цель - замок."
+LANG_RUSSIAN         "РЇ Р±С‹ СЃРѕРІРµС‚РѕРІР°Р» РёР·Р±РµРіР°С‚СЊ СЌС‚РѕРіРѕ РіР°СЂРЅРёР·РѕРЅР°.  РќР°С€Р° С†РµР»СЊ - Р·Р°РјРѕРє."
 
 REFERENCE           17KYK014
 LANG_ENGLISH        "Take cover!"
-LANG_RUSSIAN         "В укрытие!"
+LANG_RUSSIAN         "Р’ СѓРєСЂС‹С‚РёРµ!"
 
 REFERENCE           17KYK015
 LANG_ENGLISH        "Guess they're expecting us now..."
-LANG_RUSSIAN         "Думаю, теперь они о нас знают..."
+LANG_RUSSIAN         "Р”СѓРјР°СЋ, С‚РµРїРµСЂСЊ РѕРЅРё Рѕ РЅР°СЃ Р·РЅР°СЋС‚..."
 
 REFERENCE           17KYK016
 NOTES               "(looks around, planning)"
 LANG_ENGLISH        "Okay. We'll have to get to that turbolaser and take out the bomber first."
-LANG_RUSSIAN         "О'кей. Нам нужно добраться до этого турболазера и сразу же обезвредить бомбометателя."
+LANG_RUSSIAN         "Рћ'РєРµР№. РќР°Рј РЅСѓР¶РЅРѕ РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ СЌС‚РѕРіРѕ С‚СѓСЂР±РѕР»Р°Р·РµСЂР° Рё СЃСЂР°Р·Сѓ Р¶Рµ РѕР±РµР·РІСЂРµРґРёС‚СЊ Р±РѕРјР±РѕРјРµС‚Р°С‚РµР»СЏ."
 
 REFERENCE           17KYK017
 LANG_ENGLISH        "Okay, the turbolaser should be on the other side of this door."
-LANG_RUSSIAN         "О'кей, турболазер должен находиться по ту сторону этой двери."
+LANG_RUSSIAN         "Рћ'РєРµР№, С‚СѓСЂР±РѕР»Р°Р·РµСЂ РґРѕР»Р¶РµРЅ РЅР°С…РѕРґРёС‚СЊСЃСЏ РїРѕ С‚Сѓ СЃС‚РѕСЂРѕРЅСѓ СЌС‚РѕР№ РґРІРµСЂРё."
 
 REFERENCE           17KYK018
 NOTES               "(tries it)"
 LANG_ENGLISH        "It's locked!"
-LANG_RUSSIAN         "Она закрыта."
+LANG_RUSSIAN         "РћРЅР° Р·Р°РєСЂС‹С‚Р°."
 
 REFERENCE           17KYK019
 NOTES               "(looks around)"
 LANG_ENGLISH        "There was a control room back there.  Wait here and let me know if I get it open."
-LANG_RUSSIAN         "Позади был щит управления.  Стойте здесь и дайте мне знать, если я ее открою."
+LANG_RUSSIAN         "РџРѕР·Р°РґРё Р±С‹Р» С‰РёС‚ СѓРїСЂР°РІР»РµРЅРёСЏ.  РЎС‚РѕР№С‚Рµ Р·РґРµСЃСЊ Рё РґР°Р№С‚Рµ РјРЅРµ Р·РЅР°С‚СЊ, РµСЃР»Рё СЏ РµРµ РѕС‚РєСЂРѕСЋ."
 
 REFERENCE           17JAK001
 LANG_ENGLISH        "That's it Kyle, I'm going in."
-LANG_RUSSIAN         "Это Кайл, я вхожу."
+LANG_RUSSIAN         "Р­С‚Рѕ РљР°Р№Р», СЏ РІС…РѕР¶Сѓ."
 
 REFERENCE           17KYK020
 NOTES               "(via comm)"
 LANG_ENGLISH        "Be right there."
-LANG_RUSSIAN         "Подожди здесь."
+LANG_RUSSIAN         "РџРѕРґРѕР¶РґРё Р·РґРµСЃСЊ."
 
 REFERENCE           17KYK021
 LANG_ENGLISH        "Great shot!  Now let's get to the castle."
-LANG_RUSSIAN         "Отличный выстрел!  Теперь нужно пробираться в замок."
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅС‹Р№ РІС‹СЃС‚СЂРµР»!  РўРµРїРµСЂСЊ РЅСѓР¶РЅРѕ РїСЂРѕР±РёСЂР°С‚СЊСЃСЏ РІ Р·Р°РјРѕРє."
 
 
 ENDMARKER

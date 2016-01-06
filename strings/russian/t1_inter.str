@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,48 +15,48 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           03ROP001
 LANG_ENGLISH        "So how's your training going?  I've just been sent on a few errands, nothing exciting."
-LANG_RUSSIAN         "Как идет твое обучение?  Съездил в несколько командировок, ничего особенного."
+LANG_RUSSIAN         "РљР°Рє РёРґРµС‚ С‚РІРѕРµ РѕР±СѓС‡РµРЅРёРµ?  РЎСЉРµР·РґРёР» РІ РЅРµСЃРєРѕР»СЊРєРѕ РєРѕРјР°РЅРґРёСЂРѕРІРѕРє, РЅРёС‡РµРіРѕ РѕСЃРѕР±РµРЅРЅРѕРіРѕ."
 
 REFERENCE           03JE1001
 LANG_ENGLISH        "Same here. I guess that's just how the training works."
-LANG_RUSSIAN         "То же самое. Интересно, как идет это обучение."
+LANG_RUSSIAN         "РўРѕ Р¶Рµ СЃР°РјРѕРµ. РРЅС‚РµСЂРµСЃРЅРѕ, РєР°Рє РёРґРµС‚ СЌС‚Рѕ РѕР±СѓС‡РµРЅРёРµ."
 
 REFERENCE           03ROP002
 LANG_ENGLISH        "I thought it was just me."
-LANG_RUSSIAN         "Я думал, что я тут один такой."
+LANG_RUSSIAN         "РЇ РґСѓРјР°Р», С‡С‚Рѕ СЏ С‚СѓС‚ РѕРґРёРЅ С‚Р°РєРѕР№."
 
 REFERENCE           03ROP003
 LANG_ENGLISH        "Ever wonder if your Master is holding you back?  Y'know, making sure you don't become too powerful?"
-LANG_RUSSIAN         "Интересно, может, твой учитель сдерживает тебя?  Знаешь, чтобы ты не стал слишком сильным?"
+LANG_RUSSIAN         "РРЅС‚РµСЂРµСЃРЅРѕ, РјРѕР¶РµС‚, С‚РІРѕР№ СѓС‡РёС‚РµР»СЊ СЃРґРµСЂР¶РёРІР°РµС‚ С‚РµР±СЏ?  Р—РЅР°РµС€СЊ, С‡С‚РѕР±С‹ С‚С‹ РЅРµ СЃС‚Р°Р» СЃР»РёС€РєРѕРј СЃРёР»СЊРЅС‹Рј?"
 
 REFERENCE           03JE1002
 LANG_ENGLISH        "Why would you say that?"
-LANG_RUSSIAN         "Зачем ты так говоришь?"
+LANG_RUSSIAN         "Р—Р°С‡РµРј С‚С‹ С‚Р°Рє РіРѕРІРѕСЂРёС€СЊ?"
 
 REFERENCE           03ROP004
 LANG_ENGLISH        "Well... Kyle doesn't seem to really foster my talents. I've gone on a couple of missions with him, but he doesn't let me do any of the really important stuff. "
-LANG_RUSSIAN         "Ну... Не похоже, чтобы Кайл особо развивал мои таланты. Я побывал с ним на паре заданий, но ничего важного он мне не доверял. "
+LANG_RUSSIAN         "РќСѓ... РќРµ РїРѕС…РѕР¶Рµ, С‡С‚РѕР±С‹ РљР°Р№Р» РѕСЃРѕР±Рѕ СЂР°Р·РІРёРІР°Р» РјРѕРё С‚Р°Р»Р°РЅС‚С‹. РЇ РїРѕР±С‹РІР°Р» СЃ РЅРёРј РЅР° РїР°СЂРµ Р·Р°РґР°РЅРёР№, РЅРѕ РЅРёС‡РµРіРѕ РІР°Р¶РЅРѕРіРѕ РѕРЅ РјРЅРµ РЅРµ РґРѕРІРµСЂСЏР». "
 
 REFERENCE           03JE1003
 LANG_ENGLISH        "Maybe he's observing you, seeing how you accomplish your missions.  I wouldn't worry about it."
-LANG_RUSSIAN         "Может, он наблюдает за тобой, как ты справляешься со своими заданиями.  Я бы об этом не волновался."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, РѕРЅ РЅР°Р±Р»СЋРґР°РµС‚ Р·Р° С‚РѕР±РѕР№, РєР°Рє С‚С‹ СЃРїСЂР°РІР»СЏРµС€СЊСЃСЏ СЃРѕ СЃРІРѕРёРјРё Р·Р°РґР°РЅРёСЏРјРё.  РЇ Р±С‹ РѕР± СЌС‚РѕРј РЅРµ РІРѕР»РЅРѕРІР°Р»СЃСЏ."
 
 REFERENCE           03ROP005
 LANG_ENGLISH        "I'm not so sure.  What do you think Jaden?"
-LANG_RUSSIAN         "Я не вполне уверен.  Как ты думаешь, Джейден?"
+LANG_RUSSIAN         "РЇ РЅРµ РІРїРѕР»РЅРµ СѓРІРµСЂРµРЅ.  РљР°Рє С‚С‹ РґСѓРјР°РµС€СЊ, Р”Р¶РµР№РґРµРЅ?"
 
 REFERENCE           03JAK001
 LANG_ENGLISH        "Well, I..."
-LANG_RUSSIAN         "Ну, я..."
+LANG_RUSSIAN         "РќСѓ, СЏ..."
 
 REFERENCE           03KYK001
 LANG_ENGLISH        "Ready to get back out there?  Did I interrupt something?"
-LANG_RUSSIAN         "Готов уходить отсюда?  Я ничему не помешал?"
+LANG_RUSSIAN         "Р“РѕС‚РѕРІ СѓС…РѕРґРёС‚СЊ РѕС‚СЃСЋРґР°?  РЇ РЅРёС‡РµРјСѓ РЅРµ РїРѕРјРµС€Р°Р»?"
 
 REFERENCE           03ROP006
 NOTES               "(sheepish)"
 LANG_ENGLISH        "No, not at all.  I'm ready, let's go!"
-LANG_RUSSIAN         "Нет, вовсе нет.  Я готов, пошли!"
+LANG_RUSSIAN         "РќРµС‚, РІРѕРІСЃРµ РЅРµС‚.  РЇ РіРѕС‚РѕРІ, РїРѕС€Р»Рё!"
 
 
 ENDMARKER

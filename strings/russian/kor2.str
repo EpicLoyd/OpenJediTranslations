@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,327 +16,327 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           29JAK001
 NOTES               "Light Side"
 LANG_ENGLISH        "Tavion!  This stops here!"
-LANG_RUSSIAN         "Тавион!  Все закончится здесь!"
+LANG_RUSSIAN         "РўР°РІРёРѕРЅ!  Р’СЃРµ Р·Р°РєРѕРЅС‡РёС‚СЃСЏ Р·РґРµСЃСЊ!"
 
 REFERENCE           29TAA001
 NOTES               "Light Side"
 LANG_ENGLISH        "Ah, Kyle's 'good' student.  You're too late.  Soon, Marka Ragnos will return and obliterate the Jedi.  The Sith shall rule again!"
-LANG_RUSSIAN         "Ах, кайловский 'хорошист'.  Ты опоздал.  Скоро Марка Рагнос вернется и сотрет джедаев в порошок.  Сит вновь вернется к власти!"
+LANG_RUSSIAN         "РђС…, РєР°Р№Р»РѕРІСЃРєРёР№ 'С…РѕСЂРѕС€РёСЃС‚'.  РўС‹ РѕРїРѕР·РґР°Р».  РЎРєРѕСЂРѕ РњР°СЂРєР° Р Р°РіРЅРѕСЃ РІРµСЂРЅРµС‚СЃСЏ Рё СЃРѕС‚СЂРµС‚ РґР¶РµРґР°РµРІ РІ РїРѕСЂРѕС€РѕРє.  РЎРёС‚ РІРЅРѕРІСЊ РІРµСЂРЅРµС‚СЃСЏ Рє РІР»Р°СЃС‚Рё!"
 
 REFERENCE           29JAK002
 NOTES               "Light Side"
 LANG_ENGLISH        "You're delusional.  Kyle told me all about you.  How you went crawling away after he defeated you."
-LANG_RUSSIAN         "Ты бредишь.  Кайл мне все про тебя рассказал.  Как ты уползала после поражения, которое он нанес тебе."
+LANG_RUSSIAN         "РўС‹ Р±СЂРµРґРёС€СЊ.  РљР°Р№Р» РјРЅРµ РІСЃРµ РїСЂРѕ С‚РµР±СЏ СЂР°СЃСЃРєР°Р·Р°Р».  РљР°Рє С‚С‹ СѓРїРѕР»Р·Р°Р»Р° РїРѕСЃР»Рµ РїРѕСЂР°Р¶РµРЅРёСЏ, РєРѕС‚РѕСЂРѕРµ РѕРЅ РЅР°РЅРµСЃ С‚РµР±Рµ."
 
 REFERENCE           29TAA002
 NOTES               "(enraged)  Light Side"
 LANG_ENGLISH        "Silence, whelp!"
-LANG_RUSSIAN         "Заткнись, щенок!"
+LANG_RUSSIAN         "Р—Р°С‚РєРЅРёСЃСЊ, С‰РµРЅРѕРє!"
 
 REFERENCE           29TAA003
 NOTES               "Light Side"
 LANG_ENGLISH        "I will make Kyle Katarn's failure complete.  My victory, Rosh's corruption, and now your death will drive him to the dark side."
-LANG_RUSSIAN         "Я полностью сорву планы Кайла Катарна.  Моя победа, разложение Роша, а теперь и твоя смерть склонят его на темную сторону."
+LANG_RUSSIAN         "РЇ РїРѕР»РЅРѕСЃС‚СЊСЋ СЃРѕСЂРІСѓ РїР»Р°РЅС‹ РљР°Р№Р»Р° РљР°С‚Р°СЂРЅР°.  РњРѕСЏ РїРѕР±РµРґР°, СЂР°Р·Р»РѕР¶РµРЅРёРµ Р РѕС€Р°, Р° С‚РµРїРµСЂСЊ Рё С‚РІРѕСЏ СЃРјРµСЂС‚СЊ СЃРєР»РѕРЅСЏС‚ РµРіРѕ РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ."
 
 REFERENCE           29JAK003
 NOTES               "Light Side"
 LANG_ENGLISH        "Never!"
-LANG_RUSSIAN         "Никогда!"
+LANG_RUSSIAN         "РќРёРєРѕРіРґР°!"
 
 REFERENCE           29TAA004
 NOTES               "(weakly, beaten) Light Side"
 LANG_ENGLISH        "I will... not cower as I did before Katarn."
-LANG_RUSSIAN         "Я не... съежусь, как перед Катарном."
+LANG_RUSSIAN         "РЇ РЅРµ... СЃСЉРµР¶СѓСЃСЊ, РєР°Рє РїРµСЂРµРґ РљР°С‚Р°СЂРЅРѕРј."
 
 REFERENCE           29MAR001
 NOTES               "Light Side"
 LANG_ENGLISH        "I shall not be denied!"
-LANG_RUSSIAN         "Мен ничто не остановит!"
+LANG_RUSSIAN         "РњРµРЅ РЅРёС‡С‚Рѕ РЅРµ РѕСЃС‚Р°РЅРѕРІРёС‚!"
 
 REFERENCE           29JAK004
 NOTES               "Light Side"
 LANG_ENGLISH        "By the Force!"
-LANG_RUSSIAN         "Именем Силы!"
+LANG_RUSSIAN         "РРјРµРЅРµРј РЎРёР»С‹!"
 
 REFERENCE           29TAA005
 NOTES               "Light Side"
 LANG_ENGLISH        "Marka Ragnos!"
-LANG_RUSSIAN         "Марка Рагнос!"
+LANG_RUSSIAN         "РњР°СЂРєР° Р Р°РіРЅРѕСЃ!"
 
 REFERENCE           29MAR002
 NOTES               "Light Side"
 LANG_ENGLISH        "A mere Jedi child will not undo my return!"
-LANG_RUSSIAN         "Просто джедайский пацан не помешает моему возвращению!"
+LANG_RUSSIAN         "РџСЂРѕСЃС‚Рѕ РґР¶РµРґР°Р№СЃРєРёР№ РїР°С†Р°РЅ РЅРµ РїРѕРјРµС€Р°РµС‚ РјРѕРµРјСѓ РІРѕР·РІСЂР°С‰РµРЅРёСЋ!"
 
 REFERENCE           29JAK005
 NOTES               "(firmly) Light Side"
 LANG_ENGLISH        "That's Jedi KNIGHT, Ragnos."
-LANG_RUSSIAN         "Это РЫЦАРЬ джедай, Рагнос."
+LANG_RUSSIAN         "Р­С‚Рѕ Р Р«Р¦РђР Р¬ РґР¶РµРґР°Р№, Р Р°РіРЅРѕСЃ."
 
 REFERENCE           29MAR003
 NOTES               "(venomously) Light Side"
 LANG_ENGLISH        "You will kneel before me, Jedi."
-LANG_RUSSIAN         "Ты упадешь предо мной на колени, джедай."
+LANG_RUSSIAN         "РўС‹ СѓРїР°РґРµС€СЊ РїСЂРµРґРѕ РјРЅРѕР№ РЅР° РєРѕР»РµРЅРё, РґР¶РµРґР°Р№."
 
 REFERENCE           29MAR004
 NOTES               "(screaming in impotent rage) Light Side"
 LANG_ENGLISH        "No!!!  This is impossible!!!  I will return, Jedi!  One day I shall return and annihilate you all!"
-LANG_RUSSIAN         "Нет!!!  Это невозможно!!!  Я вернусь, джедай!  Однажды я вернусь и разнесу тебя на окислы!"
+LANG_RUSSIAN         "РќРµС‚!!!  Р­С‚Рѕ РЅРµРІРѕР·РјРѕР¶РЅРѕ!!!  РЇ РІРµСЂРЅСѓСЃСЊ, РґР¶РµРґР°Р№!  РћРґРЅР°Р¶РґС‹ СЏ РІРµСЂРЅСѓСЃСЊ Рё СЂР°Р·РЅРµСЃСѓ С‚РµР±СЏ РЅР° РѕРєРёСЃР»С‹!"
 
 REFERENCE           29JAK006
 NOTES               "Light Side"
 LANG_ENGLISH        "It's over.  Ragnos will not be resurrected.  The scepter is destroyed."
-LANG_RUSSIAN         "Все кончено.  Рагнос не возродится.  Скипетру конец."
+LANG_RUSSIAN         "Р’СЃРµ РєРѕРЅС‡РµРЅРѕ.  Р Р°РіРЅРѕСЃ РЅРµ РІРѕР·СЂРѕРґРёС‚СЃСЏ.  РЎРєРёРїРµС‚СЂСѓ РєРѕРЅРµС†."
 
 REFERENCE           29KYK001
 NOTES               "Light Side"
 LANG_ENGLISH        "And Tavion?"
-LANG_RUSSIAN         "А Тавион?"
+LANG_RUSSIAN         "Рђ РўР°РІРёРѕРЅ?"
 
 REFERENCE           29JAK007
 NOTES               "Light Side"
 LANG_ENGLISH        "Dead.  Ragnos had possessed her.  Her body couldn't withstand the corruption.  When I destroyed the scepter and Ragnos left her body, there was nothing left."
-LANG_RUSSIAN         "Мертва.  Рагнос забрал ее.  Ее тело не смогло справиться с разложением.  Когда я уничтожил скипетр и Рагнос покинул ее тело, ничего не осталось."
+LANG_RUSSIAN         "РњРµСЂС‚РІР°.  Р Р°РіРЅРѕСЃ Р·Р°Р±СЂР°Р» РµРµ.  Р•Рµ С‚РµР»Рѕ РЅРµ СЃРјРѕРіР»Рѕ СЃРїСЂР°РІРёС‚СЊСЃСЏ СЃ СЂР°Р·Р»РѕР¶РµРЅРёРµРј.  РљРѕРіРґР° СЏ СѓРЅРёС‡С‚РѕР¶РёР» СЃРєРёРїРµС‚СЂ Рё Р Р°РіРЅРѕСЃ РїРѕРєРёРЅСѓР» РµРµ С‚РµР»Рѕ, РЅРёС‡РµРіРѕ РЅРµ РѕСЃС‚Р°Р»РѕСЃСЊ."
 
 REFERENCE           29LUK001
 NOTES               "Light Side"
 LANG_ENGLISH        "Jaden, you did more than we could have ever hoped.  You have become a true Jedi."
-LANG_RUSSIAN         "Джейден, ты сделал больше, чем мы надеялись.  Ты стал настоящим джедаем."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, С‚С‹ СЃРґРµР»Р°Р» Р±РѕР»СЊС€Рµ, С‡РµРј РјС‹ РЅР°РґРµСЏР»РёСЃСЊ.  РўС‹ СЃС‚Р°Р» РЅР°СЃС‚РѕСЏС‰РёРј РґР¶РµРґР°РµРј."
 
 REFERENCE           29JAK008
 NOTES               "Light Side"
 LANG_ENGLISH        "Thank you, Master Skywalker.  But I couldn't have done it without Kyle."
-LANG_RUSSIAN         "Благодарю вас, мастер Скайуокер.  Но я не справился бы без Кайла."
+LANG_RUSSIAN         "Р‘Р»Р°РіРѕРґР°СЂСЋ РІР°СЃ, РјР°СЃС‚РµСЂ РЎРєР°Р№СѓРѕРєРµСЂ.  РќРѕ СЏ РЅРµ СЃРїСЂР°РІРёР»СЃСЏ Р±С‹ Р±РµР· РљР°Р№Р»Р°."
 
 REFERENCE           29KYK002
 NOTES               "Light Side"
 LANG_ENGLISH        "Don't get all mushy on me, kid.  C'mon, let's get outta here."
-LANG_RUSSIAN         "Давай без нежностей, парень.  Вперед, валим отсюда."
+LANG_RUSSIAN         "Р”Р°РІР°Р№ Р±РµР· РЅРµР¶РЅРѕСЃС‚РµР№, РїР°СЂРµРЅСЊ.  Р’РїРµСЂРµРґ, РІР°Р»РёРј РѕС‚СЃСЋРґР°."
 
 REFERENCE           29LUK002
 NOTES               "Light Side"
 LANG_ENGLISH        "I've heard from the New Republic.  The Imperials supporting the Disciples of Ragnos have been defeated and the remaining cultists have been rounded up.  It seems they lost their powers when the scepter was destroyed."
-LANG_RUSSIAN         "Я слышал от Новой Республики.  Имперцы, поддерживавшие последователей Рагноса, были разбиты, а оставшиеся последователи культа окружены.  Похоже, после уничтожения скипетра они потеряли свою силу."
+LANG_RUSSIAN         "РЇ СЃР»С‹С€Р°Р» РѕС‚ РќРѕРІРѕР№ Р РµСЃРїСѓР±Р»РёРєРё.  РРјРїРµСЂС†С‹, РїРѕРґРґРµСЂР¶РёРІР°РІС€РёРµ РїРѕСЃР»РµРґРѕРІР°С‚РµР»РµР№ Р Р°РіРЅРѕСЃР°, Р±С‹Р»Рё СЂР°Р·Р±РёС‚С‹, Р° РѕСЃС‚Р°РІС€РёРµСЃСЏ РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё РєСѓР»СЊС‚Р° РѕРєСЂСѓР¶РµРЅС‹.  РџРѕС…РѕР¶Рµ, РїРѕСЃР»Рµ СѓРЅРёС‡С‚РѕР¶РµРЅРёСЏ СЃРєРёРїРµС‚СЂР° РѕРЅРё РїРѕС‚РµСЂСЏР»Рё СЃРІРѕСЋ СЃРёР»Сѓ."
 
 REFERENCE           29JAK009
 NOTES               "Light Side"
 LANG_ENGLISH        "I hope that's the last we see of them."
-LANG_RUSSIAN         "Надеюсь, мы их больше никогда не увидим."
+LANG_RUSSIAN         "РќР°РґРµСЋСЃСЊ, РјС‹ РёС… Р±РѕР»СЊС€Рµ РЅРёРєРѕРіРґР° РЅРµ СѓРІРёРґРёРј."
 
 REFERENCE           29KYK003
 NOTES               "Light Side"
 LANG_ENGLISH        "If there's one thing I've learned, it's never say never."
-LANG_RUSSIAN         "Если я чему и научился, так это никогда не говорить никогда."
+LANG_RUSSIAN         "Р•СЃР»Рё СЏ С‡РµРјСѓ Рё РЅР°СѓС‡РёР»СЃСЏ, С‚Р°Рє СЌС‚Рѕ РЅРёРєРѕРіРґР° РЅРµ РіРѕРІРѕСЂРёС‚СЊ РЅРёРєРѕРіРґР°."
 
 REFERENCE           29LUK003
 NOTES               "Light Side"
 LANG_ENGLISH        "Rosh, I hope your experience has taught you the patience and humility that may one day turn you into a great Jedi. "
-LANG_RUSSIAN         "Рош, надеюсь, твой опыт научил тебя терпению и человечности, которые однажды превратят тебя в отличного джедая. "
+LANG_RUSSIAN         "Р РѕС€, РЅР°РґРµСЋСЃСЊ, С‚РІРѕР№ РѕРїС‹С‚ РЅР°СѓС‡РёР» С‚РµР±СЏ С‚РµСЂРїРµРЅРёСЋ Рё С‡РµР»РѕРІРµС‡РЅРѕСЃС‚Рё, РєРѕС‚РѕСЂС‹Рµ РѕРґРЅР°Р¶РґС‹ РїСЂРµРІСЂР°С‚СЏС‚ С‚РµР±СЏ РІ РѕС‚Р»РёС‡РЅРѕРіРѕ РґР¶РµРґР°СЏ. "
 
 REFERENCE           29ROP001
 NOTES               "Light Side"
 LANG_ENGLISH        "Yes Master Skywalker, thank you."
-LANG_RUSSIAN         "Да, мастер Скайуокер, спасибо."
+LANG_RUSSIAN         "Р”Р°, РјР°СЃС‚РµСЂ РЎРєР°Р№СѓРѕРєРµСЂ, СЃРїР°СЃРёР±Рѕ."
 
 REFERENCE           29LUK004
 NOTES               "Light Side"
 LANG_ENGLISH        "Jaden, you fought bravely, resisted the dark side, and saved another Jedi from certain death.  You will be a valuable member of the Jedi Order."
-LANG_RUSSIAN         "Джейден, ты храбро сражался, противостоял темной стороне и спас другого джедая от верной смерти.  Ты станешь ценным членом Ордена Джедаев."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, С‚С‹ С…СЂР°Р±СЂРѕ СЃСЂР°Р¶Р°Р»СЃСЏ, РїСЂРѕС‚РёРІРѕСЃС‚РѕСЏР» С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅРµ Рё СЃРїР°СЃ РґСЂСѓРіРѕРіРѕ РґР¶РµРґР°СЏ РѕС‚ РІРµСЂРЅРѕР№ СЃРјРµСЂС‚Рё.  РўС‹ СЃС‚Р°РЅРµС€СЊ С†РµРЅРЅС‹Рј С‡Р»РµРЅРѕРј РћСЂРґРµРЅР° Р”Р¶РµРґР°РµРІ."
 
 REFERENCE           29KYK004
 NOTES               "Light Side"
 LANG_ENGLISH        "You deserve it, Jaden. You're the best student I've ever trained and a terrific Jedi. "
-LANG_RUSSIAN         "Ты это заслужил, Джейден. Ты лучший кадет под моим началом и потрясающий джедай. "
+LANG_RUSSIAN         "РўС‹ СЌС‚Рѕ Р·Р°СЃР»СѓР¶РёР», Р”Р¶РµР№РґРµРЅ. РўС‹ Р»СѓС‡С€РёР№ РєР°РґРµС‚ РїРѕРґ РјРѕРёРј РЅР°С‡Р°Р»РѕРј Рё РїРѕС‚СЂСЏСЃР°СЋС‰РёР№ РґР¶РµРґР°Р№. "
 
 REFERENCE           29JAK010
 NOTES               "(beaming with pride) Light Side"
 LANG_ENGLISH        "Thank you both."
-LANG_RUSSIAN         "Спасибо вам обоим."
+LANG_RUSSIAN         "РЎРїР°СЃРёР±Рѕ РІР°Рј РѕР±РѕРёРј."
 
 REFERENCE           29KYK005
 NOTES               "Light Side"
 LANG_ENGLISH        "There's still a galaxy full of trouble out there, are you ready for another mission?"
-LANG_RUSSIAN         "И все же галактика полна неприятностей, готовы ли вы к следующему заданию?"
+LANG_RUSSIAN         "Р РІСЃРµ Р¶Рµ РіР°Р»Р°РєС‚РёРєР° РїРѕР»РЅР° РЅРµРїСЂРёСЏС‚РЅРѕСЃС‚РµР№, РіРѕС‚РѕРІС‹ Р»Рё РІС‹ Рє СЃР»РµРґСѓСЋС‰РµРјСѓ Р·Р°РґР°РЅРёСЋ?"
 
 REFERENCE           29JAK011
 NOTES               "Light Side"
 LANG_ENGLISH        "As luck would have it, I am."
-LANG_RUSSIAN         "Если посчастливиться его добыть, то да."
+LANG_RUSSIAN         "Р•СЃР»Рё РїРѕСЃС‡Р°СЃС‚Р»РёРІРёС‚СЊСЃСЏ РµРіРѕ РґРѕР±С‹С‚СЊ, С‚Рѕ РґР°."
 
 REFERENCE           29JAK012
 NOTES               "(threateningly) Dark Side"
 LANG_ENGLISH        "Tavion!  Give me the scepter."
-LANG_RUSSIAN         "Тавион!  Отдай мне скипетр."
+LANG_RUSSIAN         "РўР°РІРёРѕРЅ!  РћС‚РґР°Р№ РјРЅРµ СЃРєРёРїРµС‚СЂ."
 
 REFERENCE           29TAA006
 NOTES               "Dark Side"
 LANG_ENGLISH        "Ah, Kyle's 'good' student.  Or is it?   I sense the dark side in you.  Are you here to witness the resurrection?"
-LANG_RUSSIAN         "Ах, кайловский 'хорошист'.  Ой ли?   Я ощущаю в тебе темную сторону.  Хочешь быть свидетелем возрождения?"
+LANG_RUSSIAN         "РђС…, РєР°Р№Р»РѕРІСЃРєРёР№ 'С…РѕСЂРѕС€РёСЃС‚'.  РћР№ Р»Рё?   РЇ РѕС‰СѓС‰Р°СЋ РІ С‚РµР±Рµ С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ.  РҐРѕС‡РµС€СЊ Р±С‹С‚СЊ СЃРІРёРґРµС‚РµР»РµРј РІРѕР·СЂРѕР¶РґРµРЅРёСЏ?"
 
 REFERENCE           29JAK013
 NOTES               "Dark Side"
 LANG_ENGLISH        "No, I'm here to kill you, something that my old Master couldn't do."
-LANG_RUSSIAN         "Нет, я пришел убить тебя, чего не смог сделать мой старый учитель."
+LANG_RUSSIAN         "РќРµС‚, СЏ РїСЂРёС€РµР» СѓР±РёС‚СЊ С‚РµР±СЏ, С‡РµРіРѕ РЅРµ СЃРјРѕРі СЃРґРµР»Р°С‚СЊ РјРѕР№ СЃС‚Р°СЂС‹Р№ СѓС‡РёС‚РµР»СЊ."
 
 REFERENCE           29TAA007
 NOTES               "Dark Side"
 LANG_ENGLISH        "With Ragnos reborn, the Jedi will be wiped out and we can serve him as he rules the galaxy."
-LANG_RUSSIAN         "После возрождения Рагноса джедаи будут выметены поганой метлой, мы будем служить ему, а он будет править галактикой."
+LANG_RUSSIAN         "РџРѕСЃР»Рµ РІРѕР·СЂРѕР¶РґРµРЅРёСЏ Р Р°РіРЅРѕСЃР° РґР¶РµРґР°Рё Р±СѓРґСѓС‚ РІС‹РјРµС‚РµРЅС‹ РїРѕРіР°РЅРѕР№ РјРµС‚Р»РѕР№, РјС‹ Р±СѓРґРµРј СЃР»СѓР¶РёС‚СЊ РµРјСѓ, Р° РѕРЅ Р±СѓРґРµС‚ РїСЂР°РІРёС‚СЊ РіР°Р»Р°РєС‚РёРєРѕР№."
 
 REFERENCE           29JAK014
 NOTES               "Dark Side"
 LANG_ENGLISH        "I will no longer 'serve' anyone.   I will have the scepter and its power for myself. Now give it to me."
-LANG_RUSSIAN         "Я больше никому не буду 'служить'.   Я заберу себе скипетр и его мощь. А теперь отдай мне его."
+LANG_RUSSIAN         "РЇ Р±РѕР»СЊС€Рµ РЅРёРєРѕРјСѓ РЅРµ Р±СѓРґСѓ 'СЃР»СѓР¶РёС‚СЊ'.   РЇ Р·Р°Р±РµСЂСѓ СЃРµР±Рµ СЃРєРёРїРµС‚СЂ Рё РµРіРѕ РјРѕС‰СЊ. Рђ С‚РµРїРµСЂСЊ РѕС‚РґР°Р№ РјРЅРµ РµРіРѕ."
 
 REFERENCE           29TAA008
 NOTES               "(laughs) Dark Side"
 LANG_ENGLISH        "Impudent whelp, I will enjoy slaying you!"
-LANG_RUSSIAN         "Дерзкий щенок, я с радостью прирежу тебя!"
+LANG_RUSSIAN         "Р”РµСЂР·РєРёР№ С‰РµРЅРѕРє, СЏ СЃ СЂР°РґРѕСЃС‚СЊСЋ РїСЂРёСЂРµР¶Сѓ С‚РµР±СЏ!"
 
 REFERENCE           29TAA009
 NOTES               "(weakly, beaten) Dark Side"
 LANG_ENGLISH        "I will.. not cower as I did before Katarn.  Finish it.  Kill me!"
-LANG_RUSSIAN         "Я не... съежусь, как перед Катарном.  Кончай это.  Убей меня."
+LANG_RUSSIAN         "РЇ РЅРµ... СЃСЉРµР¶СѓСЃСЊ, РєР°Рє РїРµСЂРµРґ РљР°С‚Р°СЂРЅРѕРј.  РљРѕРЅС‡Р°Р№ СЌС‚Рѕ.  РЈР±РµР№ РјРµРЅСЏ."
 
 REFERENCE           29KYK006
 NOTES               "(shouting at him) Dark Side"
 LANG_ENGLISH        "Jaden, stop!"
-LANG_RUSSIAN         "Джейден, стой!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЃС‚РѕР№!"
 
 REFERENCE           29JAK015
 NOTES               "Dark Side"
 LANG_ENGLISH        "Don't get in my way, Kyle.  "
-LANG_RUSSIAN         "Не становись у меня на пути, Кайл.  "
+LANG_RUSSIAN         "РќРµ СЃС‚Р°РЅРѕРІРёСЃСЊ Сѓ РјРµРЅСЏ РЅР° РїСѓС‚Рё, РљР°Р№Р».  "
 
 REFERENCE           29KYK007
 NOTES               "Dark Side"
 LANG_ENGLISH        "Jaden, I know you're angry, but it's not too late to renounce the dark side.  Tavion and her cult has been stopped, we can end this here!"
-LANG_RUSSIAN         "Джейден, я знаю, ты зол, но еще не поздно отказаться от темной стороны.  Тавион и ее культ больше не представляют угрозы, мы можем прямо здесь покончить со всем этим!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЏ Р·РЅР°СЋ, С‚С‹ Р·РѕР», РЅРѕ РµС‰Рµ РЅРµ РїРѕР·РґРЅРѕ РѕС‚РєР°Р·Р°С‚СЊСЃСЏ РѕС‚ С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅС‹.  РўР°РІРёРѕРЅ Рё РµРµ РєСѓР»СЊС‚ Р±РѕР»СЊС€Рµ РЅРµ РїСЂРµРґСЃС‚Р°РІР»СЏСЋС‚ СѓРіСЂРѕР·С‹, РјС‹ РјРѕР¶РµРј РїСЂСЏРјРѕ Р·РґРµСЃСЊ РїРѕРєРѕРЅС‡РёС‚СЊ СЃРѕ РІСЃРµРј СЌС‚РёРј!"
 
 REFERENCE           29JAK016
 NOTES               "(fiendishly) Dark Side"
 LANG_ENGLISH        "Oh, no... this is just the beginning."
-LANG_RUSSIAN         "О, нет... это еще лишь начало."
+LANG_RUSSIAN         "Рћ, РЅРµС‚... СЌС‚Рѕ РµС‰Рµ Р»РёС€СЊ РЅР°С‡Р°Р»Рѕ."
 
 REFERENCE           29KYK008
 NOTES               "Dark Side"
 LANG_ENGLISH        "Jaden, the lure of the dark side is strong, but it will ultimately destroy you!  Fight it!  Rosh resisted it, you can, too!"
-LANG_RUSSIAN         "Джейден, привлекательность темной стороны велика, но она полностью уничтожит тебя!  Сражайся с ней!  Рош противостоял ей, ты тоже сможешь!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РїСЂРёРІР»РµРєР°С‚РµР»СЊРЅРѕСЃС‚СЊ С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅС‹ РІРµР»РёРєР°, РЅРѕ РѕРЅР° РїРѕР»РЅРѕСЃС‚СЊСЋ СѓРЅРёС‡С‚РѕР¶РёС‚ С‚РµР±СЏ!  РЎСЂР°Р¶Р°Р№СЃСЏ СЃ РЅРµР№!  Р РѕС€ РїСЂРѕС‚РёРІРѕСЃС‚РѕСЏР» РµР№, С‚С‹ С‚РѕР¶Рµ СЃРјРѕР¶РµС€СЊ!"
 
 REFERENCE           29JAK017
 NOTES               "Dark Side"
 LANG_ENGLISH        "Rosh was weak!  He was too afraid to grasp the true power of the dark side!"
-LANG_RUSSIAN         "Рош был слабаком!  Он слишком боялся взять истинную мощь темной стороны!"
+LANG_RUSSIAN         "Р РѕС€ Р±С‹Р» СЃР»Р°Р±Р°РєРѕРј!  РћРЅ СЃР»РёС€РєРѕРј Р±РѕСЏР»СЃСЏ РІР·СЏС‚СЊ РёСЃС‚РёРЅРЅСѓСЋ РјРѕС‰СЊ С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅС‹!"
 
 REFERENCE           29KYK009
 NOTES               "Dark Side"
 LANG_ENGLISH        "I can't let you do this, Jaden..."
-LANG_RUSSIAN         "Я не позволю тебе это сделать, Джейден..."
+LANG_RUSSIAN         "РЇ РЅРµ РїРѕР·РІРѕР»СЋ С‚РµР±Рµ СЌС‚Рѕ СЃРґРµР»Р°С‚СЊ, Р”Р¶РµР№РґРµРЅ..."
 
 REFERENCE           29JAK018
 NOTES               "(taunting him) Dark Side"
 LANG_ENGLISH        "Then stop me, Master."
-LANG_RUSSIAN         "Тогда остановите меня, мастер."
+LANG_RUSSIAN         "РўРѕРіРґР° РѕСЃС‚Р°РЅРѕРІРёС‚Рµ РјРµРЅСЏ, РјР°СЃС‚РµСЂ."
 
 REFERENCE           29LUK005
 NOTES               "Dark Side"
 LANG_ENGLISH        "Kyle!  What happened here?"
-LANG_RUSSIAN         "Кайл!  что здесь произошло?"
+LANG_RUSSIAN         "РљР°Р№Р»!  С‡С‚Рѕ Р·РґРµСЃСЊ РїСЂРѕРёР·РѕС€Р»Рѕ?"
 
 REFERENCE           MR_29KYK010
 NOTES               "Dark Side"
 LANG_ENGLISH        "Jaden... has turned to the dark side.  And he's taken the scepter."
-LANG_RUSSIAN         "Джейден... перешел на темную сторону Силы.  И он забрал скипетр."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ... РїРµСЂРµС€РµР» РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ РЎРёР»С‹.  Р РѕРЅ Р·Р°Р±СЂР°Р» СЃРєРёРїРµС‚СЂ."
 
 REFERENCE           MS_29KYK010
 NOTES               "Dark Side"
 LANG_ENGLISH        "Jaden... has turned to the dark side.  And she's taken the scepter."
-LANG_RUSSIAN         "Джейден... перешла на темную сторону Силы.  И она забрала скипетр."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ... РїРµСЂРµС€Р»Р° РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ РЎРёР»С‹.  Р РѕРЅР° Р·Р°Р±СЂР°Р»Р° СЃРєРёРїРµС‚СЂ."
 
 REFERENCE           29LUK006
 NOTES               "Dark Side"
 LANG_ENGLISH        "And Rosh?"
-LANG_RUSSIAN         "А Рош?"
+LANG_RUSSIAN         "Рђ Р РѕС€?"
 
 REFERENCE           MR_29KYK012
 NOTES               "Dark Side"
 LANG_ENGLISH        "Dead.  Jaden killed him.  He felt betrayed by Rosh and the anger was too strong for him to control."
-LANG_RUSSIAN         "Мертв.  Джейден убила его.  Он посчитал себя преданным Рошем был в такой ярости, что не справился с ней."
+LANG_RUSSIAN         "РњРµСЂС‚РІ.  Р”Р¶РµР№РґРµРЅ СѓР±РёР»Р° РµРіРѕ.  РћРЅ РїРѕСЃС‡РёС‚Р°Р» СЃРµР±СЏ РїСЂРµРґР°РЅРЅС‹Рј Р РѕС€РµРј Р±С‹Р» РІ С‚Р°РєРѕР№ СЏСЂРѕСЃС‚Рё, С‡С‚Рѕ РЅРµ СЃРїСЂР°РІРёР»СЃСЏ СЃ РЅРµР№."
 
 REFERENCE           MS_29KYK012
 NOTES               "Dark Side"
 LANG_ENGLISH        "Dead.  Jaden killed him.  She felt betrayed by Rosh and the anger was too strong for her to control."
-LANG_RUSSIAN         "Мертв.  Джейден убила его.  Она посчитала себя преданной Рошем была в такой ярости, что не справилась с ней."
+LANG_RUSSIAN         "РњРµСЂС‚РІ.  Р”Р¶РµР№РґРµРЅ СѓР±РёР»Р° РµРіРѕ.  РћРЅР° РїРѕСЃС‡РёС‚Р°Р»Р° СЃРµР±СЏ РїСЂРµРґР°РЅРЅРѕР№ Р РѕС€РµРј Р±С‹Р»Р° РІ С‚Р°РєРѕР№ СЏСЂРѕСЃС‚Рё, С‡С‚Рѕ РЅРµ СЃРїСЂР°РІРёР»Р°СЃСЊ СЃ РЅРµР№."
 
 REFERENCE           MR_29LUK007
 NOTES               "(looking over) Dark Side"
 LANG_ENGLISH        "I... misjudged him.  I'm sorry, Kyle."
-LANG_RUSSIAN         "Я... недооценивал его.  Мне жаль, Кайл."
+LANG_RUSSIAN         "РЇ... РЅРµРґРѕРѕС†РµРЅРёРІР°Р» РµРіРѕ.  РњРЅРµ Р¶Р°Р»СЊ, РљР°Р№Р»."
 
 REFERENCE           MS_29LUK007
 NOTES               "Dark Side"
 LANG_ENGLISH        "I... misjudged her.  I'm sorry, Kyle."
-LANG_RUSSIAN         "Я... недооценивал ее.  Мне жаль, Кайл."
+LANG_RUSSIAN         "РЇ... РЅРµРґРѕРѕС†РµРЅРёРІР°Р» РµРµ.  РњРЅРµ Р¶Р°Р»СЊ, РљР°Р№Р»."
 
 REFERENCE           29KYK014
 NOTES               "Dark Side"
 LANG_ENGLISH        "I've failed both my students, Luke.  Maybe I shouldn't be teaching at the Academy.  It's not like I've been the perfect Jedi, myself."
-LANG_RUSSIAN         "Я подвел обоих своих учеников, Люк.  Возможно, мне не стоит преподавать в академии.  Я и сам вел себя не как образцовый джедай."
+LANG_RUSSIAN         "РЇ РїРѕРґРІРµР» РѕР±РѕРёС… СЃРІРѕРёС… СѓС‡РµРЅРёРєРѕРІ, Р›СЋРє.  Р’РѕР·РјРѕР¶РЅРѕ, РјРЅРµ РЅРµ СЃС‚РѕРёС‚ РїСЂРµРїРѕРґР°РІР°С‚СЊ РІ Р°РєР°РґРµРјРёРё.  РЇ Рё СЃР°Рј РІРµР» СЃРµР±СЏ РЅРµ РєР°Рє РѕР±СЂР°Р·С†РѕРІС‹Р№ РґР¶РµРґР°Р№."
 
 REFERENCE           29LUK009
 NOTES               "Dark Side"
 LANG_ENGLISH        "No Kyle.  Yoda and Ben were both great teachers, yet even they lost students."
-LANG_RUSSIAN         "Нет, Кайл.  Йода и Бен были великолепными учителями, и даже они теряли учеников."
+LANG_RUSSIAN         "РќРµС‚, РљР°Р№Р».  Р™РѕРґР° Рё Р‘РµРЅ Р±С‹Р»Рё РІРµР»РёРєРѕР»РµРїРЅС‹РјРё СѓС‡РёС‚РµР»СЏРјРё, Рё РґР°Р¶Рµ РѕРЅРё С‚РµСЂСЏР»Рё СѓС‡РµРЅРёРєРѕРІ."
 
 REFERENCE           MR_29LUK010
 NOTES               "(closes eyes) Dark Side"
 LANG_ENGLISH        "I can still sense good in him."
-LANG_RUSSIAN         "Я все еще чувствую в нем добро."
+LANG_RUSSIAN         "РЇ РІСЃРµ РµС‰Рµ С‡СѓРІСЃС‚РІСѓСЋ РІ РЅРµРј РґРѕР±СЂРѕ."
 
 REFERENCE           MS_29LUK010
 NOTES               "(closes eyes) Dark Side"
 LANG_ENGLISH        "I can still sense good in her."
-LANG_RUSSIAN         "Я все еще чувствую в ней добро."
+LANG_RUSSIAN         "РЇ РІСЃРµ РµС‰Рµ С‡СѓРІСЃС‚РІСѓСЋ РІ РЅРµР№ РґРѕР±СЂРѕ."
 
 REFERENCE           29LUK012
 NOTES               "Dark Side"
 LANG_ENGLISH        "There's always hope, Kyle, remember that."
-LANG_RUSSIAN         "Всегда есть надежда, Кайл, помни об этом."
+LANG_RUSSIAN         "Р’СЃРµРіРґР° РµСЃС‚СЊ РЅР°РґРµР¶РґР°, РљР°Р№Р», РїРѕРјРЅРё РѕР± СЌС‚РѕРј."
 
 REFERENCE           29KYK015
 NOTES               "Dark Side"
 LANG_ENGLISH        "You may be right."
-LANG_RUSSIAN         "Может, ты и прав."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, С‚С‹ Рё РїСЂР°РІ."
 
 REFERENCE           29KYK016
 NOTES               "Dark Side"
 LANG_ENGLISH        "Well, at least Tavion and her cult have been stopped.  Ragnos won't be coming back."
-LANG_RUSSIAN         "Ну, по крайней мере Тавион и ее культ прекратил свое существование.  Рагнос уже не вернется."
+LANG_RUSSIAN         "РќСѓ, РїРѕ РєСЂР°Р№РЅРµР№ РјРµСЂРµ РўР°РІРёРѕРЅ Рё РµРµ РєСѓР»СЊС‚ РїСЂРµРєСЂР°С‚РёР» СЃРІРѕРµ СЃСѓС‰РµСЃС‚РІРѕРІР°РЅРёРµ.  Р Р°РіРЅРѕСЃ СѓР¶Рµ РЅРµ РІРµСЂРЅРµС‚СЃСЏ."
 
 REFERENCE           29LUK013
 NOTES               "Dark Side"
 LANG_ENGLISH        "But the scepter is too powerful.  We must find Jaden and destroy it."
-LANG_RUSSIAN         "Но скипетр обладает слишком большой силой.  Мы должны найти Джейдена и уничтожить его."
+LANG_RUSSIAN         "РќРѕ СЃРєРёРїРµС‚СЂ РѕР±Р»Р°РґР°РµС‚ СЃР»РёС€РєРѕРј Р±РѕР»СЊС€РѕР№ СЃРёР»РѕР№.  РњС‹ РґРѕР»Р¶РЅС‹ РЅР°Р№С‚Рё Р”Р¶РµР№РґРµРЅР° Рё СѓРЅРёС‡С‚РѕР¶РёС‚СЊ РµРіРѕ."
 
 REFERENCE           29KYK017
 NOTES               "Dark Side"
 LANG_ENGLISH        "I'll take care of it.  As my student, Jaden is my responsibility. I'm taking a leave of absence from the Academy for a while.  If I find Jaden, I'll let you know."
-LANG_RUSSIAN         "Я займусь этим.  Джейден мой ученик, и я отвечаю за него. Я на некоторое время покину академию.  Если я найду Джейдена, то дам тебе знать."
+LANG_RUSSIAN         "РЇ Р·Р°Р№РјСѓСЃСЊ СЌС‚РёРј.  Р”Р¶РµР№РґРµРЅ РјРѕР№ СѓС‡РµРЅРёРє, Рё СЏ РѕС‚РІРµС‡Р°СЋ Р·Р° РЅРµРіРѕ. РЇ РЅР° РЅРµРєРѕС‚РѕСЂРѕРµ РІСЂРµРјСЏ РїРѕРєРёРЅСѓ Р°РєР°РґРµРјРёСЋ.  Р•СЃР»Рё СЏ РЅР°Р№РґСѓ Р”Р¶РµР№РґРµРЅР°, С‚Рѕ РґР°Рј С‚РµР±Рµ Р·РЅР°С‚СЊ."
 
 REFERENCE           29LUK014
 NOTES               "Dark Side"
 LANG_ENGLISH        "Be careful.  If there's anything I can do to help..."
-LANG_RUSSIAN         "Будь осторожен.  Если я хоть чем-то могу помочь..."
+LANG_RUSSIAN         "Р‘СѓРґСЊ РѕСЃС‚РѕСЂРѕР¶РµРЅ.  Р•СЃР»Рё СЏ С…РѕС‚СЊ С‡РµРј-С‚Рѕ РјРѕРіСѓ РїРѕРјРѕС‡СЊ..."
 
 REFERENCE           29KYK018
 NOTES               "Dark Side"
 LANG_ENGLISH        "I will."
-LANG_RUSSIAN         "Хорошо."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ."
 
 REFERENCE           29LUK015
 NOTES               "Dark Side"
 LANG_ENGLISH        "And may the Force be with you, Kyle."
-LANG_RUSSIAN         "И да пребудет с тобой Сила, Кайл."
+LANG_RUSSIAN         "Р РґР° РїСЂРµР±СѓРґРµС‚ СЃ С‚РѕР±РѕР№ РЎРёР»Р°, РљР°Р№Р»."
 
 
 ENDMARKER

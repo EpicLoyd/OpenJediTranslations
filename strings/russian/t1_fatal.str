@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,95 +15,95 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           08LUK001
 LANG_ENGLISH        "Kyle is currently away from the Academy, but he will meet you on Bakura. Then the two of you can investigate the station. Be sure to wait for him before you do anything."
-LANG_RUSSIAN         "Кайла сейчас нет в академии, но он встретит вас на Бакуре. После чего вдвоем вы обследуете станцию. Обязательно подождите его, прежде чем что-либо предпринимать."
+LANG_RUSSIAN         "РљР°Р№Р»Р° СЃРµР№С‡Р°СЃ РЅРµС‚ РІ Р°РєР°РґРµРјРёРё, РЅРѕ РѕРЅ РІСЃС‚СЂРµС‚РёС‚ РІР°СЃ РЅР° Р‘Р°РєСѓСЂРµ. РџРѕСЃР»Рµ С‡РµРіРѕ РІРґРІРѕРµРј РІС‹ РѕР±СЃР»РµРґСѓРµС‚Рµ СЃС‚Р°РЅС†РёСЋ. РћР±СЏР·Р°С‚РµР»СЊРЅРѕ РїРѕРґРѕР¶РґРёС‚Рµ РµРіРѕ, РїСЂРµР¶РґРµ С‡РµРј С‡С‚Рѕ-Р»РёР±Рѕ РїСЂРµРґРїСЂРёРЅРёРјР°С‚СЊ."
 
 REFERENCE           08JAK001
 LANG_ENGLISH        "Where are you, Kyle? I've been waiting here forever."
-LANG_RUSSIAN         "Где же Кайл? Я буду торчать здесь целую вечность."
+LANG_RUSSIAN         "Р“РґРµ Р¶Рµ РљР°Р№Р»? РЇ Р±СѓРґСѓ С‚РѕСЂС‡Р°С‚СЊ Р·РґРµСЃСЊ С†РµР»СѓСЋ РІРµС‡РЅРѕСЃС‚СЊ."
 
 REFERENCE           08JAK002
 LANG_ENGLISH        "Well, I can't wait around. I've got to do something."
-LANG_RUSSIAN         "Ну, я же не могу просто стоять и ждать. Мне нужно что-то делать."
+LANG_RUSSIAN         "РќСѓ, СЏ Р¶Рµ РЅРµ РјРѕРіСѓ РїСЂРѕСЃС‚Рѕ СЃС‚РѕСЏС‚СЊ Рё Р¶РґР°С‚СЊ. РњРЅРµ РЅСѓР¶РЅРѕ С‡С‚Рѕ-С‚Рѕ РґРµР»Р°С‚СЊ."
 
 REFERENCE           08JAK003
 LANG_ENGLISH        "No wonder I was supposed to wait for Kyle, it's the Empire!"
-LANG_RUSSIAN         "Не важно, что я должен дождаться Кайла, это же Империя!"
+LANG_RUSSIAN         "РќРµ РІР°Р¶РЅРѕ, С‡С‚Рѕ СЏ РґРѕР»Р¶РµРЅ РґРѕР¶РґР°С‚СЊСЃСЏ РљР°Р№Р»Р°, СЌС‚Рѕ Р¶Рµ РРјРїРµСЂРёСЏ!"
 
 REFERENCE           08IS1001
 LANG_ENGLISH        "Get the Jedi!"
-LANG_RUSSIAN         "Взять джедая!"
+LANG_RUSSIAN         "Р’Р·СЏС‚СЊ РґР¶РµРґР°СЏ!"
 
 REFERENCE           08IS2001
 LANG_ENGLISH        "Retreat!"
-LANG_RUSSIAN         "Отступаем!"
+LANG_RUSSIAN         "РћС‚СЃС‚СѓРїР°РµРј!"
 
 REFERENCE           MR_08IS3001
 LANG_ENGLISH        "Don't let him get to the control room!"
-LANG_RUSSIAN         "Не дайте ему попасть в пункт управления!"
+LANG_RUSSIAN         "РќРµ РґР°Р№С‚Рµ РµРјСѓ РїРѕРїР°СЃС‚СЊ РІ РїСѓРЅРєС‚ СѓРїСЂР°РІР»РµРЅРёСЏ!"
 
 REFERENCE           MS_08IS3001
 LANG_ENGLISH        "Don't let her get to the control room!"
-LANG_RUSSIAN         "Не дайте ей попасть в пункт управления!"
+LANG_RUSSIAN         "РќРµ РґР°Р№С‚Рµ РµР№ РїРѕРїР°СЃС‚СЊ РІ РїСѓРЅРєС‚ СѓРїСЂР°РІР»РµРЅРёСЏ!"
 
 REFERENCE           08JAK004
 LANG_ENGLISH        "Blast it Kyle, where are you? I could use some help here."
-LANG_RUSSIAN         "Черт возьми, Кайл, где ты? Здесь мне пригодиться помощь."
+LANG_RUSSIAN         "Р§РµСЂС‚ РІРѕР·СЊРјРё, РљР°Р№Р», РіРґРµ С‚С‹? Р—РґРµСЃСЊ РјРЅРµ РїСЂРёРіРѕРґРёС‚СЊСЃСЏ РїРѕРјРѕС‰СЊ."
 
 REFERENCE           08IS2002
 LANG_ENGLISH        "The charges are set, Sir."
-LANG_RUSSIAN         "Заряды установлены, сэр."
+LANG_RUSSIAN         "Р—Р°СЂСЏРґС‹ СѓСЃС‚Р°РЅРѕРІР»РµРЅС‹, СЃСЌСЂ."
 
 REFERENCE           08IS1002
 LANG_ENGLISH        "Good.  The Republic is getting complacent. They underestimate us."
-LANG_RUSSIAN         "Хорошо.  Республика учится хорошим манерам. Они недооценивали нас."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ.  Р РµСЃРїСѓР±Р»РёРєР° СѓС‡РёС‚СЃСЏ С…РѕСЂРѕС€РёРј РјР°РЅРµСЂР°Рј. РћРЅРё РЅРµРґРѕРѕС†РµРЅРёРІР°Р»Рё РЅР°СЃ."
 
 REFERENCE           08IS1003
 LANG_ENGLISH        "This will remind them what happens to traitors."
-LANG_RUSSIAN         "Это напомнит им о том, что случается с предателями."
+LANG_RUSSIAN         "Р­С‚Рѕ РЅР°РїРѕРјРЅРёС‚ РёРј Рѕ С‚РѕРј, С‡С‚Рѕ СЃР»СѓС‡Р°РµС‚СЃСЏ СЃ РїСЂРµРґР°С‚РµР»СЏРјРё."
 
 REFERENCE           08IS3002
 LANG_ENGLISH        "Sir, the countdown has begun, we need to get out of here!"
-LANG_RUSSIAN         "Сэр, отсчет пошел, нам нужно уходить!"
+LANG_RUSSIAN         "РЎСЌСЂ, РѕС‚СЃС‡РµС‚ РїРѕС€РµР», РЅР°Рј РЅСѓР¶РЅРѕ СѓС…РѕРґРёС‚СЊ!"
 
 REFERENCE           08IS1004
 LANG_ENGLISH        "Right, move out."
-LANG_RUSSIAN         "Верно, уходим."
+LANG_RUSSIAN         "Р’РµСЂРЅРѕ, СѓС…РѕРґРёРј."
 
 REFERENCE           08JAK005
 LANG_ENGLISH        "They're going to blow the whole installation!  I have to stop that countdown."
-LANG_RUSSIAN         "Они собираются взорвать все строение!  Я должен остановить таймер."
+LANG_RUSSIAN         "РћРЅРё СЃРѕР±РёСЂР°СЋС‚СЃСЏ РІР·РѕСЂРІР°С‚СЊ РІСЃРµ СЃС‚СЂРѕРµРЅРёРµ!  РЇ РґРѕР»Р¶РµРЅ РѕСЃС‚Р°РЅРѕРІРёС‚СЊ С‚Р°Р№РјРµСЂ."
 
 REFERENCE           08IS1005
 LANG_ENGLISH        "We have an intruder!  Take positions!"
-LANG_RUSSIAN         "У нас нарушитель!  Занять позиции!"
+LANG_RUSSIAN         "РЈ РЅР°СЃ РЅР°СЂСѓС€РёС‚РµР»СЊ!  Р—Р°РЅСЏС‚СЊ РїРѕР·РёС†РёРё!"
 
 REFERENCE           08IS3001
 LANG_ENGLISH        "Ready!"
-LANG_RUSSIAN         "Готовсь!"
+LANG_RUSSIAN         "Р“РѕС‚РѕРІСЃСЊ!"
 
 REFERENCE           08JAK006
 LANG_ENGLISH        "One down, Five more to go."
-LANG_RUSSIAN         "Один есть, еще пять осталось."
+LANG_RUSSIAN         "РћРґРёРЅ РµСЃС‚СЊ, РµС‰Рµ РїСЏС‚СЊ РѕСЃС‚Р°Р»РѕСЃСЊ."
 
 REFERENCE           08JAK007
 LANG_ENGLISH        "Okay... four more to go."
-LANG_RUSSIAN         "О'кей... осталось еще четыре."
+LANG_RUSSIAN         "Рћ'РєРµР№... РѕСЃС‚Р°Р»РѕСЃСЊ РµС‰Рµ С‡РµС‚С‹СЂРµ."
 
 REFERENCE           08JAK008
 LANG_ENGLISH        "Three more."
-LANG_RUSSIAN         "Еще три."
+LANG_RUSSIAN         "Р•С‰Рµ С‚СЂРё."
 
 REFERENCE           08JAK009
 LANG_ENGLISH        "Just two more left."
-LANG_RUSSIAN         "Осталось только два."
+LANG_RUSSIAN         "РћСЃС‚Р°Р»РѕСЃСЊ С‚РѕР»СЊРєРѕ РґРІР°."
 
 REFERENCE           08JAK010
 LANG_ENGLISH        "Only one more..."
-LANG_RUSSIAN         "Еще один..."
+LANG_RUSSIAN         "Р•С‰Рµ РѕРґРёРЅ..."
 
 REFERENCE           08JAK011
 LANG_ENGLISH        "That does it.  Better get back to my ship."
-LANG_RUSSIAN         "Готово.  Лучше мне вернуться на корабль."
+LANG_RUSSIAN         "Р“РѕС‚РѕРІРѕ.  Р›СѓС‡С€Рµ РјРЅРµ РІРµСЂРЅСѓС‚СЊСЃСЏ РЅР° РєРѕСЂР°Р±Р»СЊ."
 
 
 ENDMARKER

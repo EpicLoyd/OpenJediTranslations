@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,92 +15,92 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           09LUK001
 LANG_ENGLISH        "I have called you all here to relay some... disturbing news.  Someone sliced into my personal records and accessed some highly sensitive data about places where I felt a strong connection to the Force. Places like Cloud City, Hoth, and Byss."
-LANG_RUSSIAN         "Я вызвал вас, чтобы сообщить кое-какие... неприятные новости.  Кто-то вломился в мои личные записи и получил доступ к очень важным данным о местах, где я ощущаю особую связь с Силой. Места вроде Города-в-облаках, Хота и Бисса."
+LANG_RUSSIAN         "РЇ РІС‹Р·РІР°Р» РІР°СЃ, С‡С‚РѕР±С‹ СЃРѕРѕР±С‰РёС‚СЊ РєРѕРµ-РєР°РєРёРµ... РЅРµРїСЂРёСЏС‚РЅС‹Рµ РЅРѕРІРѕСЃС‚Рё.  РљС‚Рѕ-С‚Рѕ РІР»РѕРјРёР»СЃСЏ РІ РјРѕРё Р»РёС‡РЅС‹Рµ Р·Р°РїРёСЃРё Рё РїРѕР»СѓС‡РёР» РґРѕСЃС‚СѓРї Рє РѕС‡РµРЅСЊ РІР°Р¶РЅС‹Рј РґР°РЅРЅС‹Рј Рѕ РјРµСЃС‚Р°С…, РіРґРµ СЏ РѕС‰СѓС‰Р°СЋ РѕСЃРѕР±СѓСЋ СЃРІСЏР·СЊ СЃ РЎРёР»РѕР№. РњРµСЃС‚Р° РІСЂРѕРґРµ Р“РѕСЂРѕРґР°-РІ-РѕР±Р»Р°РєР°С…, РҐРѕС‚Р° Рё Р‘РёСЃСЃР°."
 
 REFERENCE           09ROP001
 NOTES               "(piping up)"
 LANG_ENGLISH        "What could they get from that, besides a tour?"
-LANG_RUSSIAN         "И какая им от этого польза, кроме путешествия?"
+LANG_RUSSIAN         "Р РєР°РєР°СЏ РёРј РѕС‚ СЌС‚РѕРіРѕ РїРѕР»СЊР·Р°, РєСЂРѕРјРµ РїСѓС‚РµС€РµСЃС‚РІРёСЏ?"
 
 REFERENCE           09KYK001
 NOTES               "(glaring at Rosh)"
 LANG_ENGLISH        "Something nasty."
-LANG_RUSSIAN         "Что-то мерзкое."
+LANG_RUSSIAN         "Р§С‚Рѕ-С‚Рѕ РјРµСЂР·РєРѕРµ."
 
 REFERENCE           09LUK002
 LANG_ENGLISH        "I believe that the scepter Jaden saw was somehow used to drain the residual Force power from the Massassi Temple."
-LANG_RUSSIAN         "Я полагаю, скипетр, который видел Джейден, каким-то образом связан с выкачиванием остаточной Силы из храма Массасси."
+LANG_RUSSIAN         "РЇ РїРѕР»Р°РіР°СЋ, СЃРєРёРїРµС‚СЂ, РєРѕС‚РѕСЂС‹Р№ РІРёРґРµР» Р”Р¶РµР№РґРµРЅ, РєР°РєРёРј-С‚Рѕ РѕР±СЂР°Р·РѕРј СЃРІСЏР·Р°РЅ СЃ РІС‹РєР°С‡РёРІР°РЅРёРµРј РѕСЃС‚Р°С‚РѕС‡РЅРѕР№ РЎРёР»С‹ РёР· С…СЂР°РјР° РњР°СЃСЃР°СЃСЃРё."
 
 REFERENCE           09JE1001
 LANG_ENGLISH        "Drain the Force?  How can anyone do that?"
-LANG_RUSSIAN         "Выкачивал Силу?  Как такое возможно?"
+LANG_RUSSIAN         "Р’С‹РєР°С‡РёРІР°Р» РЎРёР»Сѓ?  РљР°Рє С‚Р°РєРѕРµ РІРѕР·РјРѕР¶РЅРѕ?"
 
 REFERENCE           09LUK003
 LANG_ENGLISH        "I'm not sure.  But I've learned from the Jedi Holocron that devices were created in the past that could absorb and store Force energy."
-LANG_RUSSIAN         "Я не уверен.  Но из Голокрона Джедаев я узнал, что в прошлом уже создавались устройства, собирающие энергию Силы."
+LANG_RUSSIAN         "РЇ РЅРµ СѓРІРµСЂРµРЅ.  РќРѕ РёР· Р“РѕР»РѕРєСЂРѕРЅР° Р”Р¶РµРґР°РµРІ СЏ СѓР·РЅР°Р», С‡С‚Рѕ РІ РїСЂРѕС€Р»РѕРј СѓР¶Рµ СЃРѕР·РґР°РІР°Р»РёСЃСЊ СѓСЃС‚СЂРѕР№СЃС‚РІР°, СЃРѕР±РёСЂР°СЋС‰РёРµ СЌРЅРµСЂРіРёСЋ РЎРёР»С‹."
 
 REFERENCE           09KYK002
 LANG_ENGLISH        "Those people Jaden saw may have discovered some way to harvest Force power with that scepter."
-LANG_RUSSIAN         "Те люди, которых видел Джейден, скорее всего, как-то научились собирать энергию Силы с помощью скипетра."
+LANG_RUSSIAN         "РўРµ Р»СЋРґРё, РєРѕС‚РѕСЂС‹С… РІРёРґРµР» Р”Р¶РµР№РґРµРЅ, СЃРєРѕСЂРµРµ РІСЃРµРіРѕ, РєР°Рє-С‚Рѕ РЅР°СѓС‡РёР»РёСЃСЊ СЃРѕР±РёСЂР°С‚СЊ СЌРЅРµСЂРіРёСЋ РЎРёР»С‹ СЃ РїРѕРјРѕС‰СЊСЋ СЃРєРёРїРµС‚СЂР°."
 
 REFERENCE           09LUK004
 LANG_ENGLISH        "Which could be dangerous indeed."
-LANG_RUSSIAN         "Что может быть опасно."
+LANG_RUSSIAN         "Р§С‚Рѕ РјРѕР¶РµС‚ Р±С‹С‚СЊ РѕРїР°СЃРЅРѕ."
 
 REFERENCE           09JAK001
 NOTES               "(speaks up)"
 LANG_ENGLISH        "So what are we going to do?"
-LANG_RUSSIAN         "Так что же мы будем делать?"
+LANG_RUSSIAN         "РўР°Рє С‡С‚Рѕ Р¶Рµ РјС‹ Р±СѓРґРµРј РґРµР»Р°С‚СЊ?"
 
 REFERENCE           09LUK005
 LANG_ENGLISH        "We'll have to investigate any locations from my records.  That includes all of you students.  Corran, you're going to Wayland.  Kyle, I need you to look at the Valley of the Jedi..."
-LANG_RUSSIAN         "Мы осмотрим все места из моих записей.  Это касается всех студентов.  Корран, ты отправляешься в Вэйланд.  Кайл, ты должен осмотреть Аллею Джедаев..."
+LANG_RUSSIAN         "РњС‹ РѕСЃРјРѕС‚СЂРёРј РІСЃРµ РјРµСЃС‚Р° РёР· РјРѕРёС… Р·Р°РїРёСЃРµР№.  Р­С‚Рѕ РєР°СЃР°РµС‚СЃСЏ РІСЃРµС… СЃС‚СѓРґРµРЅС‚РѕРІ.  РљРѕСЂСЂР°РЅ, С‚С‹ РѕС‚РїСЂР°РІР»СЏРµС€СЊСЃСЏ РІ Р’СЌР№Р»Р°РЅРґ.  РљР°Р№Р», С‚С‹ РґРѕР»Р¶РµРЅ РѕСЃРјРѕС‚СЂРµС‚СЊ РђР»Р»РµСЋ Р”Р¶РµРґР°РµРІ..."
 
 REFERENCE           09ROP002
 NOTES               "(turning towards Jaden)"
 LANG_ENGLISH        "Finally, some real action!"
-LANG_RUSSIAN         "Наконец-то, хоть какое-то задание!"
+LANG_RUSSIAN         "РќР°РєРѕРЅРµС†-С‚Рѕ, С…РѕС‚СЊ РєР°РєРѕРµ-С‚Рѕ Р·Р°РґР°РЅРёРµ!"
 
 REFERENCE           09JAK002
 NOTES               "(seems worried)"
 LANG_ENGLISH        "Why would they be stealing Force power?"
-LANG_RUSSIAN         "Зачем им забирать энергию Силы?"
+LANG_RUSSIAN         "Р—Р°С‡РµРј РёРј Р·Р°Р±РёСЂР°С‚СЊ СЌРЅРµСЂРіРёСЋ РЎРёР»С‹?"
 
 REFERENCE           09ROP003
 NOTES               "(shrugs, doesn't care)"
 LANG_ENGLISH        "I don't know.  You worry too much, Jaden.  I bet that these cult guys can't take on a Jedi."
-LANG_RUSSIAN         "Я не знаю.  Ты не волнуйся, Джейден.  Держу пари, этим служителям культа не одолеть Джедаев."
+LANG_RUSSIAN         "РЇ РЅРµ Р·РЅР°СЋ.  РўС‹ РЅРµ РІРѕР»РЅСѓР№СЃСЏ, Р”Р¶РµР№РґРµРЅ.  Р”РµСЂР¶Сѓ РїР°СЂРё, СЌС‚РёРј СЃР»СѓР¶РёС‚РµР»СЏРј РєСѓР»СЊС‚Р° РЅРµ РѕРґРѕР»РµС‚СЊ Р”Р¶РµРґР°РµРІ."
 
 REFERENCE           09JAK003
 LANG_ENGLISH        "Well, we're not Jedi yet.  We're just students."
-LANG_RUSSIAN         "Ну, мы же пока не Джедаи.  Мы просто студенты."
+LANG_RUSSIAN         "РќСѓ, РјС‹ Р¶Рµ РїРѕРєР° РЅРµ Р”Р¶РµРґР°Рё.  РњС‹ РїСЂРѕСЃС‚Рѕ СЃС‚СѓРґРµРЅС‚С‹."
 
 REFERENCE           09KYK003
 LANG_ENGLISH        "You may be 'just' students, but you're both well on your way.  Don't rush it."
-LANG_RUSSIAN         "Может, вы и 'просто' студенты, но идете вы верной дорогой.  Не забегайте вперед."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, РІС‹ Рё 'РїСЂРѕСЃС‚Рѕ' СЃС‚СѓРґРµРЅС‚С‹, РЅРѕ РёРґРµС‚Рµ РІС‹ РІРµСЂРЅРѕР№ РґРѕСЂРѕРіРѕР№.  РќРµ Р·Р°Р±РµРіР°Р№С‚Рµ РІРїРµСЂРµРґ."
 
 REFERENCE           09LUK006
 LANG_ENGLISH        "Jaden, I'm sending you to Hoth, where I had a vision of Obi-Wan Kenobi.  I imagine there is a pretty strong aura there."
-LANG_RUSSIAN         "Джейден, я посылаю тебя на Хот, там в видении ко мне приходил Оби-Ван Кеноби.  Полагаю, там очень сильная аура."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЏ РїРѕСЃС‹Р»Р°СЋ С‚РµР±СЏ РЅР° РҐРѕС‚, С‚Р°Рј РІ РІРёРґРµРЅРёРё РєРѕ РјРЅРµ РїСЂРёС…РѕРґРёР» РћР±Рё-Р’Р°РЅ РљРµРЅРѕР±Рё.  РџРѕР»Р°РіР°СЋ, С‚Р°Рј РѕС‡РµРЅСЊ СЃРёР»СЊРЅР°СЏ Р°СѓСЂР°."
 
 REFERENCE           09LUK007
 NOTES               "(To Rosh:)"
 LANG_ENGLISH        "Rosh, I'm sending you to the remains of the planet Byss.  It's very remote, so I doubt the Cult has been there.  Don't stay too long; the Imperial Remnant may still be operating in the area."
-LANG_RUSSIAN         "Рош, я отправляю тебя к останкам планеты Бисс.  Она находится очень далеко, и я сомневаюсь, что культ там уже побывал.  Не задерживайтесь, остатки имперских сил все еще могут находиться в вашем районе."
+LANG_RUSSIAN         "Р РѕС€, СЏ РѕС‚РїСЂР°РІР»СЏСЋ С‚РµР±СЏ Рє РѕСЃС‚Р°РЅРєР°Рј РїР»Р°РЅРµС‚С‹ Р‘РёСЃСЃ.  РћРЅР° РЅР°С…РѕРґРёС‚СЃСЏ РѕС‡РµРЅСЊ РґР°Р»РµРєРѕ, Рё СЏ СЃРѕРјРЅРµРІР°СЋСЃСЊ, С‡С‚Рѕ РєСѓР»СЊС‚ С‚Р°Рј СѓР¶Рµ РїРѕР±С‹РІР°Р».  РќРµ Р·Р°РґРµСЂР¶РёРІР°Р№С‚РµСЃСЊ, РѕСЃС‚Р°С‚РєРё РёРјРїРµСЂСЃРєРёС… СЃРёР» РІСЃРµ РµС‰Рµ РјРѕРіСѓС‚ РЅР°С…РѕРґРёС‚СЊСЃСЏ РІ РІР°С€РµРј СЂР°Р№РѕРЅРµ."
 
 REFERENCE           09ROP004
 NOTES               "(cockily)"
 LANG_ENGLISH        "No problem."
-LANG_RUSSIAN         "Нет проблем."
+LANG_RUSSIAN         "РќРµС‚ РїСЂРѕР±Р»РµРј."
 
 REFERENCE           09LUK008
 LANG_ENGLISH        "That's everyone then.  May the Force be with all of you."
-LANG_RUSSIAN         "Тогда это все.  И да пребудет с вами Сила."
+LANG_RUSSIAN         "РўРѕРіРґР° СЌС‚Рѕ РІСЃРµ.  Р РґР° РїСЂРµР±СѓРґРµС‚ СЃ РІР°РјРё РЎРёР»Р°."
 
 REFERENCE           09ROP005
 NOTES               "(joking)"
 LANG_ENGLISH        "Good luck. Call me if you need any help."
-LANG_RUSSIAN         "Желаю удачи. Если вам понадобится помощь, вызывайте меня."
+LANG_RUSSIAN         "Р–РµР»Р°СЋ СѓРґР°С‡Рё. Р•СЃР»Рё РІР°Рј РїРѕРЅР°РґРѕР±РёС‚СЃСЏ РїРѕРјРѕС‰СЊ, РІС‹Р·С‹РІР°Р№С‚Рµ РјРµРЅСЏ."
 
 
 ENDMARKER

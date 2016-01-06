@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,110 +15,110 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           21KYK001
 LANG_ENGLISH        "I'm going with you on this one.  Rosh disappeared near Byss and it's too dangerous for anyone to go alone."
-LANG_RUSSIAN         "На этой штуке я полечу вместе с тобой.  Рош исчез возле Бисса, туда опасно лететь в одиночку."
+LANG_RUSSIAN         "РќР° СЌС‚РѕР№ С€С‚СѓРєРµ СЏ РїРѕР»РµС‡Сѓ РІРјРµСЃС‚Рµ СЃ С‚РѕР±РѕР№.  Р РѕС€ РёСЃС‡РµР· РІРѕР·Р»Рµ Р‘РёСЃСЃР°, С‚СѓРґР° РѕРїР°СЃРЅРѕ Р»РµС‚РµС‚СЊ РІ РѕРґРёРЅРѕС‡РєСѓ."
 
 REFERENCE           21JAK001
 NOTES               "(concentrating)"
 LANG_ENGLISH        "I don't sense the dark side here, Kyle."
-LANG_RUSSIAN         "Я не чувствую здесь темной стороны, Кайл."
+LANG_RUSSIAN         "РЇ РЅРµ С‡СѓРІСЃС‚РІСѓСЋ Р·РґРµСЃСЊ С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅС‹, РљР°Р№Р»."
 
 REFERENCE           21KYK002
 LANG_ENGLISH        "Me neither.  That's not good. Tavion must have been here already."
-LANG_RUSSIAN         "Я тоже.  Это плохо. Тавион уже должна быть здесь."
+LANG_RUSSIAN         "РЇ С‚РѕР¶Рµ.  Р­С‚Рѕ РїР»РѕС…Рѕ. РўР°РІРёРѕРЅ СѓР¶Рµ РґРѕР»Р¶РЅР° Р±С‹С‚СЊ Р·РґРµСЃСЊ."
 
 REFERENCE           21KYK003
 LANG_ENGLISH        "They've got a tractor beam on us.  I can't break free!"
-LANG_RUSSIAN         "Они поймали нас притягивающим лучом.  Я не могу пробиться!"
+LANG_RUSSIAN         "РћРЅРё РїРѕР№РјР°Р»Рё РЅР°СЃ РїСЂРёС‚СЏРіРёРІР°СЋС‰РёРј Р»СѓС‡РѕРј.  РЇ РЅРµ РјРѕРіСѓ РїСЂРѕР±РёС‚СЊСЃСЏ!"
 
 REFERENCE           21KYK004
 LANG_ENGLISH        "Okay here's the plan:  I served on one of these ships back in my Imperial days.  You disable the tractor beam and I'll trigger the ship's self-destruct.  Ready?"
-LANG_RUSSIAN         "О'кей, вот мой план:  когда-то давно я служил под началом имперцев на таком корабле.  Ты отключаешь притягивающий луч, а я включу механизм самоликвидации корабля.  Готовы?"
+LANG_RUSSIAN         "Рћ'РєРµР№, РІРѕС‚ РјРѕР№ РїР»Р°РЅ:  РєРѕРіРґР°-С‚Рѕ РґР°РІРЅРѕ СЏ СЃР»СѓР¶РёР» РїРѕРґ РЅР°С‡Р°Р»РѕРј РёРјРїРµСЂС†РµРІ РЅР° С‚Р°РєРѕРј РєРѕСЂР°Р±Р»Рµ.  РўС‹ РѕС‚РєР»СЋС‡Р°РµС€СЊ РїСЂРёС‚СЏРіРёРІР°СЋС‰РёР№ Р»СѓС‡, Р° СЏ РІРєР»СЋС‡Сѓ РјРµС…Р°РЅРёР·Рј СЃР°РјРѕР»РёРєРІРёРґР°С†РёРё РєРѕСЂР°Р±Р»СЏ.  Р“РѕС‚РѕРІС‹?"
 
 REFERENCE           21JAK002
 LANG_ENGLISH        "Ready as I'll ever be."
-LANG_RUSSIAN         "Всегда готов."
+LANG_RUSSIAN         "Р’СЃРµРіРґР° РіРѕС‚РѕРІ."
 
 REFERENCE           21KYK005
 LANG_ENGLISH        "Find the tractor beam and disable it!"
-LANG_RUSSIAN         "Найди притягивающий луч и выведи его из строя!"
+LANG_RUSSIAN         "РќР°Р№РґРё РїСЂРёС‚СЏРіРёРІР°СЋС‰РёР№ Р»СѓС‡ Рё РІС‹РІРµРґРё РµРіРѕ РёР· СЃС‚СЂРѕСЏ!"
 
 REFERENCE           21KYK006
 LANG_ENGLISH        "What are you waiting for, an invitation?"
-LANG_RUSSIAN         "Чего ты ждешь, торжественного приглашения?"
+LANG_RUSSIAN         "Р§РµРіРѕ С‚С‹ Р¶РґРµС€СЊ, С‚РѕСЂР¶РµСЃС‚РІРµРЅРЅРѕРіРѕ РїСЂРёРіР»Р°С€РµРЅРёСЏ?"
 
 REFERENCE           21KYK007
 LANG_ENGLISH        "Go!"
-LANG_RUSSIAN         "Вперед!"
+LANG_RUSSIAN         "Р’РїРµСЂРµРґ!"
 
 REFERENCE           21KYK008
 LANG_ENGLISH        "Jan told me there would be days like this.  Get going!"
-LANG_RUSSIAN         "Жан говорил мне, что такие деньки настанут.  Продолжать движение!"
+LANG_RUSSIAN         "Р–Р°РЅ РіРѕРІРѕСЂРёР» РјРЅРµ, С‡С‚Рѕ С‚Р°РєРёРµ РґРµРЅСЊРєРё РЅР°СЃС‚Р°РЅСѓС‚.  РџСЂРѕРґРѕР»Р¶Р°С‚СЊ РґРІРёР¶РµРЅРёРµ!"
 
 REFERENCE           21KYK009
 LANG_ENGLISH        "We're not gonna get out of here if you don't do your part!"
-LANG_RUSSIAN         "Мы не выберемся отсюда, если ты не справишься со своей задачей!"
+LANG_RUSSIAN         "РњС‹ РЅРµ РІС‹Р±РµСЂРµРјСЃСЏ РѕС‚СЃСЋРґР°, РµСЃР»Рё С‚С‹ РЅРµ СЃРїСЂР°РІРёС€СЊСЃСЏ СЃРѕ СЃРІРѕРµР№ Р·Р°РґР°С‡РµР№!"
 
 REFERENCE           21JAK003
 LANG_ENGLISH        "Tractor beam disabled."
-LANG_RUSSIAN         "Притягивающий луч отключен."
+LANG_RUSSIAN         "РџСЂРёС‚СЏРіРёРІР°СЋС‰РёР№ Р»СѓС‡ РѕС‚РєР»СЋС‡РµРЅ."
 
 REFERENCE           21KYK010
 NOTES               "(via comm)"
 LANG_ENGLISH        "Good.  Head back to the ship. I just need a little more time."
-LANG_RUSSIAN         "Хорошо.  Возвращайся на корабль. Мне нужно еще немного времени."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ.  Р’РѕР·РІСЂР°С‰Р°Р№СЃСЏ РЅР° РєРѕСЂР°Р±Р»СЊ. РњРЅРµ РЅСѓР¶РЅРѕ РµС‰Рµ РЅРµРјРЅРѕРіРѕ РІСЂРµРјРµРЅРё."
 
 REFERENCE           21KYK011
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden!  Someone must have sent a distress signal.  We've got incoming fighters!"
-LANG_RUSSIAN         "Джейден!  Похоже, кто-то послал сигнал бедствия.  К нам приближаются истребители!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ!  РџРѕС…РѕР¶Рµ, РєС‚Рѕ-С‚Рѕ РїРѕСЃР»Р°Р» СЃРёРіРЅР°Р» Р±РµРґСЃС‚РІРёСЏ.  Рљ РЅР°Рј РїСЂРёР±Р»РёР¶Р°СЋС‚СЃСЏ РёСЃС‚СЂРµР±РёС‚РµР»Рё!"
 
 REFERENCE           21KYK012
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden, I still need more time!  Get to the guns and hold off those TIEs!"
-LANG_RUSSIAN         "Джейден, мне нужно еще время!  Берись за орудия и сдерживай этих тайцев!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РјРЅРµ РЅСѓР¶РЅРѕ РµС‰Рµ РІСЂРµРјСЏ!  Р‘РµСЂРёСЃСЊ Р·Р° РѕСЂСѓРґРёСЏ Рё СЃРґРµСЂР¶РёРІР°Р№ СЌС‚РёС… С‚Р°Р№С†РµРІ!"
 
 REFERENCE           21KYK013
 NOTES               "(via comm)"
 LANG_ENGLISH        "They're sending TIE Bombers!"
-LANG_RUSSIAN         "Они посылают тайские бомбардировщики!"
+LANG_RUSSIAN         "РћРЅРё РїРѕСЃС‹Р»Р°СЋС‚ С‚Р°Р№СЃРєРёРµ Р±РѕРјР±Р°СЂРґРёСЂРѕРІС‰РёРєРё!"
 
 REFERENCE           21KYK014
 NOTES               "(via comm)"
 LANG_ENGLISH        "Good shooting!"
-LANG_RUSSIAN         "Хорошая стрельба!"
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Р°СЏ СЃС‚СЂРµР»СЊР±Р°!"
 
 REFERENCE           21KYK015
 NOTES               "(via comm)"
 LANG_ENGLISH        "Just another minute!"
-LANG_RUSSIAN         "Еще минуту!"
+LANG_RUSSIAN         "Р•С‰Рµ РјРёРЅСѓС‚Сѓ!"
 
 REFERENCE           21KYK016
 NOTES               "(via comm)"
 LANG_ENGLISH        "Almost done!"
-LANG_RUSSIAN         "Почти закончил!"
+LANG_RUSSIAN         "РџРѕС‡С‚Рё Р·Р°РєРѕРЅС‡РёР»!"
 
 REFERENCE           21KYK017
 NOTES               "(via comm)"
 LANG_ENGLISH        "We're taking too much fire!"
-LANG_RUSSIAN         "У нас слишком много попаданий!"
+LANG_RUSSIAN         "РЈ РЅР°СЃ СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ РїРѕРїР°РґР°РЅРёР№!"
 
 REFERENCE           21KYK018
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden, we want this bucket of bolts to explode after we get off it!"
-LANG_RUSSIAN         "Джейден, мы хотим, чтобы после нашего взлета эта консервная банка взорвалась!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РјС‹ С…РѕС‚РёРј, С‡С‚РѕР±С‹ РїРѕСЃР»Рµ РЅР°С€РµРіРѕ РІР·Р»РµС‚Р° СЌС‚Р° РєРѕРЅСЃРµСЂРІРЅР°СЏ Р±Р°РЅРєР° РІР·РѕСЂРІР°Р»Р°СЃСЊ!"
 
 REFERENCE           21KYK019
 NOTES               "(via comm)"
 LANG_ENGLISH        "I'm done, meet me back at the Claw!"
-LANG_RUSSIAN         "Все готово, встречайте меня на Когте!"
+LANG_RUSSIAN         "Р’СЃРµ РіРѕС‚РѕРІРѕ, РІСЃС‚СЂРµС‡Р°Р№С‚Рµ РјРµРЅСЏ РЅР° РљРѕРіС‚Рµ!"
 
 REFERENCE           21KYK020
 LANG_ENGLISH        "An Imperial Dreadnaught!  I'm gonna get us out of here!"
-LANG_RUSSIAN         "Имперский дредноут!  Я вытащу нас отсюда!"
+LANG_RUSSIAN         "РРјРїРµСЂСЃРєРёР№ РґСЂРµРґРЅРѕСѓС‚!  РЇ РІС‹С‚Р°С‰Сѓ РЅР°СЃ РѕС‚СЃСЋРґР°!"
 
 REFERENCE           21KYK021
 LANG_ENGLISH        "Let's get out of here.  This ship is gonna blow!"
-LANG_RUSSIAN         "Нужно уходить.  Этот корабль сейчас взорвется."
+LANG_RUSSIAN         "РќСѓР¶РЅРѕ СѓС…РѕРґРёС‚СЊ.  Р­С‚РѕС‚ РєРѕСЂР°Р±Р»СЊ СЃРµР№С‡Р°СЃ РІР·РѕСЂРІРµС‚СЃСЏ."
 
 
 ENDMARKER

@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,565 +16,565 @@ FILENOTES           "In-game text for various events"
 REFERENCE           PICKUPLINE
 NOTES               "Printed before item name when pick is obtained"
 LANG_ENGLISH        "Obtained"
-LANG_RUSSIAN         "Получено"
+LANG_RUSSIAN         "РџРѕР»СѓС‡РµРЅРѕ"
 
 REFERENCE           SUICIDE_EXPLOSIVES_MALE
 NOTES               "Printed after player name when male player kills self with explosive weapon"
 LANG_ENGLISH        "blew himself up"
-LANG_RUSSIAN         "подорвался"
+LANG_RUSSIAN         "РїРѕРґРѕСЂРІР°Р»СЃСЏ"
 
 REFERENCE           SUICIDE_EXPLOSIVES_GENDERLESS
 NOTES               "Above, genderless"
 LANG_ENGLISH        "blew itself up"
-LANG_RUSSIAN         "подорвалось"
+LANG_RUSSIAN         "РїРѕРґРѕСЂРІР°Р»РѕСЃСЊ"
 
 REFERENCE           SUICIDE_EXPLOSIVES_FEMALE
 NOTES               "Above, female"
 LANG_ENGLISH        "blew herself up"
-LANG_RUSSIAN         "подорвалась"
+LANG_RUSSIAN         "РїРѕРґРѕСЂРІР°Р»Р°СЃСЊ"
 
 REFERENCE           SUICIDE_SHOT_MALE
 NOTES               "Male player shot self"
 LANG_ENGLISH        "shot himself"
-LANG_RUSSIAN         "застрелился"
+LANG_RUSSIAN         "Р·Р°СЃС‚СЂРµР»РёР»СЃСЏ"
 
 REFERENCE           SUICIDE_SHOT_GENDERLESS
 NOTES               "Above, genderless"
 LANG_ENGLISH        "shot itself"
-LANG_RUSSIAN         "застрелилось"
+LANG_RUSSIAN         "Р·Р°СЃС‚СЂРµР»РёР»РѕСЃСЊ"
 
 REFERENCE           SUICIDE_SHOT_FEMALE
 NOTES               "Above, female"
 LANG_ENGLISH        "shot herself"
-LANG_RUSSIAN         "застрелилась"
+LANG_RUSSIAN         "Р·Р°СЃС‚СЂРµР»РёР»Р°СЃСЊ"
 
 REFERENCE           SUICIDE_ELECTROCUTED_MALE
 NOTES               "Male player electrocuted himself"
 LANG_ENGLISH        "electrocuted himself"
-LANG_RUSSIAN         "закоротил себя"
+LANG_RUSSIAN         "Р·Р°РєРѕСЂРѕС‚РёР» СЃРµР±СЏ"
 
 REFERENCE           SUICIDE_ELECTROCUTED_GENDERLESS
 NOTES               "Above, genderless"
 LANG_ENGLISH        "electrocuted itself"
-LANG_RUSSIAN         "закоротило себя"
+LANG_RUSSIAN         "Р·Р°РєРѕСЂРѕС‚РёР»Рѕ СЃРµР±СЏ"
 
 REFERENCE           SUICIDE_ELECTROCUTED_FEMALE
 NOTES               "Above, female"
 LANG_ENGLISH        "electrocuted herself"
-LANG_RUSSIAN         "закоротила себя"
+LANG_RUSSIAN         "Р·Р°РєРѕСЂРѕС‚РёР»Р° СЃРµР±СЏ"
 
 REFERENCE           SUICIDE_GENERICDEATH_MALE
 NOTES               "Male died in a generic way"
 LANG_ENGLISH        "killed himself"
-LANG_RUSSIAN         "убил себя"
+LANG_RUSSIAN         "СѓР±РёР» СЃРµР±СЏ"
 
 REFERENCE           SUICIDE_GENERICDEATH_GENDERLESS
 NOTES               "Above, genderless"
 LANG_ENGLISH        "killed itself"
-LANG_RUSSIAN         "убило себя"
+LANG_RUSSIAN         "СѓР±РёР»Рѕ СЃРµР±СЏ"
 
 REFERENCE           KILLED_MESSAGE
 NOTES               ""you fragged" message"
 LANG_ENGLISH        "You killed"
-LANG_RUSSIAN         "Вы убили"
+LANG_RUSSIAN         "Р’С‹ СѓР±РёР»Рё"
 
 REFERENCE           KILLED_STUN
 NOTES               "Death message, stun baton"
 LANG_ENGLISH        "was brutally stunned by"
-LANG_RUSSIAN         "был жестоко оглушен"
+LANG_RUSSIAN         "Р±С‹Р» Р¶РµСЃС‚РѕРєРѕ РѕРіР»СѓС€РµРЅ"
 
 REFERENCE           KILLED_SABER
 NOTES               "Death message, saber"
 LANG_ENGLISH        "was sabered by"
-LANG_RUSSIAN         "был изрезан"
+LANG_RUSSIAN         "Р±С‹Р» РёР·СЂРµР·Р°РЅ"
 
 REFERENCE           KILLED_BRYAR
 NOTES               "Death message, bryar"
 LANG_ENGLISH        "was shot by"
-LANG_RUSSIAN         "был подстрелен"
+LANG_RUSSIAN         "Р±С‹Р» РїРѕРґСЃС‚СЂРµР»РµРЅ"
 
 REFERENCE           KILLED_BLASTER
 NOTES               "Death message, blaster"
 LANG_ENGLISH        "was blasted by"
-LANG_RUSSIAN         "был взорван"
+LANG_RUSSIAN         "Р±С‹Р» РІР·РѕСЂРІР°РЅ"
 
 REFERENCE           KILLED_DISRUPTOR
 NOTES               "Death message, disruptor"
 LANG_ENGLISH        "was disrupted by"
-LANG_RUSSIAN         "был аннигилирован"
+LANG_RUSSIAN         "Р±С‹Р» Р°РЅРЅРёРіРёР»РёСЂРѕРІР°РЅ"
 
 REFERENCE           KILLED_DISRUPTORSNIPE
 NOTES               "Death message, disruptor in sniping mode"
 LANG_ENGLISH        "was sniped by"
-LANG_RUSSIAN         "был снесен метким выстрелом"
+LANG_RUSSIAN         "Р±С‹Р» СЃРЅРµСЃРµРЅ РјРµС‚РєРёРј РІС‹СЃС‚СЂРµР»РѕРј"
 
 REFERENCE           KILLED_BOWCASTER
 NOTES               "Death message, wookie bowcaster"
 LANG_ENGLISH        "was bolted by"
-LANG_RUSSIAN         "был прибит к стенке"
+LANG_RUSSIAN         "Р±С‹Р» РїСЂРёР±РёС‚ Рє СЃС‚РµРЅРєРµ"
 
 REFERENCE           KILLED_REPEATER
 NOTES               "Death message, repeater"
 LANG_ENGLISH        "was riddled by"
-LANG_RUSSIAN         "был продырявлен"
+LANG_RUSSIAN         "Р±С‹Р» РїСЂРѕРґС‹СЂСЏРІР»РµРЅ"
 
 REFERENCE           KILLED_REPEATERALT
 NOTES               "Death message, repeater alt fire"
 LANG_ENGLISH        "was smashed by"
-LANG_RUSSIAN         "был размазан"
+LANG_RUSSIAN         "Р±С‹Р» СЂР°Р·РјР°Р·Р°РЅ"
 
 REFERENCE           KILLED_DEMP2
 NOTES               "Death message, DEMP2"
 LANG_ENGLISH        "was electrocuted by"
-LANG_RUSSIAN         "был закорочен"
+LANG_RUSSIAN         "Р±С‹Р» Р·Р°РєРѕСЂРѕС‡РµРЅ"
 
 REFERENCE           KILLED_FLECHETTE
 NOTES               "Death message, flechette"
 LANG_ENGLISH        "was spiked by"
-LANG_RUSSIAN         "был наколот"
+LANG_RUSSIAN         "Р±С‹Р» РЅР°РєРѕР»РѕС‚"
 
 REFERENCE           KILLED_FLECHETTE_MINE
 NOTES               "Death message, flechette proxmine"
 LANG_ENGLISH        "was shrapnelled by"
-LANG_RUSSIAN         "был изрешечен"
+LANG_RUSSIAN         "Р±С‹Р» РёР·СЂРµС€РµС‡РµРЅ"
 
 REFERENCE           KILLED_ROCKET
 NOTES               "Death message, rocket"
 LANG_ENGLISH        "was rocketed by"
-LANG_RUSSIAN         "попал под ракету"
+LANG_RUSSIAN         "РїРѕРїР°Р» РїРѕРґ СЂР°РєРµС‚Сѓ"
 
 REFERENCE           KILLED_ROCKET_HOMING
 NOTES               "Death message, homing rocket"
 LANG_ENGLISH        "was homed by"
-LANG_RUSSIAN         "попал под наводку"
+LANG_RUSSIAN         "РїРѕРїР°Р» РїРѕРґ РЅР°РІРѕРґРєСѓ"
 
 REFERENCE           KILLED_THERMAL
 NOTES               "Death message, thermal detonator"
 LANG_ENGLISH        "was detonated by"
-LANG_RUSSIAN         "был подорван"
+LANG_RUSSIAN         "Р±С‹Р» РїРѕРґРѕСЂРІР°РЅ"
 
 REFERENCE           KILLED_TRIPMINE
 NOTES               "Death message, tripmine"
 LANG_ENGLISH        "was tripped by"
-LANG_RUSSIAN         "попался в ловушку "
+LANG_RUSSIAN         "РїРѕРїР°Р»СЃСЏ РІ Р»РѕРІСѓС€РєСѓ "
 
 REFERENCE           KILLED_TRIPMINE_TIMED
 NOTES               "Death message, tripmine timed"
 LANG_ENGLISH        "was mined by"
-LANG_RUSSIAN         "был заминирован"
+LANG_RUSSIAN         "Р±С‹Р» Р·Р°РјРёРЅРёСЂРѕРІР°РЅ"
 
 REFERENCE           KILLED_DETPACK
 NOTES               "Death message, detpack"
 LANG_ENGLISH        "was detonated by"
-LANG_RUSSIAN         "был подорван"
+LANG_RUSSIAN         "Р±С‹Р» РїРѕРґРѕСЂРІР°РЅ"
 
 REFERENCE           KILLED_DARKFORCE
 NOTES               "Death message, dark force power"
 LANG_ENGLISH        "was annihilated by"
-LANG_RUSSIAN         "был уничтожен"
+LANG_RUSSIAN         "Р±С‹Р» СѓРЅРёС‡С‚РѕР¶РµРЅ"
 
 REFERENCE           KILLED_TELEFRAG
 NOTES               "Death message, telefrag"
 LANG_ENGLISH        "was crushed into another dimension by"
-LANG_RUSSIAN         "был выброшен в другое измерение"
+LANG_RUSSIAN         "Р±С‹Р» РІС‹Р±СЂРѕС€РµРЅ РІ РґСЂСѓРіРѕРµ РёР·РјРµСЂРµРЅРёРµ"
 
 REFERENCE           KILLED_GENERIC
 NOTES               "Death message, generic"
 LANG_ENGLISH        "was killed by"
-LANG_RUSSIAN         "был убит"
+LANG_RUSSIAN         "Р±С‹Р» СѓР±РёС‚"
 
 REFERENCE           DIED_GENERIC
 NOTES               "Generic death"
 LANG_ENGLISH        "died."
-LANG_RUSSIAN         "погиб."
+LANG_RUSSIAN         "РїРѕРіРёР±."
 
 REFERENCE           SUICIDE_GENERICDEATH_FEMALE
 NOTES               "Generic female suicide"
 LANG_ENGLISH        "killed herself"
-LANG_RUSSIAN         "убила себя"
+LANG_RUSSIAN         "СѓР±РёР»Р° СЃРµР±СЏ"
 
 REFERENCE           KILLED_FORCETOSS
 NOTES               "Player killed another player by pushing, pulling, or gripping and dropping another player into something lethal"
 LANG_ENGLISH        "was thrown to their doom by"
-LANG_RUSSIAN         "встретил свою погибель в лице"
+LANG_RUSSIAN         "РІСЃС‚СЂРµС‚РёР» СЃРІРѕСЋ РїРѕРіРёР±РµР»СЊ РІ Р»РёС†Рµ"
 
 REFERENCE           FRAGGED_FLAG_CARRIER
 NOTES               "Player fragged a team's flag carrier"
 LANG_ENGLISH        "killed %s's flag carrier"
-LANG_RUSSIAN         "убил знаменоносца %s'"
+LANG_RUSSIAN         "СѓР±РёР» Р·РЅР°РјРµРЅРѕРЅРѕСЃС†Р° %s'"
 
 REFERENCE           FLAG_RETURNED
 NOTES               "Flag returned"
 LANG_ENGLISH        "The %s flag has returned!"
-LANG_RUSSIAN         "Флаг %s был возвращен!"
+LANG_RUSSIAN         "Р¤Р»Р°Рі %s Р±С‹Р» РІРѕР·РІСЂР°С‰РµРЅ!"
 
 REFERENCE           PLAYER_RETURNED_FLAG
 NOTES               "Player returned flag"
 LANG_ENGLISH        "returned the %s flag!"
-LANG_RUSSIAN         "вернул флаг %s!"
+LANG_RUSSIAN         "РІРµСЂРЅСѓР» С„Р»Р°Рі %s!"
 
 REFERENCE           PLAYER_CAPTURED_FLAG
 NOTES               "Player captured flag"
 LANG_ENGLISH        "captured the %s flag!"
-LANG_RUSSIAN         "захватил флаг %s!"
+LANG_RUSSIAN         "Р·Р°С…РІР°С‚РёР» С„Р»Р°Рі %s!"
 
 REFERENCE           PLAYER_GOT_FLAG
 NOTES               "Player got flag"
 LANG_ENGLISH        "got the %s flag!"
-LANG_RUSSIAN         "взял флаг %s!"
+LANG_RUSSIAN         "РІР·СЏР» С„Р»Р°Рі %s!"
 
 REFERENCE           SENTRY_NOROOM
 LANG_ENGLISH        "There is no room to place the sentry gun here."
-LANG_RUSSIAN         "Здесь мало места для установки защитного орудия."
+LANG_RUSSIAN         "Р—РґРµСЃСЊ РјР°Р»Рѕ РјРµСЃС‚Р° РґР»СЏ СѓСЃС‚Р°РЅРѕРІРєРё Р·Р°С‰РёС‚РЅРѕРіРѕ РѕСЂСѓРґРёСЏ."
 
 REFERENCE           SENTRY_ALREADYPLACED
 LANG_ENGLISH        "You cannot place more than one sentry gun at a time."
-LANG_RUSSIAN         "За раз вы можете поставить только одно защитное орудие."
+LANG_RUSSIAN         "Р—Р° СЂР°Р· РІС‹ РјРѕР¶РµС‚Рµ РїРѕСЃС‚Р°РІРёС‚СЊ С‚РѕР»СЊРєРѕ РѕРґРЅРѕ Р·Р°С‰РёС‚РЅРѕРµ РѕСЂСѓРґРёРµ."
 
 REFERENCE           SHIELD_NOROOM
 LANG_ENGLISH        "There is no room to place the forcefield here."
-LANG_RUSSIAN         "Здесь мало места для установки силового поля."
+LANG_RUSSIAN         "Р—РґРµСЃСЊ РјР°Р»Рѕ РјРµСЃС‚Р° РґР»СЏ СѓСЃС‚Р°РЅРѕРІРєРё СЃРёР»РѕРІРѕРіРѕ РїРѕР»СЏ."
 
 REFERENCE           SEEKER_ALREADYDEPLOYED
 LANG_ENGLISH        "You already have a seeker drone deployed."
-LANG_RUSSIAN         "Вы уже разместили разведывательный аппарат."
+LANG_RUSSIAN         "Р’С‹ СѓР¶Рµ СЂР°Р·РјРµСЃС‚РёР»Рё СЂР°Р·РІРµРґС‹РІР°С‚РµР»СЊРЅС‹Р№ Р°РїРїР°СЂР°С‚."
 
 REFERENCE           KILLED_SENTRY
 LANG_ENGLISH        "was sentry-killed by"
-LANG_RUSSIAN         "был убит часовым"
+LANG_RUSSIAN         "Р±С‹Р» СѓР±РёС‚ С‡Р°СЃРѕРІС‹Рј"
 
 REFERENCE           SET_NEW_RANK
 NOTES               "Displayed when a player joins a server and his force rank is too high"
 LANG_ENGLISH        "Your force rank is higher than the server's maximum allowed rank. Please configure within the server's limit."
-LANG_RUSSIAN         "Ваш ранг Силы выше дозволенного сервером. Пожалуйста, уложитесь в ограничения сервера."
+LANG_RUSSIAN         "Р’Р°С€ СЂР°РЅРі РЎРёР»С‹ РІС‹С€Рµ РґРѕР·РІРѕР»РµРЅРЅРѕРіРѕ СЃРµСЂРІРµСЂРѕРј. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, СѓР»РѕР¶РёС‚РµСЃСЊ РІ РѕРіСЂР°РЅРёС‡РµРЅРёСЏ СЃРµСЂРІРµСЂР°."
 
 REFERENCE           KILLED_MELEE
 NOTES               "Player was killed by a kickflip"
 LANG_ENGLISH        "was bludgeoned by"
-LANG_RUSSIAN         "был забит"
+LANG_RUSSIAN         "Р±С‹Р» Р·Р°Р±РёС‚"
 
 REFERENCE           AUTOSWITCH0
 NOTES               "cg_autoswitch text"
 LANG_ENGLISH        "Never"
-LANG_RUSSIAN         "Никогда"
+LANG_RUSSIAN         "РќРёРєРѕРіРґР°"
 
 REFERENCE           AUTOSWITCH1
 NOTES               "cg_autoswitch text"
 LANG_ENGLISH        "If weapon not explosive"
-LANG_RUSSIAN         "Если оружие не взрывного действия"
+LANG_RUSSIAN         "Р•СЃР»Рё РѕСЂСѓР¶РёРµ РЅРµ РІР·СЂС‹РІРЅРѕРіРѕ РґРµР№СЃС‚РІРёСЏ"
 
 REFERENCE           AUTOSWITCH2
 NOTES               "cg_autoswitch text"
 LANG_ENGLISH        "If better"
-LANG_RUSSIAN         "Если лучше"
+LANG_RUSSIAN         "Р•СЃР»Рё Р»СѓС‡С€Рµ"
 
 REFERENCE           AUTOSWITCH3
 NOTES               "cg_autoswitch text"
 LANG_ENGLISH        "If not using saber"
-LANG_RUSSIAN         "Если без меча"
+LANG_RUSSIAN         "Р•СЃР»Рё Р±РµР· РјРµС‡Р°"
 
 REFERENCE           SKILL1
 NOTES               "Skill level"
 LANG_ENGLISH        "Initiate"
-LANG_RUSSIAN         "Начинающий"
+LANG_RUSSIAN         "РќР°С‡РёРЅР°СЋС‰РёР№"
 
 REFERENCE           SKILL2
 NOTES               "skill level"
 LANG_ENGLISH        "Padawan"
-LANG_RUSSIAN         "Падаван"
+LANG_RUSSIAN         "РџР°РґР°РІР°РЅ"
 
 REFERENCE           SKILL3
 NOTES               "skill level"
 LANG_ENGLISH        "Jedi"
-LANG_RUSSIAN         "Джедай"
+LANG_RUSSIAN         "Р”Р¶РµРґР°Р№"
 
 REFERENCE           SKILL4
 NOTES               "Skill level"
 LANG_ENGLISH        "Jedi Knight"
-LANG_RUSSIAN         "Рыцарь джедай"
+LANG_RUSSIAN         "Р С‹С†Р°СЂСЊ РґР¶РµРґР°Р№"
 
 REFERENCE           SKILL5
 NOTES               "skill level"
 LANG_ENGLISH        "Jedi Master"
-LANG_RUSSIAN         "Мастер джедай"
+LANG_RUSSIAN         "РњР°СЃС‚РµСЂ РґР¶РµРґР°Р№"
 
 REFERENCE           TIMELIMIT
 NOTES               "For server connect screen"
 LANG_ENGLISH        "Time Limit:"
-LANG_RUSSIAN         "Лимит времени:"
+LANG_RUSSIAN         "Р›РёРјРёС‚ РІСЂРµРјРµРЅРё:"
 
 REFERENCE           FRAGLIMIT
 NOTES               "For server connect screen"
 LANG_ENGLISH        "Kill Limit:"
-LANG_RUSSIAN         "Предел убийств:"
+LANG_RUSSIAN         "РџСЂРµРґРµР» СѓР±РёР№СЃС‚РІ:"
 
 REFERENCE           CAPTURELIMIT
 NOTES               "For server connect screen"
 LANG_ENGLISH        "Capture Limit:"
-LANG_RUSSIAN         "Ограничение захватов:"
+LANG_RUSSIAN         "РћРіСЂР°РЅРёС‡РµРЅРёРµ Р·Р°С…РІР°С‚РѕРІ:"
 
 REFERENCE           MAXFORCERANK
 NOTES               "For server connect screen"
 LANG_ENGLISH        "Force Mastery Level:"
-LANG_RUSSIAN         "Уровень владения Силой:"
+LANG_RUSSIAN         "РЈСЂРѕРІРµРЅСЊ РІР»Р°РґРµРЅРёСЏ РЎРёР»РѕР№:"
 
 REFERENCE           CHEATSAREENABLED
 NOTES               "For server connect screen"
 LANG_ENGLISH        "CHEATS ARE ENABLED"
-LANG_RUSSIAN         "КОДЫ ВКЛЮЧЕНЫ"
+LANG_RUSSIAN         "РљРћР”Р« Р’РљР›Р®Р§Р•РќР«"
 
 REFERENCE           SABERONLYSET
 NOTES               "For server connect screen"
 LANG_ENGLISH        "Saber Only"
-LANG_RUSSIAN         "Только лазерный меч"
+LANG_RUSSIAN         "РўРѕР»СЊРєРѕ Р»Р°Р·РµСЂРЅС‹Р№ РјРµС‡"
 
 REFERENCE           NOFPSET
 NOTES               "For server connect screen"
 LANG_ENGLISH        "No Force Powers"
-LANG_RUSSIAN         "Без использования Силы"
+LANG_RUSSIAN         "Р‘РµР· РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ РЎРёР»С‹"
 
 REFERENCE           WINLIMIT
 NOTES               "For server connect screen"
 LANG_ENGLISH        "Duel Win Limit:"
-LANG_RUSSIAN         "Граница победы в дуэли:"
+LANG_RUSSIAN         "Р“СЂР°РЅРёС†Р° РїРѕР±РµРґС‹ РІ РґСѓСЌР»Рё:"
 
 REFERENCE           FORCEBASEDTEAMS
 LANG_ENGLISH        "Force-Based Teams Enabled"
-LANG_RUSSIAN         "Включены отряды по Силе"
+LANG_RUSSIAN         "Р’РєР»СЋС‡РµРЅС‹ РѕС‚СЂСЏРґС‹ РїРѕ РЎРёР»Рµ"
 
 REFERENCE           KILLEDBY
 LANG_ENGLISH        "Killed by"
-LANG_RUSSIAN         "Убит"
+LANG_RUSSIAN         "РЈР±РёС‚"
 
 REFERENCE           JMKILLED_NOTJM
 LANG_ENGLISH        "The Jedi Master scores a point!"
-LANG_RUSSIAN         "Мастер джедай получает очко!"
+LANG_RUSSIAN         "РњР°СЃС‚РµСЂ РґР¶РµРґР°Р№ РїРѕР»СѓС‡Р°РµС‚ РѕС‡РєРѕ!"
 
 REFERENCE           MASTERY0
 LANG_ENGLISH        "Uninitiated"
-LANG_RUSSIAN         "Непосвященный"
+LANG_RUSSIAN         "РќРµРїРѕСЃРІСЏС‰РµРЅРЅС‹Р№"
 
 REFERENCE           MASTERY1
 LANG_ENGLISH        "Initiate"
-LANG_RUSSIAN         "Начинающий"
+LANG_RUSSIAN         "РќР°С‡РёРЅР°СЋС‰РёР№"
 
 REFERENCE           MASTERY2
 LANG_ENGLISH        "Padawan"
-LANG_RUSSIAN         "Падаван"
+LANG_RUSSIAN         "РџР°РґР°РІР°РЅ"
 
 REFERENCE           MASTERY3
 LANG_ENGLISH        "Jedi"
-LANG_RUSSIAN         "Джедай"
+LANG_RUSSIAN         "Р”Р¶РµРґР°Р№"
 
 REFERENCE           MASTERY4
 LANG_ENGLISH        "Jedi Adept"
-LANG_RUSSIAN         "Адепт джедай"
+LANG_RUSSIAN         "РђРґРµРїС‚ РґР¶РµРґР°Р№"
 
 REFERENCE           MASTERY5
 LANG_ENGLISH        "Jedi Guardian"
-LANG_RUSSIAN         "Страж джедай"
+LANG_RUSSIAN         "РЎС‚СЂР°Р¶ РґР¶РµРґР°Р№"
 
 REFERENCE           MASTERY6
 LANG_ENGLISH        "Jedi Knight"
-LANG_RUSSIAN         "Рыцарь джедай"
+LANG_RUSSIAN         "Р С‹С†Р°СЂСЊ РґР¶РµРґР°Р№"
 
 REFERENCE           MASTERY7
 NOTES               "also now used to print under picture at top right of screen for "Jedi Master""
 LANG_ENGLISH        "Jedi Master"
-LANG_RUSSIAN         "Мастер джедай"
+LANG_RUSSIAN         "РњР°СЃС‚РµСЂ РґР¶РµРґР°Р№"
 
 REFERENCE           DUEL_WINS
 LANG_ENGLISH        "is the winner"
-LANG_RUSSIAN         "является победителем"
+LANG_RUSSIAN         "СЏРІР»СЏРµС‚СЃСЏ РїРѕР±РµРґРёС‚РµР»РµРј"
 
 REFERENCE           SPECHUD_VERSUS
 LANG_ENGLISH        "versus"
-LANG_RUSSIAN         "против"
+LANG_RUSSIAN         "РїСЂРѕС‚РёРІ"
 
 REFERENCE           WAITING_FOR_NEW_KEY
 LANG_ENGLISH        "Enter new key, or ESC to cancel, BACKSPACE to clear."
-LANG_RUSSIAN         "Введите новую клавишу, или нажмите ESC для отмены, или BACKSPACE для очистки поля ввода."
+LANG_RUSSIAN         "Р’РІРµРґРёС‚Рµ РЅРѕРІСѓСЋ РєР»Р°РІРёС€Сѓ, РёР»Рё РЅР°Р¶РјРёС‚Рµ ESC РґР»СЏ РѕС‚РјРµРЅС‹, РёР»Рё BACKSPACE РґР»СЏ РѕС‡РёСЃС‚РєРё РїРѕР»СЏ РІРІРѕРґР°."
 
 REFERENCE           SUICIDE_FALLDEATH_FEMALE
 LANG_ENGLISH        "fell to her death"
-LANG_RUSSIAN         "дралась на смерть"
+LANG_RUSSIAN         "РґСЂР°Р»Р°СЃСЊ РЅР° СЃРјРµСЂС‚СЊ"
 
 REFERENCE           SUICIDE_FALLDEATH_GENDERLESS
 LANG_ENGLISH        "fell to its death"
-LANG_RUSSIAN         "дралось на смерть"
+LANG_RUSSIAN         "РґСЂР°Р»РѕСЃСЊ РЅР° СЃРјРµСЂС‚СЊ"
 
 REFERENCE           SUICIDE_FALLDEATH_MALE
 LANG_ENGLISH        "fell to his death"
-LANG_RUSSIAN         "дрался на смерть"
+LANG_RUSSIAN         "РґСЂР°Р»СЃСЏ РЅР° СЃРјРµСЂС‚СЊ"
 
 REFERENCE           SPEC_CHOOSEJOIN
 LANG_ENGLISH        "Choose 'Join' from the menu to enter the game"
-LANG_RUSSIAN         "Выберите 'Присоединиться' в меню, чтобы вступить в игру"
+LANG_RUSSIAN         "Р’С‹Р±РµСЂРёС‚Рµ 'РџСЂРёСЃРѕРµРґРёРЅРёС‚СЊСЃСЏ' РІ РјРµРЅСЋ, С‡С‚РѕР±С‹ РІСЃС‚СѓРїРёС‚СЊ РІ РёРіСЂСѓ"
 
 REFERENCE           GETTINGINFOFORSERVERS
 LANG_ENGLISH        "Getting info for servers..."
-LANG_RUSSIAN         "Получение информации о серверах..."
+LANG_RUSSIAN         "РџРѕР»СѓС‡РµРЅРёРµ РёРЅС„РѕСЂРјР°С†РёРё Рѕ СЃРµСЂРІРµСЂР°С…..."
 
 REFERENCE           SERVER_REFRESHTIME
 LANG_ENGLISH        "Server Refresh Time"
-LANG_RUSSIAN         "Время обновления сервера"
+LANG_RUSSIAN         "Р’СЂРµРјСЏ РѕР±РЅРѕРІР»РµРЅРёСЏ СЃРµСЂРІРµСЂР°"
 
 REFERENCE           RULES_FFA_1
 LANG_ENGLISH        "Rules:  Defeat your enemies to score points!"
-LANG_RUSSIAN         "Правила:  Разите своих врагов и набирайте очки!"
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  Р Р°Р·РёС‚Рµ СЃРІРѕРёС… РІСЂР°РіРѕРІ Рё РЅР°Р±РёСЂР°Р№С‚Рµ РѕС‡РєРё!"
 
 REFERENCE           RULES_HOLO_1
 LANG_ENGLISH        "Rules:  Pick up the cubes throughout the level to gain their"
-LANG_RUSSIAN         "Правила:  Собирайте на уровне кубы, чтобы получить "
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  РЎРѕР±РёСЂР°Р№С‚Рµ РЅР° СѓСЂРѕРІРЅРµ РєСѓР±С‹, С‡С‚РѕР±С‹ РїРѕР»СѓС‡РёС‚СЊ "
 
 REFERENCE           RULES_HOLO_2
 LANG_ENGLISH        "Force Abilities.  Defeat your enemies, and take their Holocrons."
-LANG_RUSSIAN         "способности в Силе.  Разите своих врагов и забирайте их голокроны."
+LANG_RUSSIAN         "СЃРїРѕСЃРѕР±РЅРѕСЃС‚Рё РІ РЎРёР»Рµ.  Р Р°Р·РёС‚Рµ СЃРІРѕРёС… РІСЂР°РіРѕРІ Рё Р·Р°Р±РёСЂР°Р№С‚Рµ РёС… РіРѕР»РѕРєСЂРѕРЅС‹."
 
 REFERENCE           RULES_JEDI_1
 LANG_ENGLISH        "Rules:  Kill only the player with the Lightsaber!  When they are"
-LANG_RUSSIAN         "Правила:  Убивать нужно только игрока с лазерным мечом!  Когда он убит,"
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  РЈР±РёРІР°С‚СЊ РЅСѓР¶РЅРѕ С‚РѕР»СЊРєРѕ РёРіСЂРѕРєР° СЃ Р»Р°Р·РµСЂРЅС‹Рј РјРµС‡РѕРј!  РљРѕРіРґР° РѕРЅ СѓР±РёС‚,"
 
 REFERENCE           RULES_JEDI_2
 LANG_ENGLISH        "slain, pick up the saber and defeat your pursuers to score points."
-LANG_RUSSIAN         "забирайте меч и разите своих врагов, чтобы набирать очки."
+LANG_RUSSIAN         "Р·Р°Р±РёСЂР°Р№С‚Рµ РјРµС‡ Рё СЂР°Р·РёС‚Рµ СЃРІРѕРёС… РІСЂР°РіРѕРІ, С‡С‚РѕР±С‹ РЅР°Р±РёСЂР°С‚СЊ РѕС‡РєРё."
 
 REFERENCE           RULES_DUEL_1
 LANG_ENGLISH        "Rules:  Take turns at going one-on-one against other players."
-LANG_RUSSIAN         "Правила:  Примите участие в боях один на один с другими игроками."
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  РџСЂРёРјРёС‚Рµ СѓС‡Р°СЃС‚РёРµ РІ Р±РѕСЏС… РѕРґРёРЅ РЅР° РѕРґРёРЅ СЃ РґСЂСѓРіРёРјРё РёРіСЂРѕРєР°РјРё."
 
 REFERENCE           RULES_DUEL_2
 LANG_ENGLISH        "The winner of the round keeps playing, and the loser returns to observing."
-LANG_RUSSIAN         "Победитель раунда продолжает игру, проигравший становится наблюдателем."
+LANG_RUSSIAN         "РџРѕР±РµРґРёС‚РµР»СЊ СЂР°СѓРЅРґР° РїСЂРѕРґРѕР»Р¶Р°РµС‚ РёРіСЂСѓ, РїСЂРѕРёРіСЂР°РІС€РёР№ СЃС‚Р°РЅРѕРІРёС‚СЃСЏ РЅР°Р±Р»СЋРґР°С‚РµР»РµРј."
 
 REFERENCE           RULES_TEAM_1
 LANG_ENGLISH        "Rules:  Join with your teammates to defeat the players"
-LANG_RUSSIAN         "Правила:  Объединяйтесь со своим отрядом,"
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  РћР±СЉРµРґРёРЅСЏР№С‚РµСЃСЊ СЃРѕ СЃРІРѕРёРј РѕС‚СЂСЏРґРѕРј,"
 
 REFERENCE           RULES_TEAM_2
 LANG_ENGLISH        "on the other team."
-LANG_RUSSIAN         "чтобы разбить вражеский отряд."
+LANG_RUSSIAN         "С‡С‚РѕР±С‹ СЂР°Р·Р±РёС‚СЊ РІСЂР°Р¶РµСЃРєРёР№ РѕС‚СЂСЏРґ."
 
 REFERENCE           RULES_CTF_1
 LANG_ENGLISH        "Rules:  Join with your teammates to reach the enemy's flag base."
-LANG_RUSSIAN         "Правила:  Объединяйтесь, чтобы добраться до вражеского флага на базе."
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  РћР±СЉРµРґРёРЅСЏР№С‚РµСЃСЊ, С‡С‚РѕР±С‹ РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ РІСЂР°Р¶РµСЃРєРѕРіРѕ С„Р»Р°РіР° РЅР° Р±Р°Р·Рµ."
 
 REFERENCE           RULES_CTF_2
 LANG_ENGLISH        "Steal their flag and return to your home base alive."
-LANG_RUSSIAN         "Заберите их флаг и возвращайтесь на свою базу живым."
+LANG_RUSSIAN         "Р—Р°Р±РµСЂРёС‚Рµ РёС… С„Р»Р°Рі Рё РІРѕР·РІСЂР°С‰Р°Р№С‚РµСЃСЊ РЅР° СЃРІРѕСЋ Р±Р°Р·Сѓ Р¶РёРІС‹Рј."
 
 REFERENCE           RULES_CTY_1
 LANG_ENGLISH        "Rules:  Join with your teammates to steal the enemy's Ysalamiri."
-LANG_RUSSIAN         "Правила:  Объединяйтесь, чтобы добраться до вражеской Йсаламири."
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  РћР±СЉРµРґРёРЅСЏР№С‚РµСЃСЊ, С‡С‚РѕР±С‹ РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ РІСЂР°Р¶РµСЃРєРѕР№ Р™СЃР°Р»Р°РјРёСЂРё."
 
 REFERENCE           RULES_CTY_2
 LANG_ENGLISH        "Return it to your base, but remember that the reptile negates all force powers."
-LANG_RUSSIAN         "Принесите ее на свою базу, но помните, что рептилия поглощает Силу."
+LANG_RUSSIAN         "РџСЂРёРЅРµСЃРёС‚Рµ РµРµ РЅР° СЃРІРѕСЋ Р±Р°Р·Сѓ, РЅРѕ РїРѕРјРЅРёС‚Рµ, С‡С‚Рѕ СЂРµРїС‚РёР»РёСЏ РїРѕРіР»РѕС‰Р°РµС‚ РЎРёР»Сѓ."
 
 REFERENCE           CONNECTION_INTERRUPTED
 LANG_ENGLISH        "Connection Interrupted"
-LANG_RUSSIAN         "Соединение разорвано"
+LANG_RUSSIAN         "РЎРѕРµРґРёРЅРµРЅРёРµ СЂР°Р·РѕСЂРІР°РЅРѕ"
 
 REFERENCE           SERVER_CHANGING_MAPS
 LANG_ENGLISH        "Server Changing Maps"
-LANG_RUSSIAN         "Сервер меняет карты"
+LANG_RUSSIAN         "РЎРµСЂРІРµСЂ РјРµРЅСЏРµС‚ РєР°СЂС‚С‹"
 
 REFERENCE           PLEASE_WAIT
 LANG_ENGLISH        "Please Wait..."
-LANG_RUSSIAN         "Пожалуйста, подождите..."
+LANG_RUSSIAN         "РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРѕРґРѕР¶РґРёС‚Рµ..."
 
 REFERENCE           OR_PRESS_ESC_THEN_CLICK_VOTE
 LANG_ENGLISH        "or press ESC then click vote."
-LANG_RUSSIAN         "или нажмите ESC, после чего голосуйте."
+LANG_RUSSIAN         "РёР»Рё РЅР°Р¶РјРёС‚Рµ ESC, РїРѕСЃР»Рµ С‡РµРіРѕ РіРѕР»РѕСЃСѓР№С‚Рµ."
 
 REFERENCE           PLACE_WITH
 NOTES               "used in scoreboard, eg:  1st [place with] 24 points"
 LANG_ENGLISH        "place with"
-LANG_RUSSIAN         "место с"
+LANG_RUSSIAN         "РјРµСЃС‚Рѕ СЃ"
 
 REFERENCE           PLACE
 NOTES               "used in scoreboard, eg "1st place""
 LANG_ENGLISH        "place"
-LANG_RUSSIAN         "место"
+LANG_RUSSIAN         "РјРµСЃС‚Рѕ"
 
 REFERENCE           OF
 NOTES               "used in scoring (1st place [of] 3)"
 LANG_ENGLISH        "of"
-LANG_RUSSIAN         "из"
+LANG_RUSSIAN         "РёР·"
 
 REFERENCE           WITH
 NOTES               "used in scoring:  [with %d points]"
 LANG_ENGLISH        "with"
-LANG_RUSSIAN         "с"
+LANG_RUSSIAN         "СЃ"
 
 REFERENCE           NUMBER_ST
 NOTES               "used for english "1st" extension"
 LANG_ENGLISH        "st"
-LANG_RUSSIAN         "-е"
+LANG_RUSSIAN         "-Рµ"
 
 REFERENCE           NUMBER_ND
 NOTES               "use for (eg) "2nd""
 LANG_ENGLISH        "nd"
-LANG_RUSSIAN         "-е"
+LANG_RUSSIAN         "-Рµ"
 
 REFERENCE           NUMBER_RD
 LANG_ENGLISH        "rd"
-LANG_RUSSIAN         "-е"
+LANG_RUSSIAN         "-Рµ"
 
 REFERENCE           NUMBER_TH
 LANG_ENGLISH        "th"
-LANG_RUSSIAN         "-е"
+LANG_RUSSIAN         "-Рµ"
 
 REFERENCE           TIED_FOR
 NOTES               "used in scoring , eg: "tied for 1st place""
 LANG_ENGLISH        "Tied for"
-LANG_RUSSIAN         "Ничья"
+LANG_RUSSIAN         "РќРёС‡СЊСЏ"
 
 REFERENCE           LEADER
 NOTES               "displayed as "Leader %d" with score at top right of screen"
 LANG_ENGLISH        "Leader"
-LANG_RUSSIAN         "Лидер"
+LANG_RUSSIAN         "Р›РёРґРµСЂ"
 
 REFERENCE           WAITING_TO_PLAY
 LANG_ENGLISH        "waiting to play"
-LANG_RUSSIAN         " ожидает вступления в игру"
+LANG_RUSSIAN         " РѕР¶РёРґР°РµС‚ РІСЃС‚СѓРїР»РµРЅРёСЏ РІ РёРіСЂСѓ"
 
 REFERENCE           SPECTATOR
 LANG_ENGLISH        "SPECTATOR"
-LANG_RUSSIAN         "НАБЛЮДАТЕЛЬ"
+LANG_RUSSIAN         "РќРђР‘Р›Р®Р”РђРўР•Р›Р¬"
 
 REFERENCE           PURE_SERVER
 LANG_ENGLISH        "Pure Server"
-LANG_RUSSIAN         "Чистый сервер"
+LANG_RUSSIAN         "Р§РёСЃС‚С‹Р№ СЃРµСЂРІРµСЂ"
 
 REFERENCE           STARTS_IN
 LANG_ENGLISH        "Starts in"
-LANG_RUSSIAN         "Запуск"
+LANG_RUSSIAN         "Р—Р°РїСѓСЃРє"
 
 REFERENCE           GET_SABER
 LANG_ENGLISH        "Get Saber!"
-LANG_RUSSIAN         "Берите меч!"
+LANG_RUSSIAN         "Р‘РµСЂРёС‚Рµ РјРµС‡!"
 
 REFERENCE           FOLLOWING
 NOTES               "Used in chasecam mode, printed line above player name"
 LANG_ENGLISH        "Following"
-LANG_RUSSIAN         "Следование"
+LANG_RUSSIAN         "РЎР»РµРґРѕРІР°РЅРёРµ"
 
 REFERENCE           MONTHS
 LANG_ENGLISH        "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nNov\nDec\n"
-LANG_RUSSIAN         "Янв\nФев\nМарт\nАпр\nМай\nИюнь\nИюль\nАвг\nСент\nОкт\nНояб\nДек\n"
+LANG_RUSSIAN         "РЇРЅРІ\nР¤РµРІ\nРњР°СЂС‚\nРђРїСЂ\nРњР°Р№\nРСЋРЅСЊ\nРСЋР»СЊ\nРђРІРі\nРЎРµРЅС‚\nРћРєС‚\nРќРѕСЏР±\nР”РµРє\n"
 
 REFERENCE           NET_SOURCES
 LANG_ENGLISH        "Local\nInternet\nFavorites\n"
-LANG_RUSSIAN         "Локальная\nИнтернет\nИзбранное\n"
+LANG_RUSSIAN         "Р›РѕРєР°Р»СЊРЅР°СЏ\nРРЅС‚РµСЂРЅРµС‚\nРР·Р±СЂР°РЅРЅРѕРµ\n"
 
 REFERENCE           SERVER_FILTERS
 LANG_ENGLISH        "All\nJedi Knight 2\n"
-LANG_RUSSIAN         "Все\nРыцарь Джедай 2\n"
+LANG_RUSSIAN         "Р’СЃРµ\nР С‹С†Р°СЂСЊ Р”Р¶РµРґР°Р№ 2\n"
 
 REFERENCE           DUELING
 LANG_ENGLISH        "Dueling"
-LANG_RUSSIAN         "Дуэль"
+LANG_RUSSIAN         "Р”СѓСЌР»СЊ"
 
 REFERENCE           W_L
 NOTES               "win/lose initials"
@@ -583,103 +583,103 @@ LANG_RUSSIAN         "W/L"
 
 REFERENCE           READY
 LANG_ENGLISH        "READY"
-LANG_RUSSIAN         "ГОТОВ"
+LANG_RUSSIAN         "Р“РћРўРћР’"
 
 REFERENCE           WAITING_FOR_PLAYERS
 LANG_ENGLISH        "Waiting for players"
-LANG_RUSSIAN         "Ожидаются игроки"
+LANG_RUSSIAN         "РћР¶РёРґР°СЋС‚СЃСЏ РёРіСЂРѕРєРё"
 
 REFERENCE           RULES_POWERDUEL_1
 LANG_ENGLISH        "Rules:  Take turns at going two-on-one with other players."
-LANG_RUSSIAN         "Правила:  Примите участие в боях двое на одного вместе с другими игроками."
+LANG_RUSSIAN         "РџСЂР°РІРёР»Р°:  РџСЂРёРјРёС‚Рµ СѓС‡Р°СЃС‚РёРµ РІ Р±РѕСЏС… РґРІРѕРµ РЅР° РѕРґРЅРѕРіРѕ РІРјРµСЃС‚Рµ СЃ РґСЂСѓРіРёРјРё РёРіСЂРѕРєР°РјРё."
 
 REFERENCE           RULES_POWERDUEL_2
 LANG_ENGLISH        "The winner(s) of the round keep playing, and the loser(s) return to observing."
-LANG_RUSSIAN         "Победитель(и) раунда остаются в игре, проигравший(е) превращаются в наблюдателей."
+LANG_RUSSIAN         "РџРѕР±РµРґРёС‚РµР»СЊ(Рё) СЂР°СѓРЅРґР° РѕСЃС‚Р°СЋС‚СЃСЏ РІ РёРіСЂРµ, РїСЂРѕРёРіСЂР°РІС€РёР№(Рµ) РїСЂРµРІСЂР°С‰Р°СЋС‚СЃСЏ РІ РЅР°Р±Р»СЋРґР°С‚РµР»РµР№."
 
 REFERENCE           ROUNDBEGINSIN
 LANG_ENGLISH        "Round begins in"
-LANG_RUSSIAN         "Раунд начнется через"
+LANG_RUSSIAN         "Р Р°СѓРЅРґ РЅР°С‡РЅРµС‚СЃСЏ С‡РµСЂРµР·"
 
 REFERENCE           SCORE
 LANG_ENGLISH        "Score"
-LANG_RUSSIAN         "Счет"
+LANG_RUSSIAN         "РЎС‡РµС‚"
 
 REFERENCE           NAME
 LANG_ENGLISH        "Name"
-LANG_RUSSIAN         "Имя"
+LANG_RUSSIAN         "РРјСЏ"
 
 REFERENCE           PING
 LANG_ENGLISH        "Ping"
-LANG_RUSSIAN         "Пинг"
+LANG_RUSSIAN         "РџРёРЅРі"
 
 REFERENCE           TIME
 LANG_ENGLISH        "Time"
-LANG_RUSSIAN         "Время"
+LANG_RUSSIAN         "Р’СЂРµРјСЏ"
 
 REFERENCE           TIEDAT
 LANG_ENGLISH        "Teams are tied at"
-LANG_RUSSIAN         "Отряды сыграли в ничью"
+LANG_RUSSIAN         "РћС‚СЂСЏРґС‹ СЃС‹РіСЂР°Р»Рё РІ РЅРёС‡СЊСЋ"
 
 REFERENCE           RED_LEADS
 LANG_ENGLISH        "Red leads"
-LANG_RUSSIAN         "Красные ведут"
+LANG_RUSSIAN         "РљСЂР°СЃРЅС‹Рµ РІРµРґСѓС‚"
 
 REFERENCE           BLUE_LEADS
 LANG_ENGLISH        "Blue leads"
-LANG_RUSSIAN         "Синие ведут"
+LANG_RUSSIAN         "РЎРёРЅРёРµ РІРµРґСѓС‚"
 
 REFERENCE           SIEGETEAM1WIN
 LANG_ENGLISH        "Team 1 won the match!"
-LANG_RUSSIAN         "Отряд 1 выиграл матч!"
+LANG_RUSSIAN         "РћС‚СЂСЏРґ 1 РІС‹РёРіСЂР°Р» РјР°С‚С‡!"
 
 REFERENCE           SIEGETEAM2WIN
 LANG_ENGLISH        "Team 2 won the match!"
-LANG_RUSSIAN         "Отряд 2 выиграл матч!"
+LANG_RUSSIAN         "РћС‚СЂСЏРґ 2 РІС‹РёРіСЂР°Р» РјР°С‚С‡!"
 
 REFERENCE           RED
 LANG_ENGLISH        "Red"
-LANG_RUSSIAN         "Красный"
+LANG_RUSSIAN         "РљСЂР°СЃРЅС‹Р№"
 
 REFERENCE           BLUE
 LANG_ENGLISH        "Blue"
-LANG_RUSSIAN         "Синий"
+LANG_RUSSIAN         "РЎРёРЅРёР№"
 
 REFERENCE           YOU_WIN
 LANG_ENGLISH        "YOU WIN!"
-LANG_RUSSIAN         "ВЫ ВЫИГРАЛИ!"
+LANG_RUSSIAN         "Р’Р« Р’Р«РР“Р РђР›Р!"
 
 REFERENCE           YOU_LOSE
 LANG_ENGLISH        "YOU LOSE..."
-LANG_RUSSIAN         "ВЫ ПРОИГРАЛИ..."
+LANG_RUSSIAN         "Р’Р« РџР РћРР“Р РђР›Р..."
 
 REFERENCE           JOIN_SINGLE
 LANG_ENGLISH        "SINGLE"
-LANG_RUSSIAN         "ОДИНОЧКА"
+LANG_RUSSIAN         "РћР”РРќРћР§РљРђ"
 
 REFERENCE           JOIN_DOUBLE
 LANG_ENGLISH        "DOUBLE"
-LANG_RUSSIAN         "ПАРА"
+LANG_RUSSIAN         "РџРђР Рђ"
 
 REFERENCE           FOLLOWINGLONE
 LANG_ENGLISH        "Following lone duelist"
-LANG_RUSSIAN         "Приверженец одиночной дуэли"
+LANG_RUSSIAN         "РџСЂРёРІРµСЂР¶РµРЅРµС† РѕРґРёРЅРѕС‡РЅРѕР№ РґСѓСЌР»Рё"
 
 REFERENCE           FOLLOWINGDOUBLE
 LANG_ENGLISH        "Following paired duelist"
-LANG_RUSSIAN         "Приверженец парной дуэли"
+LANG_RUSSIAN         "РџСЂРёРІРµСЂР¶РµРЅРµС† РїР°СЂРЅРѕР№ РґСѓСЌР»Рё"
 
 REFERENCE           AND
 LANG_ENGLISH        "and"
-LANG_RUSSIAN         "был"
+LANG_RUSSIAN         "Р±С‹Р»"
 
 REFERENCE           DIED_LASER
 LANG_ENGLISH        "was blasted."
-LANG_RUSSIAN         "повержен."
+LANG_RUSSIAN         "РїРѕРІРµСЂР¶РµРЅ."
 
 REFERENCE           TOO_MANY_INFO
 LANG_ENGLISH        "Warning: Too many info changes, last info ignored"
-LANG_RUSSIAN         "Предупреждение: Слишком много изменений информации, последняя информация пропущена"
+LANG_RUSSIAN         "РџСЂРµРґСѓРїСЂРµР¶РґРµРЅРёРµ: РЎР»РёС€РєРѕРј РјРЅРѕРіРѕ РёР·РјРµРЅРµРЅРёР№ РёРЅС„РѕСЂРјР°С†РёРё, РїРѕСЃР»РµРґРЅСЏСЏ РёРЅС„РѕСЂРјР°С†РёСЏ РїСЂРѕРїСѓС‰РµРЅР°"
 
 
 ENDMARKER

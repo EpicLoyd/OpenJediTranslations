@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,62 +15,62 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           05KYK001
 LANG_ENGLISH        "I still have a few contacts in Coronet; we'll hit a few of the local cantinas and see what crops up. We'll also follow up with some of the people who reported this so-called cult activity."
-LANG_RUSSIAN         "У меня есть связи на Коронете, мы прошвырнемся по местным забегаловкам и посмотрим, что из этого выйдет. Также мы проследим за некоторыми из тех, кто докладывал об этих так называемых последователях культа."
+LANG_RUSSIAN         "РЈ РјРµРЅСЏ РµСЃС‚СЊ СЃРІСЏР·Рё РЅР° РљРѕСЂРѕРЅРµС‚Рµ, РјС‹ РїСЂРѕС€РІС‹СЂРЅРµРјСЃСЏ РїРѕ РјРµСЃС‚РЅС‹Рј Р·Р°Р±РµРіР°Р»РѕРІРєР°Рј Рё РїРѕСЃРјРѕС‚СЂРёРј, С‡С‚Рѕ РёР· СЌС‚РѕРіРѕ РІС‹Р№РґРµС‚. РўР°РєР¶Рµ РјС‹ РїСЂРѕСЃР»РµРґРёРј Р·Р° РЅРµРєРѕС‚РѕСЂС‹РјРё РёР· С‚РµС…, РєС‚Рѕ РґРѕРєР»Р°РґС‹РІР°Р» РѕР± СЌС‚РёС… С‚Р°Рє РЅР°Р·С‹РІР°РµРјС‹С… РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЏС… РєСѓР»СЊС‚Р°."
 
 REFERENCE           05KYK002
 LANG_ENGLISH        "Then Jan punches the Weequay right in the-"
-LANG_RUSSIAN         "Потом Жан треснул Викэя справа -"
+LANG_RUSSIAN         "РџРѕС‚РѕРј Р–Р°РЅ С‚СЂРµСЃРЅСѓР» Р’РёРєСЌСЏ СЃРїСЂР°РІР° -"
 
 REFERENCE           05ME1001
 NOTES               "(via comm)"
 LANG_ENGLISH        "...can anyone hear me? We're under attack!  Somebody's trying to blow up the tram!"
-LANG_RUSSIAN         "...меня кто-нибудь слышит? На нас напали!  Кто-то пытается взорвать вагонетку!"
+LANG_RUSSIAN         "...РјРµРЅСЏ РєС‚Рѕ-РЅРёР±СѓРґСЊ СЃР»С‹С€РёС‚? РќР° РЅР°СЃ РЅР°РїР°Р»Рё!  РљС‚Рѕ-С‚Рѕ РїС‹С‚Р°РµС‚СЃСЏ РІР·РѕСЂРІР°С‚СЊ РІР°РіРѕРЅРµС‚РєСѓ!"
 
 REFERENCE           05KYK003
 LANG_ENGLISH        "The message is coming from that cargo tram down below!"
-LANG_RUSSIAN         "Передача идет с грузовой вагонетки под нами!"
+LANG_RUSSIAN         "РџРµСЂРµРґР°С‡Р° РёРґРµС‚ СЃ РіСЂСѓР·РѕРІРѕР№ РІР°РіРѕРЅРµС‚РєРё РїРѕРґ РЅР°РјРё!"
 
 REFERENCE           05KYK004
 LANG_ENGLISH        "You take the tram!  I'll take care of these ships!"
-LANG_RUSSIAN         "Берешь вагонетку!  Я займусь этими кораблями!"
+LANG_RUSSIAN         "Р‘РµСЂРµС€СЊ РІР°РіРѕРЅРµС‚РєСѓ!  РЇ Р·Р°Р№РјСѓСЃСЊ СЌС‚РёРјРё РєРѕСЂР°Р±Р»СЏРјРё!"
 
 REFERENCE           05KYK005
 NOTES               "(via comm)"
 LANG_ENGLISH        "Head towards the front and clear out each car.  Keep the enemy in front of you so you don't have to worry about your flank!"
-LANG_RUSSIAN         "Направляйся вперед и освободи все машины.  Держи врага перед собой, чтобы не волноваться за фланги!"
+LANG_RUSSIAN         "РќР°РїСЂР°РІР»СЏР№СЃСЏ РІРїРµСЂРµРґ Рё РѕСЃРІРѕР±РѕРґРё РІСЃРµ РјР°С€РёРЅС‹.  Р”РµСЂР¶Рё РІСЂР°РіР° РїРµСЂРµРґ СЃРѕР±РѕР№, С‡С‚РѕР±С‹ РЅРµ РІРѕР»РЅРѕРІР°С‚СЊСЃСЏ Р·Р° С„Р»Р°РЅРіРё!"
 
 REFERENCE           05JAK001
 NOTES               "(into his comlink"
 LANG_ENGLISH        "Kyle, there's a bomb on the tram!  "
-LANG_RUSSIAN         "Кайл, на вагонетке поставлена бомба!  "
+LANG_RUSSIAN         "РљР°Р№Р», РЅР° РІР°РіРѕРЅРµС‚РєРµ РїРѕСЃС‚Р°РІР»РµРЅР° Р±РѕРјР±Р°!  "
 
 REFERENCE           05KYK006
 NOTES               "(via comm)"
 LANG_ENGLISH        "Disarm it quickly! You're about to enter a heavily populated area!"
-LANG_RUSSIAN         "Быстро обезвредь ее! Сейчас ты попадешь в густонаселенный район!"
+LANG_RUSSIAN         "Р‘С‹СЃС‚СЂРѕ РѕР±РµР·РІСЂРµРґСЊ РµРµ! РЎРµР№С‡Р°СЃ С‚С‹ РїРѕРїР°РґРµС€СЊ РІ РіСѓСЃС‚РѕРЅР°СЃРµР»РµРЅРЅС‹Р№ СЂР°Р№РѕРЅ!"
 
 REFERENCE           05JAK002
 LANG_ENGLISH        "That wasn't so bad."
-LANG_RUSSIAN         "Все не так плохо."
+LANG_RUSSIAN         "Р’СЃРµ РЅРµ С‚Р°Рє РїР»РѕС…Рѕ."
 
 REFERENCE           05JAK003
 NOTES               "(into his comlink)"
 LANG_ENGLISH        "Okay, mission accomplished."
-LANG_RUSSIAN         "О'кей, задание выполнено."
+LANG_RUSSIAN         "Рћ'РєРµР№, Р·Р°РґР°РЅРёРµ РІС‹РїРѕР»РЅРµРЅРѕ."
 
 REFERENCE           05KYK007
 NOTES               "(via comm)"
 LANG_ENGLISH        "Bad news, Jaden!  The tram is speeding up. I think they're going to ram it into the station!  You have to get to the control room and stop that train!"
-LANG_RUSSIAN         "Плохие новости, Джейден!  Вагонетка разгоняется. Думаю, они хотят таранить станцию!  Я должен попасть к щитку управления и остановить поезд!"
+LANG_RUSSIAN         "РџР»РѕС…РёРµ РЅРѕРІРѕСЃС‚Рё, Р”Р¶РµР№РґРµРЅ!  Р’Р°РіРѕРЅРµС‚РєР° СЂР°Р·РіРѕРЅСЏРµС‚СЃСЏ. Р”СѓРјР°СЋ, РѕРЅРё С…РѕС‚СЏС‚ С‚Р°СЂР°РЅРёС‚СЊ СЃС‚Р°РЅС†РёСЋ!  РЇ РґРѕР»Р¶РµРЅ РїРѕРїР°СЃС‚СЊ Рє С‰РёС‚РєСѓ СѓРїСЂР°РІР»РµРЅРёСЏ Рё РѕСЃС‚Р°РЅРѕРІРёС‚СЊ РїРѕРµР·Рґ!"
 
 REFERENCE           05JAK005
 LANG_ENGLISH        "That was too close..."
-LANG_RUSSIAN         "Еще бы чуть-чуть..."
+LANG_RUSSIAN         "Р•С‰Рµ Р±С‹ С‡СѓС‚СЊ-С‡СѓС‚СЊ..."
 
 REFERENCE           05KYK008
 NOTES               "(via comm)"
 LANG_ENGLISH        "Great work, Jaden!  I took out those ships, so I think we're in the clear now."
-LANG_RUSSIAN         "Отличная работа, Джейден!  Я разобрался с этими кораблями, так что, думаю, путь свободен."
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅР°СЏ СЂР°Р±РѕС‚Р°, Р”Р¶РµР№РґРµРЅ!  РЇ СЂР°Р·РѕР±СЂР°Р»СЃСЏ СЃ СЌС‚РёРјРё РєРѕСЂР°Р±Р»СЏРјРё, С‚Р°Рє С‡С‚Рѕ, РґСѓРјР°СЋ, РїСѓС‚СЊ СЃРІРѕР±РѕРґРµРЅ."
 
 
 ENDMARKER

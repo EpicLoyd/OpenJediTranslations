@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,27 +15,27 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           1
 LANG_ENGLISH        "We receive countless requests for assistance from all over the galaxy.  Since we believe in learning by doing at the Academy, students of all levels help with these requests.  Since you're an Initiate, however, Kyle will travel with you on most of your missions in order to instruct you and ensure your safety."
-LANG_RUSSIAN         "Со всей галактики к нам приходят запросы о помощи.  Так как мы считаем подготовкой работу на пользу академии, кадеты всех уровней будут задействованы в этом деле.  Однако, так как ты новичок, на большинство твоих заданий с тобой отправится Кайл, он будет тебя инструктировать и обеспечивать твою безопасность."
+LANG_RUSSIAN         "РЎРѕ РІСЃРµР№ РіР°Р»Р°РєС‚РёРєРё Рє РЅР°Рј РїСЂРёС…РѕРґСЏС‚ Р·Р°РїСЂРѕСЃС‹ Рѕ РїРѕРјРѕС‰Рё.  РўР°Рє РєР°Рє РјС‹ СЃС‡РёС‚Р°РµРј РїРѕРґРіРѕС‚РѕРІРєРѕР№ СЂР°Р±РѕС‚Сѓ РЅР° РїРѕР»СЊР·Сѓ Р°РєР°РґРµРјРёРё, РєР°РґРµС‚С‹ РІСЃРµС… СѓСЂРѕРІРЅРµР№ Р±СѓРґСѓС‚ Р·Р°РґРµР№СЃС‚РІРѕРІР°РЅС‹ РІ СЌС‚РѕРј РґРµР»Рµ.  РћРґРЅР°РєРѕ, С‚Р°Рє РєР°Рє С‚С‹ РЅРѕРІРёС‡РѕРє, РЅР° Р±РѕР»СЊС€РёРЅСЃС‚РІРѕ С‚РІРѕРёС… Р·Р°РґР°РЅРёР№ СЃ С‚РѕР±РѕР№ РѕС‚РїСЂР°РІРёС‚СЃСЏ РљР°Р№Р», РѕРЅ Р±СѓРґРµС‚ С‚РµР±СЏ РёРЅСЃС‚СЂСѓРєС‚РёСЂРѕРІР°С‚СЊ Рё РѕР±РµСЃРїРµС‡РёРІР°С‚СЊ С‚РІРѕСЋ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ."
 
 REFERENCE           3
 LANG_ENGLISH        "I have some troubling news. While Kyle and I attended to the crashed shuttle, someone broke into my quarters and sliced into my records. Artoo is trying to figure out what they may be looking for."
-LANG_RUSSIAN         "У меня плохие новости. Пока мы с кайлом занимались разбившимся челноком, кто-то вломился в мои апартаменты и добрался до моих записей. Р2 пытается выяснить, что они искали."
+LANG_RUSSIAN         "РЈ РјРµРЅСЏ РїР»РѕС…РёРµ РЅРѕРІРѕСЃС‚Рё. РџРѕРєР° РјС‹ СЃ РєР°Р№Р»РѕРј Р·Р°РЅРёРјР°Р»РёСЃСЊ СЂР°Р·Р±РёРІС€РёРјСЃСЏ С‡РµР»РЅРѕРєРѕРј, РєС‚Рѕ-С‚Рѕ РІР»РѕРјРёР»СЃСЏ РІ РјРѕРё Р°РїР°СЂС‚Р°РјРµРЅС‚С‹ Рё РґРѕР±СЂР°Р»СЃСЏ РґРѕ РјРѕРёС… Р·Р°РїРёСЃРµР№. Р 2 РїС‹С‚Р°РµС‚СЃСЏ РІС‹СЏСЃРЅРёС‚СЊ, С‡С‚Рѕ РѕРЅРё РёСЃРєР°Р»Рё."
 
 REFERENCE           4
 LANG_ENGLISH        "This is getting more serious.  We have been receiving numerous reports of a Sith cult called the Disciples of Ragnos appearing all over the galaxy."
-LANG_RUSSIAN         "Дело приобретает серьезный характер.  Мы получаем множество докладов о культе Сита, называемом последователи Рагноса, расползающемся по всей галактике."
+LANG_RUSSIAN         "Р”РµР»Рѕ РїСЂРёРѕР±СЂРµС‚Р°РµС‚ СЃРµСЂСЊРµР·РЅС‹Р№ С…Р°СЂР°РєС‚РµСЂ.  РњС‹ РїРѕР»СѓС‡Р°РµРј РјРЅРѕР¶РµСЃС‚РІРѕ РґРѕРєР»Р°РґРѕРІ Рѕ РєСѓР»СЊС‚Рµ РЎРёС‚Р°, РЅР°Р·С‹РІР°РµРјРѕРј РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё Р Р°РіРЅРѕСЃР°, СЂР°СЃРїРѕР»Р·Р°СЋС‰РµРјСЃСЏ РїРѕ РІСЃРµР№ РіР°Р»Р°РєС‚РёРєРµ."
 
 REFERENCE           2
 LANG_ENGLISH        "We've been looking into the shuttle crash and it doesn't look like laser damage or a mechanical failure was responsible. It's almost as if something just... tore apart the engines."
-LANG_RUSSIAN         "Мы занимались крушением челнока и не похоже, что причиной является попадание лазера или отказ механизмов. Больше всего похоже,... будто что-то разорвало двигатель на части."
+LANG_RUSSIAN         "РњС‹ Р·Р°РЅРёРјР°Р»РёСЃСЊ РєСЂСѓС€РµРЅРёРµРј С‡РµР»РЅРѕРєР° Рё РЅРµ РїРѕС…РѕР¶Рµ, С‡С‚Рѕ РїСЂРёС‡РёРЅРѕР№ СЏРІР»СЏРµС‚СЃСЏ РїРѕРїР°РґР°РЅРёРµ Р»Р°Р·РµСЂР° РёР»Рё РѕС‚РєР°Р· РјРµС…Р°РЅРёР·РјРѕРІ. Р‘РѕР»СЊС€Рµ РІСЃРµРіРѕ РїРѕС…РѕР¶Рµ,... Р±СѓРґС‚Рѕ С‡С‚Рѕ-С‚Рѕ СЂР°Р·РѕСЂРІР°Р»Рѕ РґРІРёРіР°С‚РµР»СЊ РЅР° С‡Р°СЃС‚Рё."
 
 REFERENCE           5
 LANG_ENGLISH        "Nicely done, Jaden. I think you're ready for the next stage of training, but there's still another mission left if you choose to accept it. Remember, every mission is a chance to learn more about being a Jedi."
-LANG_RUSSIAN         "Отлично сделано, Джейден. Думаю, ты готов к следующему этапу обучения, но есть еще одно задание, если ты захочешь за него взяться. Помни, каждое задание дает тебе шанс больше узнать о том, что значит быть джедаем."
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅРѕ СЃРґРµР»Р°РЅРѕ, Р”Р¶РµР№РґРµРЅ. Р”СѓРјР°СЋ, С‚С‹ РіРѕС‚РѕРІ Рє СЃР»РµРґСѓСЋС‰РµРјСѓ СЌС‚Р°РїСѓ РѕР±СѓС‡РµРЅРёСЏ, РЅРѕ РµСЃС‚СЊ РµС‰Рµ РѕРґРЅРѕ Р·Р°РґР°РЅРёРµ, РµСЃР»Рё С‚С‹ Р·Р°С…РѕС‡РµС€СЊ Р·Р° РЅРµРіРѕ РІР·СЏС‚СЊСЃСЏ. РџРѕРјРЅРё, РєР°Р¶РґРѕРµ Р·Р°РґР°РЅРёРµ РґР°РµС‚ С‚РµР±Рµ С€Р°РЅСЃ Р±РѕР»СЊС€Рµ СѓР·РЅР°С‚СЊ Рѕ С‚РѕРј, С‡С‚Рѕ Р·РЅР°С‡РёС‚ Р±С‹С‚СЊ РґР¶РµРґР°РµРј."
 
 REFERENCE           6
 LANG_ENGLISH        "Something's come up. We need you back at the Academy."
-LANG_RUSSIAN         "Что-то проясняется. Ты должен вернуться в академию."
+LANG_RUSSIAN         "Р§С‚Рѕ-С‚Рѕ РїСЂРѕСЏСЃРЅСЏРµС‚СЃСЏ. РўС‹ РґРѕР»Р¶РµРЅ РІРµСЂРЅСѓС‚СЊСЃСЏ РІ Р°РєР°РґРµРјРёСЋ."
 
 
 ENDMARKER

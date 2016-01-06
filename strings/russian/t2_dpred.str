@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,78 +15,78 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           16PRO001
 LANG_ENGLISH        "Master Katarn asked me to inform you that you are not to engage the members of the cult.  He would like you only to determine if the Disciples of Ragnos are on the planet and using it as a base."
-LANG_RUSSIAN         "Мастер Катарн попросил меня сообщить вам, чтобы вы не вступали в бой с членами культа.  Он лишь хочет, чтобы вы узнали, есть ли на планете последователи Рагноса и имеется ли у них своя база."
+LANG_RUSSIAN         "РњР°СЃС‚РµСЂ РљР°С‚Р°СЂРЅ РїРѕРїСЂРѕСЃРёР» РјРµРЅСЏ СЃРѕРѕР±С‰РёС‚СЊ РІР°Рј, С‡С‚РѕР±С‹ РІС‹ РЅРµ РІСЃС‚СѓРїР°Р»Рё РІ Р±РѕР№ СЃ С‡Р»РµРЅР°РјРё РєСѓР»СЊС‚Р°.  РћРЅ Р»РёС€СЊ С…РѕС‡РµС‚, С‡С‚РѕР±С‹ РІС‹ СѓР·РЅР°Р»Рё, РµСЃС‚СЊ Р»Рё РЅР° РїР»Р°РЅРµС‚Рµ РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё Р Р°РіРЅРѕСЃР° Рё РёРјРµРµС‚СЃСЏ Р»Рё Сѓ РЅРёС… СЃРІРѕСЏ Р±Р°Р·Р°."
 
 REFERENCE           16RAJ001
 NOTES               "(laughs)"
 LANG_ENGLISH        "Drop your laser sword, Jedi, and maybe we'll spare your life. Or perhaps you'd like to take your chances!"
-LANG_RUSSIAN         "Брось свой лазерный меч, джедай, и я, быть может, сохраню тебе жизнь. Или, если хочешь, можешь испытать свою судьбу!"
+LANG_RUSSIAN         "Р‘СЂРѕСЃСЊ СЃРІРѕР№ Р»Р°Р·РµСЂРЅС‹Р№ РјРµС‡, РґР¶РµРґР°Р№, Рё СЏ, Р±С‹С‚СЊ РјРѕР¶РµС‚, СЃРѕС…СЂР°РЅСЋ С‚РµР±Рµ Р¶РёР·РЅСЊ. РР»Рё, РµСЃР»Рё С…РѕС‡РµС€СЊ, РјРѕР¶РµС€СЊ РёСЃРїС‹С‚Р°С‚СЊ СЃРІРѕСЋ СЃСѓРґСЊР±Сѓ!"
 
 REFERENCE           16RAJ002
 LANG_ENGLISH        "So, my Jedi friend.  What do you think of our accommodations?"
-LANG_RUSSIAN         "Итак, мой друг джедай.  Что ты думаешь о нашем убежище?"
+LANG_RUSSIAN         "РС‚Р°Рє, РјРѕР№ РґСЂСѓРі РґР¶РµРґР°Р№.  Р§С‚Рѕ С‚С‹ РґСѓРјР°РµС€СЊ Рѕ РЅР°С€РµРј СѓР±РµР¶РёС‰Рµ?"
 
 REFERENCE           16JAK001
 LANG_ENGLISH        "Why don't you come down here and find out?"
-LANG_RUSSIAN         "Почему бы тебе не спуститься и не выяснить?"
+LANG_RUSSIAN         "РџРѕС‡РµРјСѓ Р±С‹ С‚РµР±Рµ РЅРµ СЃРїСѓСЃС‚РёС‚СЊСЃСЏ Рё РЅРµ РІС‹СЏСЃРЅРёС‚СЊ?"
 
 REFERENCE           16RAJ003
 LANG_ENGLISH        "Ahhh... feisty.  Good, good.  I have a proposition for you.  You see, it can get dreadfully dull around here, so I'm up for a bit of sport.  I'm going to let you out.  If you can make it back to your ship, you're free to leave.  But if I catch you, I'll have to shoot you... after all, you are an escaped prisoner.  Hopefully, you'll prove more of a challenge than the bounty hunter I had to kill a few days ago.  Of course, I've never hunted a Jedi before. "
-LANG_RUSSIAN         "Аххх... как отважно.  Хорошо, хорошо.  У меня есть для тебя предложение.  Видишь ли, тут можно сдохнуть от скуки, так что я люблю немного азарта.  Я собираюсь выпустить тебя.  Если ты сможешь вернуться на свой корабль, то будешь жить.  Но если я тебя поймаю, то пристрелю... ведь ты беглый заключенный, кроме всего прочего.  Надеюсь, ты окажешься мишенью потруднее, чем тот вольный охотник, которого я убил пару дней назад.  Разумеется, я никогда еще не охотился на джедая. "
+LANG_RUSSIAN         "РђС…С…С…... РєР°Рє РѕС‚РІР°Р¶РЅРѕ.  РҐРѕСЂРѕС€Рѕ, С…РѕСЂРѕС€Рѕ.  РЈ РјРµРЅСЏ РµСЃС‚СЊ РґР»СЏ С‚РµР±СЏ РїСЂРµРґР»РѕР¶РµРЅРёРµ.  Р’РёРґРёС€СЊ Р»Рё, С‚СѓС‚ РјРѕР¶РЅРѕ СЃРґРѕС…РЅСѓС‚СЊ РѕС‚ СЃРєСѓРєРё, С‚Р°Рє С‡С‚Рѕ СЏ Р»СЋР±Р»СЋ РЅРµРјРЅРѕРіРѕ Р°Р·Р°СЂС‚Р°.  РЇ СЃРѕР±РёСЂР°СЋСЃСЊ РІС‹РїСѓСЃС‚РёС‚СЊ С‚РµР±СЏ.  Р•СЃР»Рё С‚С‹ СЃРјРѕР¶РµС€СЊ РІРµСЂРЅСѓС‚СЊСЃСЏ РЅР° СЃРІРѕР№ РєРѕСЂР°Р±Р»СЊ, С‚Рѕ Р±СѓРґРµС€СЊ Р¶РёС‚СЊ.  РќРѕ РµСЃР»Рё СЏ С‚РµР±СЏ РїРѕР№РјР°СЋ, С‚Рѕ РїСЂРёСЃС‚СЂРµР»СЋ... РІРµРґСЊ С‚С‹ Р±РµРіР»С‹Р№ Р·Р°РєР»СЋС‡РµРЅРЅС‹Р№, РєСЂРѕРјРµ РІСЃРµРіРѕ РїСЂРѕС‡РµРіРѕ.  РќР°РґРµСЋСЃСЊ, С‚С‹ РѕРєР°Р¶РµС€СЊСЃСЏ РјРёС€РµРЅСЊСЋ РїРѕС‚СЂСѓРґРЅРµРµ, С‡РµРј С‚РѕС‚ РІРѕР»СЊРЅС‹Р№ РѕС…РѕС‚РЅРёРє, РєРѕС‚РѕСЂРѕРіРѕ СЏ СѓР±РёР» РїР°СЂСѓ РґРЅРµР№ РЅР°Р·Р°Рґ.  Р Р°Р·СѓРјРµРµС‚СЃСЏ, СЏ РЅРёРєРѕРіРґР° РµС‰Рµ РЅРµ РѕС…РѕС‚РёР»СЃСЏ РЅР° РґР¶РµРґР°СЏ. "
 
 REFERENCE           16JAK002
 LANG_ENGLISH        "And if I refuse to play along?"
-LANG_RUSSIAN         "А если я откажусь играть в игры?"
+LANG_RUSSIAN         "Рђ РµСЃР»Рё СЏ РѕС‚РєР°Р¶СѓСЃСЊ РёРіСЂР°С‚СЊ РІ РёРіСЂС‹?"
 
 REFERENCE           16RAJ004
 NOTES               "(laughs at end)"
 LANG_ENGLISH        "Well then, you can rot in your cell.  I'm sure someone might come looking for you, eventually."
-LANG_RUSSIAN         "Тогда можешь гнить в своей камере.  Уверен, время от времени, к тебе будут заглядывать гости."
+LANG_RUSSIAN         "РўРѕРіРґР° РјРѕР¶РµС€СЊ РіРЅРёС‚СЊ РІ СЃРІРѕРµР№ РєР°РјРµСЂРµ.  РЈРІРµСЂРµРЅ, РІСЂРµРјСЏ РѕС‚ РІСЂРµРјРµРЅРё, Рє С‚РµР±Рµ Р±СѓРґСѓС‚ Р·Р°РіР»СЏРґС‹РІР°С‚СЊ РіРѕСЃС‚Рё."
 
 REFERENCE           16RAJ005
 NOTES               "(O.S.)"
 LANG_ENGLISH        "Let the games begin!"
-LANG_RUSSIAN         "Да начнется игра!"
+LANG_RUSSIAN         "Р”Р° РЅР°С‡РЅРµС‚СЃСЏ РёРіСЂР°!"
 
 REFERENCE           16RAJ006
 LANG_ENGLISH        "Hah!  You Jedi certainly are quick!"
-LANG_RUSSIAN         "Ха!  А вы, джедаи, народ шустрый!"
+LANG_RUSSIAN         "РҐР°!  Рђ РІС‹, РґР¶РµРґР°Рё, РЅР°СЂРѕРґ С€СѓСЃС‚СЂС‹Р№!"
 
 REFERENCE           16RAJ007
 NOTES               "(over loudspeakers) (calmly, playing with Jaden)"
 LANG_ENGLISH        "Attention, we have an escaped prisoner inside the main garrison.  Initiate Security Lockdown."
-LANG_RUSSIAN         "Внимание, на территории гарнизона находится беглый заключенный.  Начать строгую изоляцию заключенных"
+LANG_RUSSIAN         "Р’РЅРёРјР°РЅРёРµ, РЅР° С‚РµСЂСЂРёС‚РѕСЂРёРё РіР°СЂРЅРёР·РѕРЅР° РЅР°С…РѕРґРёС‚СЃСЏ Р±РµРіР»С‹Р№ Р·Р°РєР»СЋС‡РµРЅРЅС‹Р№.  РќР°С‡Р°С‚СЊ СЃС‚СЂРѕРіСѓСЋ РёР·РѕР»СЏС†РёСЋ Р·Р°РєР»СЋС‡РµРЅРЅС‹С…"
 
 REFERENCE           16JAK003
 LANG_ENGLISH        "That should take care of the lockdown.  Now where's the hangar?"
-LANG_RUSSIAN         "Это справится с изоляцией.  Где же ангар?"
+LANG_RUSSIAN         "Р­С‚Рѕ СЃРїСЂР°РІРёС‚СЃСЏ СЃ РёР·РѕР»СЏС†РёРµР№.  Р“РґРµ Р¶Рµ Р°РЅРіР°СЂ?"
 
 REFERENCE           16RAJ008
 NOTES               "(over loudspeakers)"
 LANG_ENGLISH        "Not that way!"
-LANG_RUSSIAN         "Не сюда!"
+LANG_RUSSIAN         "РќРµ СЃСЋРґР°!"
 
 REFERENCE           16JAK004
 LANG_ENGLISH        "Bet he wasn't expecting that!"
-LANG_RUSSIAN         "Готов поспорить, этого он не ожидал!"
+LANG_RUSSIAN         "Р“РѕС‚РѕРІ РїРѕСЃРїРѕСЂРёС‚СЊ, СЌС‚РѕРіРѕ РѕРЅ РЅРµ РѕР¶РёРґР°Р»!"
 
 REFERENCE           16JAK005
 LANG_ENGLISH        "Hmmm, need to reactivate the lift."
-LANG_RUSSIAN         "Хммм, нужно включить лифт."
+LANG_RUSSIAN         "РҐРјРјРј, РЅСѓР¶РЅРѕ РІРєР»СЋС‡РёС‚СЊ Р»РёС„С‚."
 
 REFERENCE           16RAJ009
 NOTES               "(getting angry for the first time)"
 LANG_ENGLISH        "You're doing well, Jedi... too well!  It's time to end this game."
-LANG_RUSSIAN         "Ты неплохо справляешься, джедай... слишком хорошо, я бы сказал!  Пора закончить эу игру."
+LANG_RUSSIAN         "РўС‹ РЅРµРїР»РѕС…Рѕ СЃРїСЂР°РІР»СЏРµС€СЊСЃСЏ, РґР¶РµРґР°Р№... СЃР»РёС€РєРѕРј С…РѕСЂРѕС€Рѕ, СЏ Р±С‹ СЃРєР°Р·Р°Р»!  РџРѕСЂР° Р·Р°РєРѕРЅС‡РёС‚СЊ СЌСѓ РёРіСЂСѓ."
 
 REFERENCE           16RAJ010
 LANG_ENGLISH        "Well played.  Tragically, I can't allow you to tell anyone about my little operation.  Farewell, Jedi."
-LANG_RUSSIAN         "Хорошо играл.  Как печально, что я не могу позволить тебе кому бы то ни было рассказывать о моей маленькой операции.  Прощай, джедай."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ РёРіСЂР°Р».  РљР°Рє РїРµС‡Р°Р»СЊРЅРѕ, С‡С‚Рѕ СЏ РЅРµ РјРѕРіСѓ РїРѕР·РІРѕР»РёС‚СЊ С‚РµР±Рµ РєРѕРјСѓ Р±С‹ С‚Рѕ РЅРё Р±С‹Р»Рѕ СЂР°СЃСЃРєР°Р·С‹РІР°С‚СЊ Рѕ РјРѕРµР№ РјР°Р»РµРЅСЊРєРѕР№ РѕРїРµСЂР°С†РёРё.  РџСЂРѕС‰Р°Р№, РґР¶РµРґР°Р№."
 
 REFERENCE           16RAJ011
 NOTES               "(dying)"
 LANG_ENGLISH        "It... seems I... under... estimated... you... Jed..."
-LANG_RUSSIAN         "Похоже... я... не... дооценил... тебя... джед..."
+LANG_RUSSIAN         "РџРѕС…РѕР¶Рµ... СЏ... РЅРµ... РґРѕРѕС†РµРЅРёР»... С‚РµР±СЏ... РґР¶РµРґ..."
 
 
 ENDMARKER

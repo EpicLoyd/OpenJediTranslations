@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,284 +16,284 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           27JAK001
 NOTES               "(recognizes her)"
 LANG_ENGLISH        "You!"
-LANG_RUSSIAN         "Ты!"
+LANG_RUSSIAN         "РўС‹!"
 
 REFERENCE           27ALO001
 NOTES               "(taunting)"
 LANG_ENGLISH        "So, the itty-bitty Jedi has come to rescue his friend... that's so sweet."
-LANG_RUSSIAN         "Значит, ушлый джедай пришел спасти своего друга... как это мило."
+LANG_RUSSIAN         "Р—РЅР°С‡РёС‚, СѓС€Р»С‹Р№ РґР¶РµРґР°Р№ РїСЂРёС€РµР» СЃРїР°СЃС‚Рё СЃРІРѕРµРіРѕ РґСЂСѓРіР°... РєР°Рє СЌС‚Рѕ РјРёР»Рѕ."
 
 REFERENCE           27JAK002
 LANG_ENGLISH        "Where's Rosh?"
-LANG_RUSSIAN         "Где же Рош?"
+LANG_RUSSIAN         "Р“РґРµ Р¶Рµ Р РѕС€?"
 
 REFERENCE           27ALO002
 NOTES               "(separate last three words)"
 LANG_ENGLISH        "What makes you think he wants to be rescued?  Tavion turned him to the dark side.  Just.  Like.  That."
-LANG_RUSSIAN         "А кто сказал, что его нужно спасать?  Тавион обратила его на темную сторону.  Именно.  Так.  И есть."
+LANG_RUSSIAN         "Рђ РєС‚Рѕ СЃРєР°Р·Р°Р», С‡С‚Рѕ РµРіРѕ РЅСѓР¶РЅРѕ СЃРїР°СЃР°С‚СЊ?  РўР°РІРёРѕРЅ РѕР±СЂР°С‚РёР»Р° РµРіРѕ РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ.  РРјРµРЅРЅРѕ.  РўР°Рє.  Р РµСЃС‚СЊ."
 
 REFERENCE           27JAK003
 NOTES               "(angrily)"
 LANG_ENGLISH        "Where is he?"
-LANG_RUSSIAN         "Где он?"
+LANG_RUSSIAN         "Р“РґРµ РѕРЅ?"
 
 REFERENCE           27ALO003
 LANG_ENGLISH        "Ooo, someone's getting awfully angry, aren't they?  Forgetting your Jedi training?"
-LANG_RUSSIAN         "Ооо, кто-то у нас ужасно рассердился, верно?  Забыл свое джедайское обучение?"
+LANG_RUSSIAN         "РћРѕРѕ, РєС‚Рѕ-С‚Рѕ Сѓ РЅР°СЃ СѓР¶Р°СЃРЅРѕ СЂР°СЃСЃРµСЂРґРёР»СЃСЏ, РІРµСЂРЅРѕ?  Р—Р°Р±С‹Р» СЃРІРѕРµ РґР¶РµРґР°Р№СЃРєРѕРµ РѕР±СѓС‡РµРЅРёРµ?"
 
 REFERENCE           27JAK004
 NOTES               "(regaining control)"
 LANG_ENGLISH        "Look... Alora.  Why serve Tavion?  It's not too late to join us and fight her-"
-LANG_RUSSIAN         "Послушай... Алора.  Зачем служить Тавион?  Еще не поздно перейти к нам и сразиться с ней - "
+LANG_RUSSIAN         "РџРѕСЃР»СѓС€Р°Р№... РђР»РѕСЂР°.  Р—Р°С‡РµРј СЃР»СѓР¶РёС‚СЊ РўР°РІРёРѕРЅ?  Р•С‰Рµ РЅРµ РїРѕР·РґРЅРѕ РїРµСЂРµР№С‚Рё Рє РЅР°Рј Рё СЃСЂР°Р·РёС‚СЊСЃСЏ СЃ РЅРµР№ - "
 
 REFERENCE           27ALO004
 LANG_ENGLISH        "(laughs)"
-LANG_RUSSIAN         "(смех)"
+LANG_RUSSIAN         "(СЃРјРµС…)"
 
 REFERENCE           27JAK005
 LANG_ENGLISH        "I'm taking Rosh out of here. Make it easy on yourself and tell me where he is."
-LANG_RUSSIAN         "Я забираю Роша. Облегчи себе задачу и скажи мне, где он."
+LANG_RUSSIAN         "РЇ Р·Р°Р±РёСЂР°СЋ Р РѕС€Р°. РћР±Р»РµРіС‡Рё СЃРµР±Рµ Р·Р°РґР°С‡Сѓ Рё СЃРєР°Р¶Рё РјРЅРµ, РіРґРµ РѕРЅ."
 
 REFERENCE           27ALO005
 NOTES               "(playful)"
 LANG_ENGLISH        "Oh, he's around.  I think I'll go look for him..."
-LANG_RUSSIAN         "О, где-то рядом.  Думаю, мне стоит его поискать..."
+LANG_RUSSIAN         "Рћ, РіРґРµ-С‚Рѕ СЂСЏРґРѕРј.  Р”СѓРјР°СЋ, РјРЅРµ СЃС‚РѕРёС‚ РµРіРѕ РїРѕРёСЃРєР°С‚СЊ..."
 
 REFERENCE           27ALO006
 LANG_ENGLISH        "Oooh, but you are persistent, Jedi."
-LANG_RUSSIAN         "Ооох, а ты настойчив, джедай."
+LANG_RUSSIAN         "РћРѕРѕС…, Р° С‚С‹ РЅР°СЃС‚РѕР№С‡РёРІ, РґР¶РµРґР°Р№."
 
 REFERENCE           27ALO007
 LANG_ENGLISH        "Are all Jedi as weak as Rosh, or just Katarn's personal brats?"
-LANG_RUSSIAN         "Все джедаи так же слабы, как и Рош, или это личные выкормыши Катарна?"
+LANG_RUSSIAN         "Р’СЃРµ РґР¶РµРґР°Рё С‚Р°Рє Р¶Рµ СЃР»Р°Р±С‹, РєР°Рє Рё Р РѕС€, РёР»Рё СЌС‚Рѕ Р»РёС‡РЅС‹Рµ РІС‹РєРѕСЂРјС‹С€Рё РљР°С‚Р°СЂРЅР°?"
 
 REFERENCE           27ALO008
 LANG_ENGLISH        "Perhaps you, too, will learn to serve Tavion..."
-LANG_RUSSIAN         "Быть может, ты тоже научишься служить Тавион..."
+LANG_RUSSIAN         "Р‘С‹С‚СЊ РјРѕР¶РµС‚, С‚С‹ С‚РѕР¶Рµ РЅР°СѓС‡РёС€СЊСЃСЏ СЃР»СѓР¶РёС‚СЊ РўР°РІРёРѕРЅ..."
 
 REFERENCE           27ALO009
 LANG_ENGLISH        "Imagine the power if you joined us..."
-LANG_RUSSIAN         "Представь себе силу, которую получишь у нас..."
+LANG_RUSSIAN         "РџСЂРµРґСЃС‚Р°РІСЊ СЃРµР±Рµ СЃРёР»Сѓ, РєРѕС‚РѕСЂСѓСЋ РїРѕР»СѓС‡РёС€СЊ Сѓ РЅР°СЃ..."
 
 REFERENCE           27JAK006
 NOTES               "(surprised to see him)"
 LANG_ENGLISH        "Rosh!"
-LANG_RUSSIAN         "Рош!"
+LANG_RUSSIAN         "Р РѕС€!"
 
 REFERENCE           27ROP001
 NOTES               "(scared)"
 LANG_ENGLISH        "Jaden..."
-LANG_RUSSIAN         "Джейден..."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ..."
 
 REFERENCE           27JAK007
 LANG_ENGLISH        "You don't look like much of a captive, Rosh.  Did you dream this up or was it Tavion's idea?"
-LANG_RUSSIAN         "Что-то не похоже, что тебя держат насильно, Рош.  Это ты придумал, или это идея Тавион?"
+LANG_RUSSIAN         "Р§С‚Рѕ-С‚Рѕ РЅРµ РїРѕС…РѕР¶Рµ, С‡С‚Рѕ С‚РµР±СЏ РґРµСЂР¶Р°С‚ РЅР°СЃРёР»СЊРЅРѕ, Р РѕС€.  Р­С‚Рѕ С‚С‹ РїСЂРёРґСѓРјР°Р», РёР»Рё СЌС‚Рѕ РёРґРµСЏ РўР°РІРёРѕРЅ?"
 
 REFERENCE           27ROP002
 NOTES               "(nervously"
 LANG_ENGLISH        "No, Jaden - wait!  I was wrong!   Please!  Take me back to the Academy.  I need... help. "
-LANG_RUSSIAN         "Нет, Джейден - стой!  Я был не прав!   Прошу тебя!  Отвези меня в академию.  Мне нужна... помощь. "
+LANG_RUSSIAN         "РќРµС‚, Р”Р¶РµР№РґРµРЅ - СЃС‚РѕР№!  РЇ Р±С‹Р» РЅРµ РїСЂР°РІ!   РџСЂРѕС€Сѓ С‚РµР±СЏ!  РћС‚РІРµР·Рё РјРµРЅСЏ РІ Р°РєР°РґРµРјРёСЋ.  РњРЅРµ РЅСѓР¶РЅР°... РїРѕРјРѕС‰СЊ. "
 
 REFERENCE           27ROP003
 NOTES               "(nervously"
 LANG_ENGLISH        "Jaden, stay back."
-LANG_RUSSIAN         "Джейден, не подходи."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РЅРµ РїРѕРґС…РѕРґРё."
 
 REFERENCE           27ROP004
 NOTES               "(ignites lightsaber)"
 LANG_ENGLISH        "Please... don't hurt me."
-LANG_RUSSIAN         "Пожалуйста... не трогай меня."
+LANG_RUSSIAN         "РџРѕР¶Р°Р»СѓР№СЃС‚Р°... РЅРµ С‚СЂРѕРіР°Р№ РјРµРЅСЏ."
 
 REFERENCE           27JAK008
 LANG_ENGLISH        "You tried to kill me!  And now you've lured me into a trap!"
-LANG_RUSSIAN         "Ты пытался меня убить!  А теперь ты попался в западню!"
+LANG_RUSSIAN         "РўС‹ РїС‹С‚Р°Р»СЃСЏ РјРµРЅСЏ СѓР±РёС‚СЊ!  Рђ С‚РµРїРµСЂСЊ С‚С‹ РїРѕРїР°Р»СЃСЏ РІ Р·Р°РїР°РґРЅСЋ!"
 
 REFERENCE           27ROP005
 NOTES               "(nervously)"
 LANG_ENGLISH        "Jaden, I was... scared.  You have to believe me.  We're friends, remember?  Let's get out of here before Alora comes back."
-LANG_RUSSIAN         "Джейден, я... испугался.  Ты должен мне верить.  Мы же друзья, помнишь?  Давай уберемся отсюда, пока не вернулась Алора."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЏ... РёСЃРїСѓРіР°Р»СЃСЏ.  РўС‹ РґРѕР»Р¶РµРЅ РјРЅРµ РІРµСЂРёС‚СЊ.  РњС‹ Р¶Рµ РґСЂСѓР·СЊСЏ, РїРѕРјРЅРёС€СЊ?  Р”Р°РІР°Р№ СѓР±РµСЂРµРјСЃСЏ РѕС‚СЃСЋРґР°, РїРѕРєР° РЅРµ РІРµСЂРЅСѓР»Р°СЃСЊ РђР»РѕСЂР°."
 
 REFERENCE           27JAK009
 NOTES               "(still angry, suspicious)"
 LANG_ENGLISH        "How do I know you won't betray me again?  You're always trying to beat me.  How do I know this isn't just another trick?"
-LANG_RUSSIAN         "Откуда мне знать, не предашь ли ты опять?  Ты всегда соперничал со мной.  Откуда мне знать, что это не очередная хитрость?"
+LANG_RUSSIAN         "РћС‚РєСѓРґР° РјРЅРµ Р·РЅР°С‚СЊ, РЅРµ РїСЂРµРґР°С€СЊ Р»Рё С‚С‹ РѕРїСЏС‚СЊ?  РўС‹ РІСЃРµРіРґР° СЃРѕРїРµСЂРЅРёС‡Р°Р» СЃРѕ РјРЅРѕР№.  РћС‚РєСѓРґР° РјРЅРµ Р·РЅР°С‚СЊ, С‡С‚Рѕ СЌС‚Рѕ РЅРµ РѕС‡РµСЂРµРґРЅР°СЏ С…РёС‚СЂРѕСЃС‚СЊ?"
 
 REFERENCE           27KYK001
 NOTES               "(telepathy)"
 LANG_ENGLISH        "Jaden!  Don't do it!"
-LANG_RUSSIAN         "Джейден!  Не делай этого!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ!  РќРµ РґРµР»Р°Р№ СЌС‚РѕРіРѕ!"
 
 REFERENCE           27ALO010
 LANG_ENGLISH        "Finish him, Jedi!"
-LANG_RUSSIAN         "Прикончи его, джедай!"
+LANG_RUSSIAN         "РџСЂРёРєРѕРЅС‡Рё РµРіРѕ, РґР¶РµРґР°Р№!"
 
 REFERENCE           27ROP006
 NOTES               "(trying to be convincing, but too scared)"
 LANG_ENGLISH        "Wait, listen to what you're saying!  You're.. you're angry!  Don't give in to it, that leads to the dark side, right?  "
-LANG_RUSSIAN         "Стой, послушай, что ты говоришь!  Ты.. ты в гневе!  Не позволяй овладеть собой тому, что приведет тебя на темную сторону, да?  "
+LANG_RUSSIAN         "РЎС‚РѕР№, РїРѕСЃР»СѓС€Р°Р№, С‡С‚Рѕ С‚С‹ РіРѕРІРѕСЂРёС€СЊ!  РўС‹.. С‚С‹ РІ РіРЅРµРІРµ!  РќРµ РїРѕР·РІРѕР»СЏР№ РѕРІР»Р°РґРµС‚СЊ СЃРѕР±РѕР№ С‚РѕРјСѓ, С‡С‚Рѕ РїСЂРёРІРµРґРµС‚ С‚РµР±СЏ РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ, РґР°?  "
 
 REFERENCE           27KYK002
 NOTES               "(telepathy)"
 LANG_ENGLISH        "He only fell to the dark side because he was scared.  Afraid of dying.  Put away your saber."
-LANG_RUSSIAN         "Он перешел на темную сторону из страха.  Боялся смерти.  Убери свой меч."
+LANG_RUSSIAN         "РћРЅ РїРµСЂРµС€РµР» РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ РёР· СЃС‚СЂР°С…Р°.  Р‘РѕСЏР»СЃСЏ СЃРјРµСЂС‚Рё.  РЈР±РµСЂРё СЃРІРѕР№ РјРµС‡."
 
 REFERENCE           27ALO011
 LANG_ENGLISH        "Strike him down!  Give in to your anger."
-LANG_RUSSIAN         "Добей его!  Отдайся своему гневу."
+LANG_RUSSIAN         "Р”РѕР±РµР№ РµРіРѕ!  РћС‚РґР°Р№СЃСЏ СЃРІРѕРµРјСѓ РіРЅРµРІСѓ."
 
 REFERENCE           27KYK003
 NOTES               "(telepathy)"
 LANG_ENGLISH        "Jaden, you're better than that!  Don't give in to your anger!  Rosh is telling the truth!"
-LANG_RUSSIAN         "Джейден, ты слишком хорош для этого!  Не отдайся своему гневу!  Рош говорит правду!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, С‚С‹ СЃР»РёС€РєРѕРј С…РѕСЂРѕС€ РґР»СЏ СЌС‚РѕРіРѕ!  РќРµ РѕС‚РґР°Р№СЃСЏ СЃРІРѕРµРјСѓ РіРЅРµРІСѓ!  Р РѕС€ РіРѕРІРѕСЂРёС‚ РїСЂР°РІРґСѓ!"
 
 REFERENCE           27JAK010
 NOTES               "(coming to his senses)"
 LANG_ENGLISH        "I'm sorry Rosh, you're right.  I almost let my anger get the best of me.  Let's get out of here."
-LANG_RUSSIAN         "Прости, Рош, ты прав.  Я почти отдался на волю своему гневу.  Нужно уходить отсюда."
+LANG_RUSSIAN         "РџСЂРѕСЃС‚Рё, Р РѕС€, С‚С‹ РїСЂР°РІ.  РЇ РїРѕС‡С‚Рё РѕС‚РґР°Р»СЃСЏ РЅР° РІРѕР»СЋ СЃРІРѕРµРјСѓ РіРЅРµРІСѓ.  РќСѓР¶РЅРѕ СѓС…РѕРґРёС‚СЊ РѕС‚СЃСЋРґР°."
 
 REFERENCE           27ROP007
 NOTES               "(extremely relieved)"
 LANG_ENGLISH        "Thank you, Jaden."
-LANG_RUSSIAN         "Спасибо тебе, Джейден."
+LANG_RUSSIAN         "РЎРїР°СЃРёР±Рѕ С‚РµР±Рµ, Р”Р¶РµР№РґРµРЅ."
 
 REFERENCE           27ALO012
 LANG_ENGLISH        "You Jedi are blandly predictable.  Tavion thought that turning you would gain us an ally."
-LANG_RUSSIAN         "Вы, джедаи, народ до отвращения предсказуемый.  Тавион считала, что, обратив тебя, получит союзника."
+LANG_RUSSIAN         "Р’С‹, РґР¶РµРґР°Рё, РЅР°СЂРѕРґ РґРѕ РѕС‚РІСЂР°С‰РµРЅРёСЏ РїСЂРµРґСЃРєР°Р·СѓРµРјС‹Р№.  РўР°РІРёРѕРЅ СЃС‡РёС‚Р°Р»Р°, С‡С‚Рѕ, РѕР±СЂР°С‚РёРІ С‚РµР±СЏ, РїРѕР»СѓС‡РёС‚ СЃРѕСЋР·РЅРёРєР°."
 
 REFERENCE           27ALO013
 NOTES               "(she walks towards Rosh)"
 LANG_ENGLISH        "But since you won't be turned, I guess it's up to me to clean up her mistake."
-LANG_RUSSIAN         "Но, так как ты не перешел на темную сторону, мне следует исправить ее ошибку."
+LANG_RUSSIAN         "РќРѕ, С‚Р°Рє РєР°Рє С‚С‹ РЅРµ РїРµСЂРµС€РµР» РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ, РјРЅРµ СЃР»РµРґСѓРµС‚ РёСЃРїСЂР°РІРёС‚СЊ РµРµ РѕС€РёР±РєСѓ."
 
 REFERENCE           27JAK011
 LANG_ENGLISH        "Stand down, Alora.  You were no match for me on Hoth, and now I am a Jedi Knight.   "
-LANG_RUSSIAN         "Уступи место, Алора.  Ты не была ровней мне на Хоте, а теперь я стал рыцарем джедай.    "
+LANG_RUSSIAN         "РЈСЃС‚СѓРїРё РјРµСЃС‚Рѕ, РђР»РѕСЂР°.  РўС‹ РЅРµ Р±С‹Р»Р° СЂРѕРІРЅРµР№ РјРЅРµ РЅР° РҐРѕС‚Рµ, Р° С‚РµРїРµСЂСЊ СЏ СЃС‚Р°Р» СЂС‹С†Р°СЂРµРј РґР¶РµРґР°Р№.    "
 
 REFERENCE           27ALO014
 LANG_ENGLISH        "Tavion has taught me many things as well, you sanctimonious fool!  "
-LANG_RUSSIAN         "Тавион многому меня научила, тупой ханжа!  "
+LANG_RUSSIAN         "РўР°РІРёРѕРЅ РјРЅРѕРіРѕРјСѓ РјРµРЅСЏ РЅР°СѓС‡РёР»Р°, С‚СѓРїРѕР№ С…Р°РЅР¶Р°!  "
 
 REFERENCE           27ROP008
 NOTES               "(She severs Rosh's arm and he falls screaming.)"
 LANG_ENGLISH        "Aaahhhhhh!"
-LANG_RUSSIAN         "Аааааааххх!"
+LANG_RUSSIAN         "РђР°Р°Р°Р°Р°Р°С…С…С…!"
 
 REFERENCE           27JAK012
 LANG_ENGLISH        "Rosh!"
-LANG_RUSSIAN         "Рош!"
+LANG_RUSSIAN         "Р РѕС€!"
 
 REFERENCE           27ROP009
 NOTES               "(in pain)"
 LANG_ENGLISH        "Unggh...."
-LANG_RUSSIAN         "Унггх...."
+LANG_RUSSIAN         "РЈРЅРіРіС…...."
 
 REFERENCE           27KYK004
 LANG_ENGLISH        "Rosh!"
-LANG_RUSSIAN         "Рош!"
+LANG_RUSSIAN         "Р РѕС€!"
 
 REFERENCE           27ROP010
 NOTES               "(weakly)"
 LANG_ENGLISH        "I'll be..."
-LANG_RUSSIAN         "Я еще..."
+LANG_RUSSIAN         "РЇ РµС‰Рµ..."
 
 REFERENCE           27KYK005
 LANG_ENGLISH        "Sith Spit!  I need to get him to a bacta tank.  Go to Korriban and help Luke and the others.  I'll be there as soon as I can."
-LANG_RUSSIAN         "Клинок Сита!  Нужно засунуть его в контейнер бакты.  Лети на Коррибан и помоги Люку и остальным.  Я прилечу как можно скорее."
+LANG_RUSSIAN         "РљР»РёРЅРѕРє РЎРёС‚Р°!  РќСѓР¶РЅРѕ Р·Р°СЃСѓРЅСѓС‚СЊ РµРіРѕ РІ РєРѕРЅС‚РµР№РЅРµСЂ Р±Р°РєС‚С‹.  Р›РµС‚Рё РЅР° РљРѕСЂСЂРёР±Р°РЅ Рё РїРѕРјРѕРіРё Р›СЋРєСѓ Рё РѕСЃС‚Р°Р»СЊРЅС‹Рј.  РЇ РїСЂРёР»РµС‡Сѓ РєР°Рє РјРѕР¶РЅРѕ СЃРєРѕСЂРµРµ."
 
 REFERENCE           27KYK006
 LANG_ENGLISH        "Jaden. I sensed your struggle with the dark side.  I am glad you made the right choice."
-LANG_RUSSIAN         "Джейден. Я ощутил твою борьбу с темной стороной.  Я рад, что ты сделал верный выбор."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ. РЇ РѕС‰СѓС‚РёР» С‚РІРѕСЋ Р±РѕСЂСЊР±Сѓ СЃ С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅРѕР№.  РЇ СЂР°Рґ, С‡С‚Рѕ С‚С‹ СЃРґРµР»Р°Р» РІРµСЂРЅС‹Р№ РІС‹Р±РѕСЂ."
 
 REFERENCE           27JAK013
 LANG_ENGLISH        "Thank you...  but it was Rosh who made me see what the right choice was.  Tell him that when he wakes up."
-LANG_RUSSIAN         "Спасибо...  но именно Рош показал мне, что нужно выбирать.  Скажите ему об этом, когда он проснется."
+LANG_RUSSIAN         "РЎРїР°СЃРёР±Рѕ...  РЅРѕ РёРјРµРЅРЅРѕ Р РѕС€ РїРѕРєР°Р·Р°Р» РјРЅРµ, С‡С‚Рѕ РЅСѓР¶РЅРѕ РІС‹Р±РёСЂР°С‚СЊ.  РЎРєР°Р¶РёС‚Рµ РµРјСѓ РѕР± СЌС‚РѕРј, РєРѕРіРґР° РѕРЅ РїСЂРѕСЃРЅРµС‚СЃСЏ."
 
 REFERENCE           27KYK007
 LANG_ENGLISH        "I will.  Now go."
-LANG_RUSSIAN         "Хорошо.  Теперь иди."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ.  РўРµРїРµСЂСЊ РёРґРё."
 
 REFERENCE           27ROP011
 LANG_ENGLISH        "Jaden, no.  Let go of your anger."
-LANG_RUSSIAN         "Джейден, нет.  Выпусти свой гнев."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РЅРµС‚.  Р’С‹РїСѓСЃС‚Рё СЃРІРѕР№ РіРЅРµРІ."
 
 REFERENCE           27JAK014
 LANG_ENGLISH        "Why should I?  You yourself said how powerful the dark side was."
-LANG_RUSSIAN         "Зачем это?  Ты сам сказал, как сильна темная сторона."
+LANG_RUSSIAN         "Р—Р°С‡РµРј СЌС‚Рѕ?  РўС‹ СЃР°Рј СЃРєР°Р·Р°Р», РєР°Рє СЃРёР»СЊРЅР° С‚РµРјРЅР°СЏ СЃС‚РѕСЂРѕРЅР°."
 
 REFERENCE           27ROP012
 LANG_ENGLISH        "I was wrong."
-LANG_RUSSIAN         "Я был не прав."
+LANG_RUSSIAN         "РЇ Р±С‹Р» РЅРµ РїСЂР°РІ."
 
 REFERENCE           27JAK015
 LANG_ENGLISH        "No, you were weak."
-LANG_RUSSIAN         "Нет, ты был слаб."
+LANG_RUSSIAN         "РќРµС‚, С‚С‹ Р±С‹Р» СЃР»Р°Р±."
 
 REFERENCE           27ROP013
 LANG_ENGLISH        "Jaden... no."
-LANG_RUSSIAN         "Джейден... нет."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ... РЅРµС‚."
 
 REFERENCE           27ALO015
 LANG_ENGLISH        "Well done, Jedi.  You have become one of us."
-LANG_RUSSIAN         "Отлично, джедай.  Ты стал одним из нас."
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅРѕ, РґР¶РµРґР°Р№.  РўС‹ СЃС‚Р°Р» РѕРґРЅРёРј РёР· РЅР°СЃ."
 
 REFERENCE           27JAK016
 NOTES               "(angrily, with venom)"
 LANG_ENGLISH        "No!"
-LANG_RUSSIAN         "Нет!"
+LANG_RUSSIAN         "РќРµС‚!"
 
 REFERENCE           27ALO016
 LANG_ENGLISH        "Join us.  With Marka Ragnos as our Master, we will defeat the Jedi and rule the galaxy."
-LANG_RUSSIAN         "Присоединяйся к нам.  Под началом Марка Рагноса мы победим всех джедаев и будем править галактикой."
+LANG_RUSSIAN         "РџСЂРёСЃРѕРµРґРёРЅСЏР№СЃСЏ Рє РЅР°Рј.  РџРѕРґ РЅР°С‡Р°Р»РѕРј РњР°СЂРєР° Р Р°РіРЅРѕСЃР° РјС‹ РїРѕР±РµРґРёРј РІСЃРµС… РґР¶РµРґР°РµРІ Рё Р±СѓРґРµРј РїСЂР°РІРёС‚СЊ РіР°Р»Р°РєС‚РёРєРѕР№."
 
 REFERENCE           27JAK017
 LANG_ENGLISH        "Join you?  Why should I trade one master for another?  The scepter of Ragnos is too powerful to be left in the hands of someone as weak as Tavion.  If anything, it should belong to ME."
-LANG_RUSSIAN         "Присоединиться к тебе?  Зачем мне менять одного учителя на другого?  Скипетр Рагноса слишком могущественная штука, чтобы оставаться в руках таких слабых людей, как Тавион.  В любом случае, он должен принадлежать МНЕ."
+LANG_RUSSIAN         "РџСЂРёСЃРѕРµРґРёРЅРёС‚СЊСЃСЏ Рє С‚РµР±Рµ?  Р—Р°С‡РµРј РјРЅРµ РјРµРЅСЏС‚СЊ РѕРґРЅРѕРіРѕ СѓС‡РёС‚РµР»СЏ РЅР° РґСЂСѓРіРѕРіРѕ?  РЎРєРёРїРµС‚СЂ Р Р°РіРЅРѕСЃР° СЃР»РёС€РєРѕРј РјРѕРіСѓС‰РµСЃС‚РІРµРЅРЅР°СЏ С€С‚СѓРєР°, С‡С‚РѕР±С‹ РѕСЃС‚Р°РІР°С‚СЊСЃСЏ РІ СЂСѓРєР°С… С‚Р°РєРёС… СЃР»Р°Р±С‹С… Р»СЋРґРµР№, РєР°Рє РўР°РІРёРѕРЅ.  Р’ Р»СЋР±РѕРј СЃР»СѓС‡Р°Рµ, РѕРЅ РґРѕР»Р¶РµРЅ РїСЂРёРЅР°РґР»РµР¶Р°С‚СЊ РњРќР•."
 
 REFERENCE           27ALO017
 LANG_ENGLISH        "Oh, you think so?  "
-LANG_RUSSIAN         "Ох, не думаю.  "
+LANG_RUSSIAN         "РћС…, РЅРµ РґСѓРјР°СЋ.  "
 
 REFERENCE           27JAK018
 LANG_ENGLISH        "You, on the other hand, are useless.  I should have killed you on Hoth."
-LANG_RUSSIAN         "Однако, с другой стороны, ты бесполезен.  Нужно было прикончить тебя на Хоте."
+LANG_RUSSIAN         "РћРґРЅР°РєРѕ, СЃ РґСЂСѓРіРѕР№ СЃС‚РѕСЂРѕРЅС‹, С‚С‹ Р±РµСЃРїРѕР»РµР·РµРЅ.  РќСѓР¶РЅРѕ Р±С‹Р»Рѕ РїСЂРёРєРѕРЅС‡РёС‚СЊ С‚РµР±СЏ РЅР° РҐРѕС‚Рµ."
 
 REFERENCE           27ALO018
 LANG_ENGLISH        "You won't get a second chance.  Tavion has taught me much since then!"
-LANG_RUSSIAN         "Ты не получишь второго шанса.  Тавион многому научила меня с тех пор!"
+LANG_RUSSIAN         "РўС‹ РЅРµ РїРѕР»СѓС‡РёС€СЊ РІС‚РѕСЂРѕРіРѕ С€Р°РЅСЃР°.  РўР°РІРёРѕРЅ РјРЅРѕРіРѕРјСѓ РЅР°СѓС‡РёР»Р° РјРµРЅСЏ СЃ С‚РµС… РїРѕСЂ!"
 
 REFERENCE           27ROP014
 LANG_ENGLISH        "K-Ky...le..."
-LANG_RUSSIAN         "К-Кай...айл..."
+LANG_RUSSIAN         "Рљ-РљР°Р№...Р°Р№Р»..."
 
 REFERENCE           27KYK008
 LANG_ENGLISH        "Rosh!"
-LANG_RUSSIAN         "Рош!"
+LANG_RUSSIAN         "Р РѕС€!"
 
 REFERENCE           27ROP015
 LANG_ENGLISH        "I'm... sor..ry.  Jaden... has turned.   You've... lost both...your... students."
-LANG_RUSSIAN         "Мне... жа..жаль.  Джейден... перешел.   Вы... потеряли обоих...своих... учеников."
+LANG_RUSSIAN         "РњРЅРµ... Р¶Р°..Р¶Р°Р»СЊ.  Р”Р¶РµР№РґРµРЅ... РїРµСЂРµС€РµР».   Р’С‹... РїРѕС‚РµСЂСЏР»Рё РѕР±РѕРёС…...СЃРІРѕРёС…... СѓС‡РµРЅРёРєРѕРІ."
 
 REFERENCE           27KYK009
 LANG_ENGLISH        "No.  You are a Jedi."
-LANG_RUSSIAN         "Нет.  Ты джедай."
+LANG_RUSSIAN         "РќРµС‚.  РўС‹ РґР¶РµРґР°Р№."
 
 REFERENCE           27ROP016
 NOTES               "(dies)"
 LANG_ENGLISH        "Thank... you..."
-LANG_RUSSIAN         "Спасибо... вам..."
+LANG_RUSSIAN         "РЎРїР°СЃРёР±Рѕ... РІР°Рј..."
 
 REFERENCE           MR_27KYK010
 LANG_ENGLISH        "But I've still lost Jaden.  Where did he go?"
-LANG_RUSSIAN         "Но Джейдена я все же потерял.  Куда он пошел?"
+LANG_RUSSIAN         "РќРѕ Р”Р¶РµР№РґРµРЅР° СЏ РІСЃРµ Р¶Рµ РїРѕС‚РµСЂСЏР».  РљСѓРґР° РѕРЅ РїРѕС€РµР»?"
 
 REFERENCE           MS_27KYK010
 LANG_ENGLISH        "But I've still lost Jaden.  Where did she go?"
-LANG_RUSSIAN         "Но Джейден я все же потерял.  Куда она пошла?"
+LANG_RUSSIAN         "РќРѕ Р”Р¶РµР№РґРµРЅ СЏ РІСЃРµ Р¶Рµ РїРѕС‚РµСЂСЏР».  РљСѓРґР° РѕРЅР° РїРѕС€Р»Р°?"
 
 REFERENCE           27KYK012
 NOTES               "(concentrates, reaching out with the Force, realizes what Jaden's intending)"
 LANG_ENGLISH        "Oh no!  I've got to get to Korriban!"
-LANG_RUSSIAN         "О, нет!  Мне нужно добраться до Коррибана!"
+LANG_RUSSIAN         "Рћ, РЅРµС‚!  РњРЅРµ РЅСѓР¶РЅРѕ РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ РљРѕСЂСЂРёР±Р°РЅР°!"
 
 
 ENDMARKER

@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,157 +15,157 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           18KYK001
 LANG_ENGLISH        "Grife, it's good to get out of that rain.  Now we need to get up into the castle.  There's a turbolift over there."
-LANG_RUSSIAN         "Хорошо, что мы вышли из-под дождя.  Теперь нам нужно подняться в замок.  Вон там есть турболифт."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ, С‡С‚Рѕ РјС‹ РІС‹С€Р»Рё РёР·-РїРѕРґ РґРѕР¶РґСЏ.  РўРµРїРµСЂСЊ РЅР°Рј РЅСѓР¶РЅРѕ РїРѕРґРЅСЏС‚СЊСЃСЏ РІ Р·Р°РјРѕРє.  Р’РѕРЅ С‚Р°Рј РµСЃС‚СЊ С‚СѓСЂР±РѕР»РёС„С‚."
 
 REFERENCE           18KYK002
 LANG_ENGLISH        "Hmmm... locked down.  Ever feel like you're not welcome?  Let's see if we can find another way out of here."
-LANG_RUSSIAN         "Хммм... изолирован.  Похоже, нас не ждали.  Посмотрим, не найдется ли в замок другой путь."
+LANG_RUSSIAN         "РҐРјРјРј... РёР·РѕР»РёСЂРѕРІР°РЅ.  РџРѕС…РѕР¶Рµ, РЅР°СЃ РЅРµ Р¶РґР°Р»Рё.  РџРѕСЃРјРѕС‚СЂРёРј, РЅРµ РЅР°Р№РґРµС‚СЃСЏ Р»Рё РІ Р·Р°РјРѕРє РґСЂСѓРіРѕР№ РїСѓС‚СЊ."
 
 REFERENCE           18KYK003
 NOTES               "(shaking his head)"
 LANG_ENGLISH        "They always lock the door... you think they'd have learned by now."
-LANG_RUSSIAN         "Они всегда запирают двери... думаешь, теперь-то они этому научились."
+LANG_RUSSIAN         "РћРЅРё РІСЃРµРіРґР° Р·Р°РїРёСЂР°СЋС‚ РґРІРµСЂРё... РґСѓРјР°РµС€СЊ, С‚РµРїРµСЂСЊ-С‚Рѕ РѕРЅРё СЌС‚РѕРјСѓ РЅР°СѓС‡РёР»РёСЃСЊ."
 
 REFERENCE           18KYK004
 NOTES               "(checking the door)"
 LANG_ENGLISH        "Doesn't look like there's a key.  That would be too easy."
-LANG_RUSSIAN         "Не похоже, что тут есть ключ.  Это было бы слишком просто."
+LANG_RUSSIAN         "РќРµ РїРѕС…РѕР¶Рµ, С‡С‚Рѕ С‚СѓС‚ РµСЃС‚СЊ РєР»СЋС‡.  Р­С‚Рѕ Р±С‹Р»Рѕ Р±С‹ СЃР»РёС€РєРѕРј РїСЂРѕСЃС‚Рѕ."
 
 REFERENCE           18KYK005
 NOTES               "(sighs in frustration)"
 LANG_ENGLISH        "The console to unlock the door's probably hidden in some room twelve floors up or something.  How does that make sense?"
-LANG_RUSSIAN         "Щиток, отпирающий дверь, скорее всего спрятан в комнате на двенадцать этажей выше, или типа того.  Какая нам разница?"
+LANG_RUSSIAN         "Р©РёС‚РѕРє, РѕС‚РїРёСЂР°СЋС‰РёР№ РґРІРµСЂСЊ, СЃРєРѕСЂРµРµ РІСЃРµРіРѕ СЃРїСЂСЏС‚Р°РЅ РІ РєРѕРјРЅР°С‚Рµ РЅР° РґРІРµРЅР°РґС†Р°С‚СЊ СЌС‚Р°Р¶РµР№ РІС‹С€Рµ, РёР»Рё С‚РёРїР° С‚РѕРіРѕ.  РљР°РєР°СЏ РЅР°Рј СЂР°Р·РЅРёС†Р°?"
 
 REFERENCE           18KYK006
 LANG_ENGLISH        "Wonder where this leads..."
-LANG_RUSSIAN         "Интересно, куда она ведет..."
+LANG_RUSSIAN         "РРЅС‚РµСЂРµСЃРЅРѕ, РєСѓРґР° РѕРЅР° РІРµРґРµС‚..."
 
 REFERENCE           18KYK007
 LANG_ENGLISH        "Ugh... of course, it has to be a garbage pit, doesn't it?  Well, let's go, no one ever said being a Jedi was glamorous."
-LANG_RUSSIAN         "Ургх... разумеется, это и должна быть мусорная яма, разве я не прав?  Ну, двинулись, и пусть никто не называет джедаев неженками."
+LANG_RUSSIAN         "РЈСЂРіС…... СЂР°Р·СѓРјРµРµС‚СЃСЏ, СЌС‚Рѕ Рё РґРѕР»Р¶РЅР° Р±С‹С‚СЊ РјСѓСЃРѕСЂРЅР°СЏ СЏРјР°, СЂР°Р·РІРµ СЏ РЅРµ РїСЂР°РІ?  РќСѓ, РґРІРёРЅСѓР»РёСЃСЊ, Рё РїСѓСЃС‚СЊ РЅРёРєС‚Рѕ РЅРµ РЅР°Р·С‹РІР°РµС‚ РґР¶РµРґР°РµРІ РЅРµР¶РµРЅРєР°РјРё."
 
 REFERENCE           18KYK008
 LANG_ENGLISH        "Jaden!  Run to the middle!  You can jump out there!"
-LANG_RUSSIAN         "Джейден!  Беги к центру!  Ты можешь оттуда выпрыгнуть!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ!  Р‘РµРіРё Рє С†РµРЅС‚СЂСѓ!  РўС‹ РјРѕР¶РµС€СЊ РѕС‚С‚СѓРґР° РІС‹РїСЂС‹РіРЅСѓС‚СЊ!"
 
 REFERENCE           18KYK009
 LANG_ENGLISH        "That was too close.  We've gotta get outta here.  Take that chute and I'll take this one.  With luck, we'll meet up on the other side. "
-LANG_RUSSIAN         "Еще бы чуть-чуть.  Нам нужно отсюда убираться.  Бери этот парашют, а я возьму этот.  Если нам улыбнется удача, встретимся на другой стороне. "
+LANG_RUSSIAN         "Р•С‰Рµ Р±С‹ С‡СѓС‚СЊ-С‡СѓС‚СЊ.  РќР°Рј РЅСѓР¶РЅРѕ РѕС‚СЃСЋРґР° СѓР±РёСЂР°С‚СЊСЃСЏ.  Р‘РµСЂРё СЌС‚РѕС‚ РїР°СЂР°С€СЋС‚, Р° СЏ РІРѕР·СЊРјСѓ СЌС‚РѕС‚.  Р•СЃР»Рё РЅР°Рј СѓР»С‹Р±РЅРµС‚СЃСЏ СѓРґР°С‡Р°, РІСЃС‚СЂРµС‚РёРјСЃСЏ РЅР° РґСЂСѓРіРѕР№ СЃС‚РѕСЂРѕРЅРµ. "
 
 REFERENCE           18KYK010
 LANG_ENGLISH        "Well, that worked out well. I thought I'd have to search high and low for you."
-LANG_RUSSIAN         "Хорошо, все просто здорово получилось. Я уж думал, что придется тебя искать среди без вести пропавших."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ, РІСЃРµ РїСЂРѕСЃС‚Рѕ Р·РґРѕСЂРѕРІРѕ РїРѕР»СѓС‡РёР»РѕСЃСЊ. РЇ СѓР¶ РґСѓРјР°Р», С‡С‚Рѕ РїСЂРёРґРµС‚СЃСЏ С‚РµР±СЏ РёСЃРєР°С‚СЊ СЃСЂРµРґРё Р±РµР· РІРµСЃС‚Рё РїСЂРѕРїР°РІС€РёС…."
 
 REFERENCE           18KYK011
 LANG_ENGLISH        "This lift is locked down, too."
-LANG_RUSSIAN         "Этот лифт тоже изолирован."
+LANG_RUSSIAN         "Р­С‚РѕС‚ Р»РёС„С‚ С‚РѕР¶Рµ РёР·РѕР»РёСЂРѕРІР°РЅ."
 
 REFERENCE           18KYK012
 LANG_ENGLISH        "Maybe this switch..."
-LANG_RUSSIAN         "Может, этот переключатель..."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, СЌС‚РѕС‚ РїРµСЂРµРєР»СЋС‡Р°С‚РµР»СЊ..."
 
 REFERENCE           18KYK013
 NOTES               "(annoyed that it didn't work)"
 LANG_ENGLISH        "Oh, come on..."
-LANG_RUSSIAN         "Ох, давай же..."
+LANG_RUSSIAN         "РћС…, РґР°РІР°Р№ Р¶Рµ..."
 
 REFERENCE           18KYK014
 NOTES               "(reacting to a console that starts beeping)"
 LANG_ENGLISH        "Uh-oh."
-LANG_RUSSIAN         "Ох-ох."
+LANG_RUSSIAN         "РћС…-РѕС…."
 
 REFERENCE           18KYK015
 LANG_ENGLISH        "Jaden, watch out!!!"
-LANG_RUSSIAN         "Джейден, берегись!!!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, Р±РµСЂРµРіРёСЃСЊ!!!"
 
 REFERENCE           18KYK016
 NOTES               "(straining)"
 LANG_ENGLISH        "Uhh... Jaden... Find a way to drain the water!  If this power conduit... hits the floor... we're both gonna be fried!"
-LANG_RUSSIAN         "Ухх... Джейден... Найди способ откачать воду!  Если этот напорный трубопровод... долбанет в пол... мы с тобой здорово поджаримся!"
+LANG_RUSSIAN         "РЈС…С…... Р”Р¶РµР№РґРµРЅ... РќР°Р№РґРё СЃРїРѕСЃРѕР± РѕС‚РєР°С‡Р°С‚СЊ РІРѕРґСѓ!  Р•СЃР»Рё СЌС‚РѕС‚ РЅР°РїРѕСЂРЅС‹Р№ С‚СЂСѓР±РѕРїСЂРѕРІРѕРґ... РґРѕР»Р±Р°РЅРµС‚ РІ РїРѕР»... РјС‹ СЃ С‚РѕР±РѕР№ Р·РґРѕСЂРѕРІРѕ РїРѕРґР¶Р°СЂРёРјСЃСЏ!"
 
 REFERENCE           18KYK017
 LANG_ENGLISH        "Well look at that.  Guess we made our own path."
-LANG_RUSSIAN         "Ты только посмотри на это.  Похоже, мы прошли."
+LANG_RUSSIAN         "РўС‹ С‚РѕР»СЊРєРѕ РїРѕСЃРјРѕС‚СЂРё РЅР° СЌС‚Рѕ.  РџРѕС…РѕР¶Рµ, РјС‹ РїСЂРѕС€Р»Рё."
 
 REFERENCE           18JAK001
 LANG_ENGLISH        "Kyle!"
-LANG_RUSSIAN         "Кайл!"
+LANG_RUSSIAN         "РљР°Р№Р»!"
 
 REFERENCE           18KYK018
 NOTES               "(yelling over the wind)"
 LANG_ENGLISH        "Relax, kid, I've seen tubes like this before; we can ride them to the top!"
-LANG_RUSSIAN         "Расслабься, парень, я уже видел такие трубы, на них мы сможем прокатиться до самого верха!"
+LANG_RUSSIAN         "Р Р°СЃСЃР»Р°Р±СЊСЃСЏ, РїР°СЂРµРЅСЊ, СЏ СѓР¶Рµ РІРёРґРµР» С‚Р°РєРёРµ С‚СЂСѓР±С‹, РЅР° РЅРёС… РјС‹ СЃРјРѕР¶РµРј РїСЂРѕРєР°С‚РёС‚СЊСЃСЏ РґРѕ СЃР°РјРѕРіРѕ РІРµСЂС…Р°!"
 
 REFERENCE           18KYK019
 NOTES               "(yelling over the wind)"
 LANG_ENGLISH        "If we hit that laser grid, we're done for!  Head for that grate!"
-LANG_RUSSIAN         "Если мы попадем в этот лазерный модулятор, то дело в шляпе!  Направляйся к решетке!"
+LANG_RUSSIAN         "Р•СЃР»Рё РјС‹ РїРѕРїР°РґРµРј РІ СЌС‚РѕС‚ Р»Р°Р·РµСЂРЅС‹Р№ РјРѕРґСѓР»СЏС‚РѕСЂ, С‚Рѕ РґРµР»Рѕ РІ С€Р»СЏРїРµ!  РќР°РїСЂР°РІР»СЏР№СЃСЏ Рє СЂРµС€РµС‚РєРµ!"
 
 REFERENCE           18KYK020
 NOTES               "(sarcastically)"
 LANG_ENGLISH        "Well, that was fun."
-LANG_RUSSIAN         "Это было весело."
+LANG_RUSSIAN         "Р­С‚Рѕ Р±С‹Р»Рѕ РІРµСЃРµР»Рѕ."
 
 REFERENCE           18KYK021
 LANG_ENGLISH        "Not again.  Why even put doors in this place if they're always gonna be locked?!"
-LANG_RUSSIAN         "Но чтобы еще раз - никогда.  Да зачем здесь вообще ставить двери, если они вечно заперты?!"
+LANG_RUSSIAN         "РќРѕ С‡С‚РѕР±С‹ РµС‰Рµ СЂР°Р· - РЅРёРєРѕРіРґР°.  Р”Р° Р·Р°С‡РµРј Р·РґРµСЃСЊ РІРѕРѕР±С‰Рµ СЃС‚Р°РІРёС‚СЊ РґРІРµСЂРё, РµСЃР»Рё РѕРЅРё РІРµС‡РЅРѕ Р·Р°РїРµСЂС‚С‹?!"
 
 REFERENCE           18KYK022
 NOTES               "(seeing the dangerous tunnel)"
 LANG_ENGLISH        "You gotta be kidding me."
-LANG_RUSSIAN         "Ты меня разыгрываешь."
+LANG_RUSSIAN         "РўС‹ РјРµРЅСЏ СЂР°Р·С‹РіСЂС‹РІР°РµС€СЊ."
 
 REFERENCE           18KYK023
 NOTES               "(sarcastically)"
 LANG_ENGLISH        "Remind me to have a talk with the architect when we're done here."
-LANG_RUSSIAN         "Напомни мне поговорить с архитектором, когда мы здесь управимся."
+LANG_RUSSIAN         "РќР°РїРѕРјРЅРё РјРЅРµ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ Р°СЂС…РёС‚РµРєС‚РѕСЂРѕРј, РєРѕРіРґР° РјС‹ Р·РґРµСЃСЊ СѓРїСЂР°РІРёРјСЃСЏ."
 
 REFERENCE           18KYK032
 NOTES               "(yelling down from above)"
 LANG_ENGLISH        "C'mon, Jaden."
-LANG_RUSSIAN         "Вперед, Джейден."
+LANG_RUSSIAN         "Р’РїРµСЂРµРґ, Р”Р¶РµР№РґРµРЅ."
 
 REFERENCE           18KYK024
 LANG_ENGLISH        "Finally!  A lift that works."
-LANG_RUSSIAN         "Наконец-то!  Работающий лифт."
+LANG_RUSSIAN         "РќР°РєРѕРЅРµС†-С‚Рѕ!  Р Р°Р±РѕС‚Р°СЋС‰РёР№ Р»РёС„С‚."
 
 REFERENCE           18KYK025
 LANG_ENGLISH        "The castle's still a few more levels up, but they've shut down the lifts above us.  Looks like we gotta find another way up."
-LANG_RUSSIAN         "Замок несколькими этажами выше, но они отключили лифты над нами.  Похоже, придется искать другой путь наверх."
+LANG_RUSSIAN         "Р—Р°РјРѕРє РЅРµСЃРєРѕР»СЊРєРёРјРё СЌС‚Р°Р¶Р°РјРё РІС‹С€Рµ, РЅРѕ РѕРЅРё РѕС‚РєР»СЋС‡РёР»Рё Р»РёС„С‚С‹ РЅР°Рґ РЅР°РјРё.  РџРѕС…РѕР¶Рµ, РїСЂРёРґРµС‚СЃСЏ РёСЃРєР°С‚СЊ РґСЂСѓРіРѕР№ РїСѓС‚СЊ РЅР°РІРµСЂС…."
 
 REFERENCE           18KYK026
 LANG_ENGLISH        "Maybe we can move those mirrors to feed the energy back into the machine and overload it."
-LANG_RUSSIAN         "Может быть, нам удастся сдвинуть эти зеркала, чтобы наполнить машину энергией и перегрузить ее."
+LANG_RUSSIAN         "РњРѕР¶РµС‚ Р±С‹С‚СЊ, РЅР°Рј СѓРґР°СЃС‚СЃСЏ СЃРґРІРёРЅСѓС‚СЊ СЌС‚Рё Р·РµСЂРєР°Р»Р°, С‡С‚РѕР±С‹ РЅР°РїРѕР»РЅРёС‚СЊ РјР°С€РёРЅСѓ СЌРЅРµСЂРіРёРµР№ Рё РїРµСЂРµРіСЂСѓР·РёС‚СЊ РµРµ."
 
 REFERENCE           18KYK027
 LANG_ENGLISH        "Good idea!  We can feed the energy back into the machine and overload it!"
-LANG_RUSSIAN         "Отличная мысль!  Мы можем наполнить машину энергией и перегрузить ее!"
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅР°СЏ РјС‹СЃР»СЊ!  РњС‹ РјРѕР¶РµРј РЅР°РїРѕР»РЅРёС‚СЊ РјР°С€РёРЅСѓ СЌРЅРµСЂРіРёРµР№ Рё РїРµСЂРµРіСЂСѓР·РёС‚СЊ РµРµ!"
 
 REFERENCE           18KYK028
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden, are you okay?"
-LANG_RUSSIAN         "Джейден, ты в порядке?"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, С‚С‹ РІ РїРѕСЂСЏРґРєРµ?"
 
 REFERENCE           18JAK003
 LANG_ENGLISH        "Yeah, I'm fine, where are you?"
-LANG_RUSSIAN         "Да, я в норме, а где ты?"
+LANG_RUSSIAN         "Р”Р°, СЏ РІ РЅРѕСЂРјРµ, Р° РіРґРµ С‚С‹?"
 
 REFERENCE           18KYK029
 LANG_ENGLISH        "I'm not really sure.  I'll have to catch up with you. Go on ahead without me."
-LANG_RUSSIAN         "Я не вполне уверен.  Мне придется тебя догнать. Иди дальше без меня."
+LANG_RUSSIAN         "РЇ РЅРµ РІРїРѕР»РЅРµ СѓРІРµСЂРµРЅ.  РњРЅРµ РїСЂРёРґРµС‚СЃСЏ С‚РµР±СЏ РґРѕРіРЅР°С‚СЊ. РРґРё РґР°Р»СЊС€Рµ Р±РµР· РјРµРЅСЏ."
 
 REFERENCE           18KYK030
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden?  it looks like I'm a little boxed in here."
-LANG_RUSSIAN         "Джейден?  Похоже, меня тут заперли."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ?  РџРѕС…РѕР¶Рµ, РјРµРЅСЏ С‚СѓС‚ Р·Р°РїРµСЂР»Рё."
 
 REFERENCE           18JAK004
 LANG_ENGLISH        "Are you okay?"
-LANG_RUSSIAN         "Ты в порядке?"
+LANG_RUSSIAN         "РўС‹ РІ РїРѕСЂСЏРґРєРµ?"
 
 REFERENCE           18KYK031
 LANG_ENGLISH        "I'm fine, but I'll have to find another way to reach you.  Go on up without me."
-LANG_RUSSIAN         "Я в норме, но мне придется искать другую дорогу, чтобы объединиться с тобой.  Иди дальше без меня."
+LANG_RUSSIAN         "РЇ РІ РЅРѕСЂРјРµ, РЅРѕ РјРЅРµ РїСЂРёРґРµС‚СЃСЏ РёСЃРєР°С‚СЊ РґСЂСѓРіСѓСЋ РґРѕСЂРѕРіСѓ, С‡С‚РѕР±С‹ РѕР±СЉРµРґРёРЅРёС‚СЊСЃСЏ СЃ С‚РѕР±РѕР№.  РРґРё РґР°Р»СЊС€Рµ Р±РµР· РјРµРЅСЏ."
 
 
 ENDMARKER

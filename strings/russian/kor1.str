@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,99 +15,99 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           28JE1001
 LANG_ENGLISH        "Jaden, you made it!  Did you find Rosh?"
-LANG_RUSSIAN         "Джейден, у тебя получилось!  Ты нашел Роша?"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, Сѓ С‚РµР±СЏ РїРѕР»СѓС‡РёР»РѕСЃСЊ!  РўС‹ РЅР°С€РµР» Р РѕС€Р°?"
 
 REFERENCE           28JAK001
 LANG_ENGLISH        "He's hurt, but safe.  Kyle's taking care of him.  Any sign of Tavion?"
-LANG_RUSSIAN         "Он ранен, но это не опасно.  Кайл позаботится о нем.  Есть какие-то признаки Тавион?"
+LANG_RUSSIAN         "РћРЅ СЂР°РЅРµРЅ, РЅРѕ СЌС‚Рѕ РЅРµ РѕРїР°СЃРЅРѕ.  РљР°Р№Р» РїРѕР·Р°Р±РѕС‚РёС‚СЃСЏ Рѕ РЅРµРј.  Р•СЃС‚СЊ РєР°РєРёРµ-С‚Рѕ РїСЂРёР·РЅР°РєРё РўР°РІРёРѕРЅ?"
 
 REFERENCE           28JE1002
 LANG_ENGLISH        "Not yet.  We're trying to locate Ragnos' tomb.  Master Skywalker's group landed in another part of the valley to search for it."
-LANG_RUSSIAN         "Еще нет.  Мы пытаемся найти гробницу Рагноса.  Группа мастера Скайуокера приземлилась в другой части долины, чтобы найти ее."
+LANG_RUSSIAN         "Р•С‰Рµ РЅРµС‚.  РњС‹ РїС‹С‚Р°РµРјСЃСЏ РЅР°Р№С‚Рё РіСЂРѕР±РЅРёС†Сѓ Р Р°РіРЅРѕСЃР°.  Р“СЂСѓРїРїР° РјР°СЃС‚РµСЂР° РЎРєР°Р№СѓРѕРєРµСЂР° РїСЂРёР·РµРјР»РёР»Р°СЃСЊ РІ РґСЂСѓРіРѕР№ С‡Р°СЃС‚Рё РґРѕР»РёРЅС‹, С‡С‚РѕР±С‹ РЅР°Р№С‚Рё РµРµ."
 
 REFERENCE           28JAK002
 LANG_ENGLISH        "I'd better get going."
-LANG_RUSSIAN         "Мне лучше идти."
+LANG_RUSSIAN         "РњРЅРµ Р»СѓС‡С€Рµ РёРґС‚Рё."
 
 REFERENCE           28JE1003
 LANG_ENGLISH        "Be careful, this place is crawling with dark Force users."
-LANG_RUSSIAN         "Осторожно, это место кишит последователями темной стороны Силы."
+LANG_RUSSIAN         "РћСЃС‚РѕСЂРѕР¶РЅРѕ, СЌС‚Рѕ РјРµСЃС‚Рѕ РєРёС€РёС‚ РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЏРјРё С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅС‹ РЎРёР»С‹."
 
 REFERENCE           28JE1004
 LANG_ENGLISH        "Jaden?  What happened to-"
-LANG_RUSSIAN         "Джейден?  Что случилось с-"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ?  Р§С‚Рѕ СЃР»СѓС‡РёР»РѕСЃСЊ СЃ-"
 
 REFERENCE           28JAK003
 LANG_ENGLISH        "Out of my way.  The scepter will be mine."
-LANG_RUSSIAN         "Прочь с дороги.  Скипетр будет моим."
+LANG_RUSSIAN         "РџСЂРѕС‡СЊ СЃ РґРѕСЂРѕРіРё.  РЎРєРёРїРµС‚СЂ Р±СѓРґРµС‚ РјРѕРёРј."
 
 REFERENCE           28JE1005
 LANG_ENGLISH        "Oh no... I sense the dark side in you, Jaden... I can't let you pass. "
-LANG_RUSSIAN         "О, нет... Я ощущаю в тебе темную сторону, Джейден... Я не могу позволить тебе пройти. "
+LANG_RUSSIAN         "Рћ, РЅРµС‚... РЇ РѕС‰СѓС‰Р°СЋ РІ С‚РµР±Рµ С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ, Р”Р¶РµР№РґРµРЅ... РЇ РЅРµ РјРѕРіСѓ РїРѕР·РІРѕР»РёС‚СЊ С‚РµР±Рµ РїСЂРѕР№С‚Рё. "
 
 REFERENCE           28JAK004
 LANG_ENGLISH        "I will pass, whether you want me to or not."
-LANG_RUSSIAN         "Я пройду независимо от твоих желаний."
+LANG_RUSSIAN         "РЇ РїСЂРѕР№РґСѓ РЅРµР·Р°РІРёСЃРёРјРѕ РѕС‚ С‚РІРѕРёС… Р¶РµР»Р°РЅРёР№."
 
 REFERENCE           28JAK005
 NOTES               "(to himself)"
 LANG_ENGLISH        "How do I get out of this room?"
-LANG_RUSSIAN         "Как мне выйти из этой комнаты?"
+LANG_RUSSIAN         "РљР°Рє РјРЅРµ РІС‹Р№С‚Рё РёР· СЌС‚РѕР№ РєРѕРјРЅР°С‚С‹?"
 
 REFERENCE           28JAK006
 NOTES               "(to himself)"
 LANG_ENGLISH        "This place is crawling with Sith wannabes!"
-LANG_RUSSIAN         "Это место кишмя кишит поклонниками Сита!"
+LANG_RUSSIAN         "Р­С‚Рѕ РјРµСЃС‚Рѕ РєРёС€РјСЏ РєРёС€РёС‚ РїРѕРєР»РѕРЅРЅРёРєР°РјРё РЎРёС‚Р°!"
 
 REFERENCE           28JAK007
 NOTES               "(to himself)"
 LANG_ENGLISH        "How do I get up there?"
-LANG_RUSSIAN         "Как мне туда подняться?"
+LANG_RUSSIAN         "РљР°Рє РјРЅРµ С‚СѓРґР° РїРѕРґРЅСЏС‚СЊСЃСЏ?"
 
 REFERENCE           28JAK008
 NOTES               "(to himself)"
 LANG_ENGLISH        "If I'm not careful, I'll end up buried here, too!"
-LANG_RUSSIAN         "Если я не буду осторожным, то тоже буду тут похоронен !"
+LANG_RUSSIAN         "Р•СЃР»Рё СЏ РЅРµ Р±СѓРґСѓ РѕСЃС‚РѕСЂРѕР¶РЅС‹Рј, С‚Рѕ С‚РѕР¶Рµ Р±СѓРґСѓ С‚СѓС‚ РїРѕС…РѕСЂРѕРЅРµРЅ !"
 
 REFERENCE           MR_28JE2006
 LANG_ENGLISH        "Stop him!"
-LANG_RUSSIAN         "Остановите его!"
+LANG_RUSSIAN         "РћСЃС‚Р°РЅРѕРІРёС‚Рµ РµРіРѕ!"
 
 REFERENCE           MS_28JE2007
 LANG_ENGLISH        "Stop her!"
-LANG_RUSSIAN         "Остановите ее!"
+LANG_RUSSIAN         "РћСЃС‚Р°РЅРѕРІРёС‚Рµ РµРµ!"
 
 REFERENCE           28JE2008
 LANG_ENGLISH        "Jaden, let go of your anger!"
-LANG_RUSSIAN         "Джейден, выпусти свой гнев!"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, РІС‹РїСѓСЃС‚Рё СЃРІРѕР№ РіРЅРµРІ!"
 
 REFERENCE           28JE2009
 LANG_ENGLISH        "Why, Jaden?!"
-LANG_RUSSIAN         "Зачем, Джейден?!"
+LANG_RUSSIAN         "Р—Р°С‡РµРј, Р”Р¶РµР№РґРµРЅ?!"
 
 REFERENCE           28JE2010
 LANG_ENGLISH        "Where's Kyle?"
-LANG_RUSSIAN         "Где же Кайл?"
+LANG_RUSSIAN         "Р“РґРµ Р¶Рµ РљР°Р№Р»?"
 
 REFERENCE           28JE2011
 LANG_ENGLISH        "Where's Rosh?"
-LANG_RUSSIAN         "Где же Рош?"
+LANG_RUSSIAN         "Р“РґРµ Р¶Рµ Р РѕС€?"
 
 REFERENCE           28JE2012
 LANG_ENGLISH        "Jaden, I must stop you."
-LANG_RUSSIAN         "Джейден, я должен тебя остановить."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЏ РґРѕР»Р¶РµРЅ С‚РµР±СЏ РѕСЃС‚Р°РЅРѕРІРёС‚СЊ."
 
 REFERENCE           28CU1001
 LANG_ENGLISH        "Don't let the Jedi get to the valley!"
-LANG_RUSSIAN         "Не дайте джедаю войти в долину!"
+LANG_RUSSIAN         "РќРµ РґР°Р№С‚Рµ РґР¶РµРґР°СЋ РІРѕР№С‚Рё РІ РґРѕР»РёРЅСѓ!"
 
 REFERENCE           28CU1002
 LANG_ENGLISH        "Stop that Jedi!"
-LANG_RUSSIAN         "Остановите этого джедая!"
+LANG_RUSSIAN         "РћСЃС‚Р°РЅРѕРІРёС‚Рµ СЌС‚РѕРіРѕ РґР¶РµРґР°СЏ!"
 
 REFERENCE           28CU1003
 LANG_ENGLISH        "Stop the Jedi!"
-LANG_RUSSIAN         "Остановите джедая!"
+LANG_RUSSIAN         "РћСЃС‚Р°РЅРѕРІРёС‚Рµ РґР¶РµРґР°СЏ!"
 
 
 ENDMARKER

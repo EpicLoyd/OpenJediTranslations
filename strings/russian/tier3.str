@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,27 +15,27 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           13
 LANG_ENGLISH        "Now that you're a Jedi Knight, Luke and I have decided to give you some more challenging missions.  You still need to be careful though, trouble can crop up anywhere."
-LANG_RUSSIAN         "Теперь, когда ты стал рыцарем джедай, Люк и я решили поручать тебе более сложные миссии.  Хотя тебе следует быть осторожным, неприятности имеют свойство появляться на ровном месте."
+LANG_RUSSIAN         "РўРµРїРµСЂСЊ, РєРѕРіРґР° С‚С‹ СЃС‚Р°Р» СЂС‹С†Р°СЂРµРј РґР¶РµРґР°Р№, Р›СЋРє Рё СЏ СЂРµС€РёР»Рё РїРѕСЂСѓС‡Р°С‚СЊ С‚РµР±Рµ Р±РѕР»РµРµ СЃР»РѕР¶РЅС‹Рµ РјРёСЃСЃРёРё.  РҐРѕС‚СЏ С‚РµР±Рµ СЃР»РµРґСѓРµС‚ Р±С‹С‚СЊ РѕСЃС‚РѕСЂРѕР¶РЅС‹Рј, РЅРµРїСЂРёСЏС‚РЅРѕСЃС‚Рё РёРјРµСЋС‚ СЃРІРѕР№СЃС‚РІРѕ РїРѕСЏРІР»СЏС‚СЊСЃСЏ РЅР° СЂРѕРІРЅРѕРј РјРµСЃС‚Рµ."
 
 REFERENCE           14
 LANG_ENGLISH        "I've been tracing Tavion's movements over the past few months.  It looks like she acquired the scepter from a collector on Commenor.  Then she killed him."
-LANG_RUSSIAN         "Последние несколько месяцев я слежу за передвижением Тавион.  Похоже, что скипетр она получила у коллекционера с Комменора.  Потом она убила его."
+LANG_RUSSIAN         "РџРѕСЃР»РµРґРЅРёРµ РЅРµСЃРєРѕР»СЊРєРѕ РјРµСЃСЏС†РµРІ СЏ СЃР»РµР¶Сѓ Р·Р° РїРµСЂРµРґРІРёР¶РµРЅРёРµРј РўР°РІРёРѕРЅ.  РџРѕС…РѕР¶Рµ, С‡С‚Рѕ СЃРєРёРїРµС‚СЂ РѕРЅР° РїРѕР»СѓС‡РёР»Р° Сѓ РєРѕР»Р»РµРєС†РёРѕРЅРµСЂР° СЃ РљРѕРјРјРµРЅРѕСЂР°.  РџРѕС‚РѕРј РѕРЅР° СѓР±РёР»Р° РµРіРѕ."
 
 REFERENCE           15
 LANG_ENGLISH        "Luke and I have been trying to find out what Tavion could be hoping to do with Ragnos' scepter, but so far no luck.   Keep your ears open for any rumors."
-LANG_RUSSIAN         "Люк и я пытались узнать, что же Тавион надеялась совершить с помощью скипетра Рагноса, он мы далеки от ответа.   Не упускайте ни одного слуха."
+LANG_RUSSIAN         "Р›СЋРє Рё СЏ РїС‹С‚Р°Р»РёСЃСЊ СѓР·РЅР°С‚СЊ, С‡С‚Рѕ Р¶Рµ РўР°РІРёРѕРЅ РЅР°РґРµСЏР»Р°СЃСЊ СЃРѕРІРµСЂС€РёС‚СЊ СЃ РїРѕРјРѕС‰СЊСЋ СЃРєРёРїРµС‚СЂР° Р Р°РіРЅРѕСЃР°, РѕРЅ РјС‹ РґР°Р»РµРєРё РѕС‚ РѕС‚РІРµС‚Р°.   РќРµ СѓРїСѓСЃРєР°Р№С‚Рµ РЅРё РѕРґРЅРѕРіРѕ СЃР»СѓС…Р°."
 
 REFERENCE           16
 LANG_ENGLISH        "We haven't received any new reports about cult activity in the last few days, but I don't think they've decided to go into hiding. They must be close to completing their plan."
-LANG_RUSSIAN         "За последние несколько дней мы не получали сообщений о деятельности культа, но я не думаю, что они решили заползти в подполье. Похоже, они близки к завершению своего плана."
+LANG_RUSSIAN         "Р—Р° РїРѕСЃР»РµРґРЅРёРµ РЅРµСЃРєРѕР»СЊРєРѕ РґРЅРµР№ РјС‹ РЅРµ РїРѕР»СѓС‡Р°Р»Рё СЃРѕРѕР±С‰РµРЅРёР№ Рѕ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚Рё РєСѓР»СЊС‚Р°, РЅРѕ СЏ РЅРµ РґСѓРјР°СЋ, С‡С‚Рѕ РѕРЅРё СЂРµС€РёР»Рё Р·Р°РїРѕР»Р·С‚Рё РІ РїРѕРґРїРѕР»СЊРµ. РџРѕС…РѕР¶Рµ, РѕРЅРё Р±Р»РёР·РєРё Рє Р·Р°РІРµСЂС€РµРЅРёСЋ СЃРІРѕРµРіРѕ РїР»Р°РЅР°."
 
 REFERENCE           17
 LANG_ENGLISH        "We've been getting reports of Imperial ships moving through Republic space.  They may be mobilizing to assist the Disciples of Ragnos.  You probably have time for one more mission, but keep yourself available.  Something big is going to happen...soon."
-LANG_RUSSIAN         "К нам поступают доклады об имперских кораблях в космическом пространстве республики.  Он составил план, способный остановить последователей Рагноса.  Скорее всего у тебя есть время на одно задание, но будь в пределах досягаемости.  Скоро произойдет нечто грандиозное...очень скоро."
+LANG_RUSSIAN         "Рљ РЅР°Рј РїРѕСЃС‚СѓРїР°СЋС‚ РґРѕРєР»Р°РґС‹ РѕР± РёРјРїРµСЂСЃРєРёС… РєРѕСЂР°Р±Р»СЏС… РІ РєРѕСЃРјРёС‡РµСЃРєРѕРј РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРµ СЂРµСЃРїСѓР±Р»РёРєРё.  РћРЅ СЃРѕСЃС‚Р°РІРёР» РїР»Р°РЅ, СЃРїРѕСЃРѕР±РЅС‹Р№ РѕСЃС‚Р°РЅРѕРІРёС‚СЊ РїРѕСЃР»РµРґРѕРІР°С‚РµР»РµР№ Р Р°РіРЅРѕСЃР°.  РЎРєРѕСЂРµРµ РІСЃРµРіРѕ Сѓ С‚РµР±СЏ РµСЃС‚СЊ РІСЂРµРјСЏ РЅР° РѕРґРЅРѕ Р·Р°РґР°РЅРёРµ, РЅРѕ Р±СѓРґСЊ РІ РїСЂРµРґРµР»Р°С… РґРѕСЃСЏРіР°РµРјРѕСЃС‚Рё.  РЎРєРѕСЂРѕ РїСЂРѕРёР·РѕР№РґРµС‚ РЅРµС‡С‚Рѕ РіСЂР°РЅРґРёРѕР·РЅРѕРµ...РѕС‡РµРЅСЊ СЃРєРѕСЂРѕ."
 
 REFERENCE           18
 LANG_ENGLISH        "We need you back at the Academy right away!"
-LANG_RUSSIAN         "Нам срочно нужно вернуться в академию!"
+LANG_RUSSIAN         "РќР°Рј СЃСЂРѕС‡РЅРѕ РЅСѓР¶РЅРѕ РІРµСЂРЅСѓС‚СЊСЃСЏ РІ Р°РєР°РґРµРјРёСЋ!"
 
 
 ENDMARKER

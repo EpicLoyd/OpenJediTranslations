@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -15,89 +15,89 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 
 REFERENCE           T1_SURPRISE
 LANG_ENGLISH        "Good work Jaden.  Kyle tells me you recovered the droid on your own. It's too bad about the jawas... Artoo will scour the droid's memory banks and see what information it turns up."
-LANG_RUSSIAN         "Хорошая работа, Джейден.  Кайл рассказал, что ты самостоятельно получил дроида. Жаль, конечно, джавов... Р2 прочистит банки памяти дроида, посмотрим, какая информация там окажется."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Р°СЏ СЂР°Р±РѕС‚Р°, Р”Р¶РµР№РґРµРЅ.  РљР°Р№Р» СЂР°СЃСЃРєР°Р·Р°Р», С‡С‚Рѕ С‚С‹ СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕ РїРѕР»СѓС‡РёР» РґСЂРѕРёРґР°. Р–Р°Р»СЊ, РєРѕРЅРµС‡РЅРѕ, РґР¶Р°РІРѕРІ... Р 2 РїСЂРѕС‡РёСЃС‚РёС‚ Р±Р°РЅРєРё РїР°РјСЏС‚Рё РґСЂРѕРёРґР°, РїРѕСЃРјРѕС‚СЂРёРј, РєР°РєР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ С‚Р°Рј РѕРєР°Р¶РµС‚СЃСЏ."
 
 REFERENCE           T1_FATAL
 LANG_ENGLISH        "Sorry I never made it to Bakura. You seemed to handle yourself okay though."
-LANG_RUSSIAN         "Жаль, что удача не улыбнулась мне на Бакуре. Хотя ты держался молодцом."
+LANG_RUSSIAN         "Р–Р°Р»СЊ, С‡С‚Рѕ СѓРґР°С‡Р° РЅРµ СѓР»С‹Р±РЅСѓР»Р°СЃСЊ РјРЅРµ РЅР° Р‘Р°РєСѓСЂРµ. РҐРѕС‚СЏ С‚С‹ РґРµСЂР¶Р°Р»СЃСЏ РјРѕР»РѕРґС†РѕРј."
 
 REFERENCE           T1_SOUR
 LANG_ENGLISH        "Kyle told me about what happened in Mos Eisley.  It's a good thing Chewie was there, but you did well regardless. It looks like this cult and the Imperials may be working together more closely than we thought..."
-LANG_RUSSIAN         "Кайл рассказал мне о том, что произошло в Мос Эйсли.  Хороша, что там был Чуви, но все равно ты молодец. Похоже, что культ и имперцы сотрудничают намного теснее, чем мы предполагали..."
+LANG_RUSSIAN         "РљР°Р№Р» СЂР°СЃСЃРєР°Р·Р°Р» РјРЅРµ Рѕ С‚РѕРј, С‡С‚Рѕ РїСЂРѕРёР·РѕС€Р»Рѕ РІ РњРѕСЃ Р­Р№СЃР»Рё.  РҐРѕСЂРѕС€Р°, С‡С‚Рѕ С‚Р°Рј Р±С‹Р» Р§СѓРІРё, РЅРѕ РІСЃРµ СЂР°РІРЅРѕ С‚С‹ РјРѕР»РѕРґРµС†. РџРѕС…РѕР¶Рµ, С‡С‚Рѕ РєСѓР»СЊС‚ Рё РёРјРїРµСЂС†С‹ СЃРѕС‚СЂСѓРґРЅРёС‡Р°СЋС‚ РЅР°РјРЅРѕРіРѕ С‚РµСЃРЅРµРµ, С‡РµРј РјС‹ РїСЂРµРґРїРѕР»Р°РіР°Р»Рё..."
 
 REFERENCE           T1_DANGER
 LANG_ENGLISH        "That's too bad about the merchants.  Sounds like those sand burrowers must have gotten them all.  Nasty critters.  Glad you got back safe and sound.  We'll let Coruscant know to mark the planet as hazardous."
-LANG_RUSSIAN         "Жаль торговцев.  Похоже, что эти песчаные кроты всех их взяли.  Мерзкие твари.  Рад, что ты вернулся целым.  Мы передадим на Корусант, что планета опасна."
+LANG_RUSSIAN         "Р–Р°Р»СЊ С‚РѕСЂРіРѕРІС†РµРІ.  РџРѕС…РѕР¶Рµ, С‡С‚Рѕ СЌС‚Рё РїРµСЃС‡Р°РЅС‹Рµ РєСЂРѕС‚С‹ РІСЃРµС… РёС… РІР·СЏР»Рё.  РњРµСЂР·РєРёРµ С‚РІР°СЂРё.  Р Р°Рґ, С‡С‚Рѕ С‚С‹ РІРµСЂРЅСѓР»СЃСЏ С†РµР»С‹Рј.  РњС‹ РїРµСЂРµРґР°РґРёРј РЅР° РљРѕСЂСѓСЃР°РЅС‚, С‡С‚Рѕ РїР»Р°РЅРµС‚Р° РѕРїР°СЃРЅР°."
 
 REFERENCE           T1_RAIL_01
 NOTES               "(VIA HOLO)"
 LANG_ENGLISH        "Excellent work on the tram.  It's lucky you two showed up when you did.  If that tram exploded in the city, it could've killed thousands of people."
-LANG_RUSSIAN         "Ты отлично справился с вагонеткой.  Какая удача, что в нужный час вы оба показали, на что способны.  Если бы вагонетка взорвалась в городе, погибли бы тысячи людей."
+LANG_RUSSIAN         "РўС‹ РѕС‚Р»РёС‡РЅРѕ СЃРїСЂР°РІРёР»СЃСЏ СЃ РІР°РіРѕРЅРµС‚РєРѕР№.  РљР°РєР°СЏ СѓРґР°С‡Р°, С‡С‚Рѕ РІ РЅСѓР¶РЅС‹Р№ С‡Р°СЃ РІС‹ РѕР±Р° РїРѕРєР°Р·Р°Р»Рё, РЅР° С‡С‚Рѕ СЃРїРѕСЃРѕР±РЅС‹.  Р•СЃР»Рё Р±С‹ РІР°РіРѕРЅРµС‚РєР° РІР·РѕСЂРІР°Р»Р°СЃСЊ РІ РіРѕСЂРѕРґРµ, РїРѕРіРёР±Р»Рё Р±С‹ С‚С‹СЃСЏС‡Рё Р»СЋРґРµР№."
 
 REFERENCE           T1_RAIL_02
 NOTES               "(VIA HOLO)"
 LANG_ENGLISH        "Looks like the locals mistook this group for the cult.  However,  one of the spaceport workers said he overheard someone talking about some kind of a payment from the Disciples of Ragnos."
-LANG_RUSSIAN         "Похоже, местные ошиблись насчет этой группы последователей культа.  Тем не менее, один из работников космопорта сказал, что он подслушал разговор, в котором кто-то говорил о плате от последователей Рагноса."
+LANG_RUSSIAN         "РџРѕС…РѕР¶Рµ, РјРµСЃС‚РЅС‹Рµ РѕС€РёР±Р»РёСЃСЊ РЅР°СЃС‡РµС‚ СЌС‚РѕР№ РіСЂСѓРїРїС‹ РїРѕСЃР»РµРґРѕРІР°С‚РµР»РµР№ РєСѓР»СЊС‚Р°.  РўРµРј РЅРµ РјРµРЅРµРµ, РѕРґРёРЅ РёР· СЂР°Р±РѕС‚РЅРёРєРѕРІ РєРѕСЃРјРѕРїРѕСЂС‚Р° СЃРєР°Р·Р°Р», С‡С‚Рѕ РѕРЅ РїРѕРґСЃР»СѓС€Р°Р» СЂР°Р·РіРѕРІРѕСЂ, РІ РєРѕС‚РѕСЂРѕРј РєС‚Рѕ-С‚Рѕ РіРѕРІРѕСЂРёР» Рѕ РїР»Р°С‚Рµ РѕС‚ РїРѕСЃР»РµРґРѕРІР°С‚РµР»РµР№ Р Р°РіРЅРѕСЃР°."
 
 REFERENCE           T1_RAIL_03
 NOTES               "(VIA HOLO)"
 LANG_ENGLISH        "So the cult is behind the attack.  What could they possibly gain from terrorizing Coronet?"
-LANG_RUSSIAN         "Но за нападением стоит культ.  Но какой им прок в устрашении Коронета?"
+LANG_RUSSIAN         "РќРѕ Р·Р° РЅР°РїР°РґРµРЅРёРµРј СЃС‚РѕРёС‚ РєСѓР»СЊС‚.  РќРѕ РєР°РєРѕР№ РёРј РїСЂРѕРє РІ СѓСЃС‚СЂР°С€РµРЅРёРё РљРѕСЂРѕРЅРµС‚Р°?"
 
 REFERENCE           T1_RAIL_04
 NOTES               "(VIA HOLO)"
 LANG_ENGLISH        "Maybe it was just a diversion for something else."
-LANG_RUSSIAN         "Может, это была просто диверсия, или нечто в подобном духе."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, СЌС‚Рѕ Р±С‹Р»Р° РїСЂРѕСЃС‚Рѕ РґРёРІРµСЂСЃРёСЏ, РёР»Рё РЅРµС‡С‚Рѕ РІ РїРѕРґРѕР±РЅРѕРј РґСѓС…Рµ."
 
 REFERENCE           T1_RAIL_05
 NOTES               "(VIA HOLO)"
 LANG_ENGLISH        "Could be... whatever the case, it doesn't look good..."
-LANG_RUSSIAN         "Возможно... в любом случае, все это дурно пахнет..."
+LANG_RUSSIAN         "Р’РѕР·РјРѕР¶РЅРѕ... РІ Р»СЋР±РѕРј СЃР»СѓС‡Р°Рµ, РІСЃРµ СЌС‚Рѕ РґСѓСЂРЅРѕ РїР°С…РЅРµС‚..."
 
 REFERENCE           T2_TRIP
 NOTES               "via comm?"
 LANG_ENGLISH        "Well that was an adventure. These Cultists sure know how to cover their tracks."
-LANG_RUSSIAN         "Вот это было приключение. Этот культ знает, как заметать следы."
+LANG_RUSSIAN         "Р’РѕС‚ СЌС‚Рѕ Р±С‹Р»Рѕ РїСЂРёРєР»СЋС‡РµРЅРёРµ. Р­С‚РѕС‚ РєСѓР»СЊС‚ Р·РЅР°РµС‚, РєР°Рє Р·Р°РјРµС‚Р°С‚СЊ СЃР»РµРґС‹."
 
 REFERENCE           T2_RANCOR
 LANG_ENGLISH        "Nice work, Jaden!  The elders have been returned to the town.  I wish I could've seen that slimy Hutt's face when he found out all his prisoners had escaped."
-LANG_RUSSIAN         "Отличная работа, Джейден!  Старейшины вернулись в город.  Хотел бы я увидеть липкую рожу Хатта, когда он узнал о побеге всех своих пленников. "
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅР°СЏ СЂР°Р±РѕС‚Р°, Р”Р¶РµР№РґРµРЅ!  РЎС‚Р°СЂРµР№С€РёРЅС‹ РІРµСЂРЅСѓР»РёСЃСЊ РІ РіРѕСЂРѕРґ.  РҐРѕС‚РµР» Р±С‹ СЏ СѓРІРёРґРµС‚СЊ Р»РёРїРєСѓСЋ СЂРѕР¶Сѓ РҐР°С‚С‚Р°, РєРѕРіРґР° РѕРЅ СѓР·РЅР°Р» Рѕ РїРѕР±РµРіРµ РІСЃРµС… СЃРІРѕРёС… РїР»РµРЅРЅРёРєРѕРІ. "
 
 REFERENCE           T2_WEDGE
 LANG_ENGLISH        "Great work, Jaden, Luke was right about you!  The Republic is sending troops to defend the platform.  Thanks to you, the Remnant isn't going to be supplying the Disciples of Ragnos any time soon!"
-LANG_RUSSIAN         "Отличная работа, Джейден, Люк был прав насчет тебя!  Республика посылает войска для защиты платформы.  Благодаря вам остатки имперцев больше не смогут снабжать последователей Рагноса!"
+LANG_RUSSIAN         "РћС‚Р»РёС‡РЅР°СЏ СЂР°Р±РѕС‚Р°, Р”Р¶РµР№РґРµРЅ, Р›СЋРє Р±С‹Р» РїСЂР°РІ РЅР°СЃС‡РµС‚ С‚РµР±СЏ!  Р РµСЃРїСѓР±Р»РёРєР° РїРѕСЃС‹Р»Р°РµС‚ РІРѕР№СЃРєР° РґР»СЏ Р·Р°С‰РёС‚С‹ РїР»Р°С‚С„РѕСЂРјС‹.  Р‘Р»Р°РіРѕРґР°СЂСЏ РІР°Рј РѕСЃС‚Р°С‚РєРё РёРјРїРµСЂС†РµРІ Р±РѕР»СЊС€Рµ РЅРµ СЃРјРѕРіСѓС‚ СЃРЅР°Р±Р¶Р°С‚СЊ РїРѕСЃР»РµРґРѕРІР°С‚РµР»РµР№ Р Р°РіРЅРѕСЃР°!"
 
 REFERENCE           T2_DPRED
 LANG_ENGLISH        "We've informed the Republic of this hidden Remnant operation and they should be there to clean it up soon.  Too bad Rax didn't have any useful info.  I'm proud of how you handled yourself, Jaden, well done."
-LANG_RUSSIAN         "Мы информировали Республику об этой тайной операции остатков имперских сил и скоро они проведут тут зачистку территории.  Жаль, что у Ракса не оказалось хоть сколько-нибудь полезной информации.  Я горд тем, как ты вел себя, Джейден, молодец."
+LANG_RUSSIAN         "РњС‹ РёРЅС„РѕСЂРјРёСЂРѕРІР°Р»Рё Р РµСЃРїСѓР±Р»РёРєСѓ РѕР± СЌС‚РѕР№ С‚Р°Р№РЅРѕР№ РѕРїРµСЂР°С†РёРё РѕСЃС‚Р°С‚РєРѕРІ РёРјРїРµСЂСЃРєРёС… СЃРёР» Рё СЃРєРѕСЂРѕ РѕРЅРё РїСЂРѕРІРµРґСѓС‚ С‚СѓС‚ Р·Р°С‡РёСЃС‚РєСѓ С‚РµСЂСЂРёС‚РѕСЂРёРё.  Р–Р°Р»СЊ, С‡С‚Рѕ Сѓ Р Р°РєСЃР° РЅРµ РѕРєР°Р·Р°Р»РѕСЃСЊ С…РѕС‚СЊ СЃРєРѕР»СЊРєРѕ-РЅРёР±СѓРґСЊ РїРѕР»РµР·РЅРѕР№ РёРЅС„РѕСЂРјР°С†РёРё.  РЇ РіРѕСЂРґ С‚РµРј, РєР°Рє С‚С‹ РІРµР» СЃРµР±СЏ, Р”Р¶РµР№РґРµРЅ, РјРѕР»РѕРґРµС†."
 
 REFERENCE           T2_ROGUE
 LANG_ENGLISH        "Based on the information you got from Racto, New Republic agents raided the droid factory on Nar Shaddaa and shut it down. Good work Jaden!"
-LANG_RUSSIAN         "На основе сведений, полученных от Ракто, агенты Новой Республики совершили рейд на завод дроидов на Нар Шаддаа и вывели его из строя. Хорошая работа, Джейден!"
+LANG_RUSSIAN         "РќР° РѕСЃРЅРѕРІРµ СЃРІРµРґРµРЅРёР№, РїРѕР»СѓС‡РµРЅРЅС‹С… РѕС‚ Р Р°РєС‚Рѕ, Р°РіРµРЅС‚С‹ РќРѕРІРѕР№ Р РµСЃРїСѓР±Р»РёРєРё СЃРѕРІРµСЂС€РёР»Рё СЂРµР№Рґ РЅР° Р·Р°РІРѕРґ РґСЂРѕРёРґРѕРІ РЅР° РќР°СЂ РЁР°РґРґР°Р° Рё РІС‹РІРµР»Рё РµРіРѕ РёР· СЃС‚СЂРѕСЏ. РҐРѕСЂРѕС€Р°СЏ СЂР°Р±РѕС‚Р°, Р”Р¶РµР№РґРµРЅ!"
 
 REFERENCE           T3_BYSS
 LANG_ENGLISH        "That was a close one.  I've relayed the information about Byss to Luke.  Good work, by the way."
-LANG_RUSSIAN         "Еще бы чуть-чуть, и все.  Я передал Люку информацию о Биссе.  Кстати, хорошая работа."
+LANG_RUSSIAN         "Р•С‰Рµ Р±С‹ С‡СѓС‚СЊ-С‡СѓС‚СЊ, Рё РІСЃРµ.  РЇ РїРµСЂРµРґР°Р» Р›СЋРєСѓ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ Р‘РёСЃСЃРµ.  РљСЃС‚Р°С‚Рё, С…РѕСЂРѕС€Р°СЏ СЂР°Р±РѕС‚Р°."
 
 REFERENCE           T3_STAMP
 LANG_ENGLISH        "Jaden.  We think these cultists were planning on releasing that mutated rancor into the city and using the ensuing chaos to steal supplies, credits, and whatever else they could get their hands on.  Good work."
-LANG_RUSSIAN         "Джейден.  Мы полагаем, эти последователи культа планируют выпустить в город этого мутировавшего ранкора и под шумиху выкрасть снаряжение, кредитки и все, что им может понадобиться.  Отличная работа."
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ.  РњС‹ РїРѕР»Р°РіР°РµРј, СЌС‚Рё РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё РєСѓР»СЊС‚Р° РїР»Р°РЅРёСЂСѓСЋС‚ РІС‹РїСѓСЃС‚РёС‚СЊ РІ РіРѕСЂРѕРґ СЌС‚РѕРіРѕ РјСѓС‚РёСЂРѕРІР°РІС€РµРіРѕ СЂР°РЅРєРѕСЂР° Рё РїРѕРґ С€СѓРјРёС…Сѓ РІС‹РєСЂР°СЃС‚СЊ СЃРЅР°СЂСЏР¶РµРЅРёРµ, РєСЂРµРґРёС‚РєРё Рё РІСЃРµ, С‡С‚Рѕ РёРј РјРѕР¶РµС‚ РїРѕРЅР°РґРѕР±РёС‚СЊСЃСЏ.  РћС‚Р»РёС‡РЅР°СЏ СЂР°Р±РѕС‚Р°."
 
 REFERENCE           T3_RIFT
 LANG_ENGLISH        "So you didn't run into Tavion.  That's good... and bad.  At least you stopped the cultists.  But we can't keep this up forever.  We've got to stop Tavion once and for all!"
-LANG_RUSSIAN         "Значит, ты не столкнулся с Тавион.  Это и хорошо... и плохо.  По крайней мере ты помешал последователям культа.  Но долго так продолжаться не может.  Мы должны остановить Тавион раз и навсегда!"
+LANG_RUSSIAN         "Р—РЅР°С‡РёС‚, С‚С‹ РЅРµ СЃС‚РѕР»РєРЅСѓР»СЃСЏ СЃ РўР°РІРёРѕРЅ.  Р­С‚Рѕ Рё С…РѕСЂРѕС€Рѕ... Рё РїР»РѕС…Рѕ.  РџРѕ РєСЂР°Р№РЅРµР№ РјРµСЂРµ С‚С‹ РїРѕРјРµС€Р°Р» РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЏРј РєСѓР»СЊС‚Р°.  РќРѕ РґРѕР»РіРѕ С‚Р°Рє РїСЂРѕРґРѕР»Р¶Р°С‚СЊСЃСЏ РЅРµ РјРѕР¶РµС‚.  РњС‹ РґРѕР»Р¶РЅС‹ РѕСЃС‚Р°РЅРѕРІРёС‚СЊ РўР°РІРёРѕРЅ СЂР°Р· Рё РЅР°РІСЃРµРіРґР°!"
 
 REFERENCE           T3_HEVIL
 LANG_ENGLISH        "Darth Vader used many Noghri as assassins and bodyguards.  We think Vader ordered the Noghri to wipe out the Yalarans guarding the cloaking device.  Now that the device is destroyed, no one can claim it.  The remaining Noghri have been picked up and returned home."
-LANG_RUSSIAN         "Дарт Вейдер использовал Ногри как убийц и телохранителей.  Мы полагаем, Вейдер приказал Ногри выбить Яларанцев, охраняющих маскирующее устройство.  Теперь, когда устройство уничтожено, никто его не получит.  Остатки Ногри собрались и вернулись домой."
+LANG_RUSSIAN         "Р”Р°СЂС‚ Р’РµР№РґРµСЂ РёСЃРїРѕР»СЊР·РѕРІР°Р» РќРѕРіСЂРё РєР°Рє СѓР±РёР№С† Рё С‚РµР»РѕС…СЂР°РЅРёС‚РµР»РµР№.  РњС‹ РїРѕР»Р°РіР°РµРј, Р’РµР№РґРµСЂ РїСЂРёРєР°Р·Р°Р» РќРѕРіСЂРё РІС‹Р±РёС‚СЊ РЇР»Р°СЂР°РЅС†РµРІ, РѕС…СЂР°РЅСЏСЋС‰РёС… РјР°СЃРєРёСЂСѓСЋС‰РµРµ СѓСЃС‚СЂРѕР№СЃС‚РІРѕ.  РўРµРїРµСЂСЊ, РєРѕРіРґР° СѓСЃС‚СЂРѕР№СЃС‚РІРѕ СѓРЅРёС‡С‚РѕР¶РµРЅРѕ, РЅРёРєС‚Рѕ РµРіРѕ РЅРµ РїРѕР»СѓС‡РёС‚.  РћСЃС‚Р°С‚РєРё РќРѕРіСЂРё СЃРѕР±СЂР°Р»РёСЃСЊ Рё РІРµСЂРЅСѓР»РёСЃСЊ РґРѕРјРѕР№."
 
 REFERENCE           T3_HEVIL_ALT
 LANG_ENGLISH        "It's a good thing we were able to destroy that device before the Empire could use it for their purposes. But I am saddened that we were unable to save the innocent people of Yalara."
-LANG_RUSSIAN         "Хорошо, что мы смогли уничтожить это устройство до того, как оно попало в лапы Империи. Но я опечален тем, что мы не смогли спасти невинный народ Ялара."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ, С‡С‚Рѕ РјС‹ СЃРјРѕРіР»Рё СѓРЅРёС‡С‚РѕР¶РёС‚СЊ СЌС‚Рѕ СѓСЃС‚СЂРѕР№СЃС‚РІРѕ РґРѕ С‚РѕРіРѕ, РєР°Рє РѕРЅРѕ РїРѕРїР°Р»Рѕ РІ Р»Р°РїС‹ РРјРїРµСЂРёРё. РќРѕ СЏ РѕРїРµС‡Р°Р»РµРЅ С‚РµРј, С‡С‚Рѕ РјС‹ РЅРµ СЃРјРѕРіР»Рё СЃРїР°СЃС‚Рё РЅРµРІРёРЅРЅС‹Р№ РЅР°СЂРѕРґ РЇР»Р°СЂР°."
 
 REFERENCE           T3_BOUNTY
 LANG_ENGLISH        "So, you met Boba Fett.  I'm impressed!  I ran into him once myself back on Coruscant, just barely got out alive.  Not someone you want as an enemy, but, well... I guess we have something in common now."
-LANG_RUSSIAN         "Значит, ты встретился с Бобой Феттом.  Поразительно!  Я натолкнулся на него на Корусанте, и едва унес ноги.  Это не самый лучший вариант врага, но... Полагаю, у нас есть одно общее дело."
+LANG_RUSSIAN         "Р—РЅР°С‡РёС‚, С‚С‹ РІСЃС‚СЂРµС‚РёР»СЃСЏ СЃ Р‘РѕР±РѕР№ Р¤РµС‚С‚РѕРј.  РџРѕСЂР°Р·РёС‚РµР»СЊРЅРѕ!  РЇ РЅР°С‚РѕР»РєРЅСѓР»СЃСЏ РЅР° РЅРµРіРѕ РЅР° РљРѕСЂСѓСЃР°РЅС‚Рµ, Рё РµРґРІР° СѓРЅРµСЃ РЅРѕРіРё.  Р­С‚Рѕ РЅРµ СЃР°РјС‹Р№ Р»СѓС‡С€РёР№ РІР°СЂРёР°РЅС‚ РІСЂР°РіР°, РЅРѕ... РџРѕР»Р°РіР°СЋ, Сѓ РЅР°СЃ РµСЃС‚СЊ РѕРґРЅРѕ РѕР±С‰РµРµ РґРµР»Рѕ."
 
 
 ENDMARKER

@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,41 +16,41 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           25JAK001
 NOTES               "(to himself)"
 LANG_ENGLISH        "Well, this is where the captain saw the cultists...  It doesn't look like-"
-LANG_RUSSIAN         "Так вот где капитан видел членов культа...  Это не похоже на -"
+LANG_RUSSIAN         "РўР°Рє РІРѕС‚ РіРґРµ РєР°РїРёС‚Р°РЅ РІРёРґРµР» С‡Р»РµРЅРѕРІ РєСѓР»СЊС‚Р°...  Р­С‚Рѕ РЅРµ РїРѕС…РѕР¶Рµ РЅР° -"
 
 REFERENCE           25JAK002
 NOTES               "(alarmed)"
 LANG_ENGLISH        "That's not good!"
-LANG_RUSSIAN         "Это очень плохо!"
+LANG_RUSSIAN         "Р­С‚Рѕ РѕС‡РµРЅСЊ РїР»РѕС…Рѕ!"
 
 REFERENCE           25JAK003
 NOTES               "re: te"
 LANG_ENGLISH        "Maybe those fuel tanks will slow it down!"
-LANG_RUSSIAN         "Может, эти баки с горючим замедлят его!"
+LANG_RUSSIAN         "РњРѕР¶РµС‚, СЌС‚Рё Р±Р°РєРё СЃ РіРѕСЂСЋС‡РёРј Р·Р°РјРµРґР»СЏС‚ РµРіРѕ!"
 
 REFERENCE           25JAK004
 NOTES               "(re: the rancor"
 LANG_ENGLISH        "What did I ever do to him?!"
-LANG_RUSSIAN         "Ну что я ему сделал?!"
+LANG_RUSSIAN         "РќСѓ С‡С‚Рѕ СЏ РµРјСѓ СЃРґРµР»Р°Р»?!"
 
 REFERENCE           25JAK005
 NOTES               "(re: the rancor"
 LANG_ENGLISH        "I can't stop it!"
-LANG_RUSSIAN         "Я не могу его остановить!"
+LANG_RUSSIAN         "РЇ РЅРµ РјРѕРіСѓ РµРіРѕ РѕСЃС‚Р°РЅРѕРІРёС‚СЊ!"
 
 REFERENCE           25JAK006
 NOTES               "(to himself)"
 LANG_ENGLISH        "Maybe I can trap it between those containers and the door..."
-LANG_RUSSIAN         "Может, поймать его между контейнерами и дверью..."
+LANG_RUSSIAN         "РњРѕР¶РµС‚, РїРѕР№РјР°С‚СЊ РµРіРѕ РјРµР¶РґСѓ РєРѕРЅС‚РµР№РЅРµСЂР°РјРё Рё РґРІРµСЂСЊСЋ..."
 
 REFERENCE           25JAK007
 NOTES               "(shrugs, pleasantly surprised, like that was easy)"
 LANG_ENGLISH        "That'll work, too."
-LANG_RUSSIAN         "Это тоже сработает."
+LANG_RUSSIAN         "Р­С‚Рѕ С‚РѕР¶Рµ СЃСЂР°Р±РѕС‚Р°РµС‚."
 
 REFERENCE           25KYK001
 LANG_ENGLISH        "Stay alert on this one.  If there are Disciples of Ragnos at Tanaab, they probably aren't just passing through."
-LANG_RUSSIAN         "Следи за ним.  Если на Танаабе есть последователи Рагноса, то они прошли не просто так."
+LANG_RUSSIAN         "РЎР»РµРґРё Р·Р° РЅРёРј.  Р•СЃР»Рё РЅР° РўР°РЅР°Р°Р±Рµ РµСЃС‚СЊ РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё Р Р°РіРЅРѕСЃР°, С‚Рѕ РѕРЅРё РїСЂРѕС€Р»Рё РЅРµ РїСЂРѕСЃС‚Рѕ С‚Р°Рє."
 
 
 ENDMARKER

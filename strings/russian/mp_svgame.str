@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,372 +16,372 @@ FILENOTES           "Multiplayer server print messages"
 REFERENCE           PLRENAME
 NOTES               "Player renamed"
 LANG_ENGLISH        "renamed to"
-LANG_RUSSIAN         "переименован в"
+LANG_RUSSIAN         "РїРµСЂРµРёРјРµРЅРѕРІР°РЅ РІ"
 
 REFERENCE           PLCONNECT
 NOTES               "Player connected"
 LANG_ENGLISH        "connected"
-LANG_RUSSIAN         "подключен"
+LANG_RUSSIAN         "РїРѕРґРєР»СЋС‡РµРЅ"
 
 REFERENCE           PLENTER
 NOTES               "Player entered the game"
 LANG_ENGLISH        "entered the game"
-LANG_RUSSIAN         "вступил в игру"
+LANG_RUSSIAN         "РІСЃС‚СѓРїРёР» РІ РёРіСЂСѓ"
 
 REFERENCE           NOCHEATS
 NOTES               "Cheats disabled message"
 LANG_ENGLISH        "Cheats are not enabled on this server."
-LANG_RUSSIAN         "На этом сервера коды запрещены."
+LANG_RUSSIAN         "РќР° СЌС‚РѕРј СЃРµСЂРІРµСЂР° РєРѕРґС‹ Р·Р°РїСЂРµС‰РµРЅС‹."
 
 REFERENCE           MUSTBEALIVE
 NOTES               "Player tries to use a command when dead"
 LANG_ENGLISH        "You must be alive to use this command."
-LANG_RUSSIAN         "Чтобы воспользоваться этой командой, вы должны быть живы."
+LANG_RUSSIAN         "Р§С‚РѕР±С‹ РІРѕСЃРїРѕР»СЊР·РѕРІР°С‚СЊСЃСЏ СЌС‚РѕР№ РєРѕРјР°РЅРґРѕР№, РІС‹ РґРѕР»Р¶РЅС‹ Р±С‹С‚СЊ Р¶РёРІС‹."
 
 REFERENCE           PRINTBLUETEAM
 NOTES               "Print blue team"
 LANG_ENGLISH        "Blue team"
-LANG_RUSSIAN         "Синяя команда"
+LANG_RUSSIAN         "РЎРёРЅСЏСЏ РєРѕРјР°РЅРґР°"
 
 REFERENCE           PRINTREDTEAM
 NOTES               "Print red team"
 LANG_ENGLISH        "Red team"
-LANG_RUSSIAN         "Красная команда"
+LANG_RUSSIAN         "РљСЂР°СЃРЅР°СЏ РєРѕРјР°РЅРґР°"
 
 REFERENCE           PRINTFREETEAM
 NOTES               "Print free team"
 LANG_ENGLISH        "Free team"
-LANG_RUSSIAN         "Свободная команда"
+LANG_RUSSIAN         "РЎРІРѕР±РѕРґРЅР°СЏ РєРѕРјР°РЅРґР°"
 
 REFERENCE           PRINTSPECTEAM
 NOTES               "Print spec team"
 LANG_ENGLISH        "Spectator team"
-LANG_RUSSIAN         "Команда наблюдателей"
+LANG_RUSSIAN         "РљРѕРјР°РЅРґР° РЅР°Р±Р»СЋРґР°С‚РµР»РµР№"
 
 REFERENCE           NOSWITCH
 NOTES               "Player can't switch teams again yet"
 LANG_ENGLISH        "May not switch teams more than once per 5 seconds."
-LANG_RUSSIAN         "Нельзя переключать команды чаще одного раза в пять секунд."
+LANG_RUSSIAN         "РќРµР»СЊР·СЏ РїРµСЂРµРєР»СЋС‡Р°С‚СЊ РєРѕРјР°РЅРґС‹ С‡Р°С‰Рµ РѕРґРЅРѕРіРѕ СЂР°Р·Р° РІ РїСЏС‚СЊ СЃРµРєСѓРЅРґ."
 
 REFERENCE           NOVOTE
 NOTES               "Player can't vote on this server"
 LANG_ENGLISH        "Voting not allowed here."
-LANG_RUSSIAN         "Голосование здесь запрещено."
+LANG_RUSSIAN         "Р“РѕР»РѕСЃРѕРІР°РЅРёРµ Р·РґРµСЃСЊ Р·Р°РїСЂРµС‰РµРЅРѕ."
 
 REFERENCE           VOTEINPROGRESS
 LANG_ENGLISH        "A vote is already in progress."
-LANG_RUSSIAN         "Голосование уже началось."
+LANG_RUSSIAN         "Р“РѕР»РѕСЃРѕРІР°РЅРёРµ СѓР¶Рµ РЅР°С‡Р°Р»РѕСЃСЊ."
 
 REFERENCE           MAXVOTES
 LANG_ENGLISH        "You have called the maximum number of votes."
-LANG_RUSSIAN         "Вы созвали максимум голосований."
+LANG_RUSSIAN         "Р’С‹ СЃРѕР·РІР°Р»Рё РјР°РєСЃРёРјСѓРј РіРѕР»РѕСЃРѕРІР°РЅРёР№."
 
 REFERENCE           NOSPECVOTE
 LANG_ENGLISH        "Not allowed to call a vote as a spectator."
-LANG_RUSSIAN         "Наблюдателям запрещено созывать голосование."
+LANG_RUSSIAN         "РќР°Р±Р»СЋРґР°С‚РµР»СЏРј Р·Р°РїСЂРµС‰РµРЅРѕ СЃРѕР·С‹РІР°С‚СЊ РіРѕР»РѕСЃРѕРІР°РЅРёРµ."
 
 REFERENCE           PLCALLEDVOTE
 NOTES               "Player called a vote"
 LANG_ENGLISH        "called a vote"
-LANG_RUSSIAN         "требует голосования"
+LANG_RUSSIAN         "С‚СЂРµР±СѓРµС‚ РіРѕР»РѕСЃРѕРІР°РЅРёСЏ"
 
 REFERENCE           NOVOTEINPROG
 NOTES               "Player tried to vote when there's no vote going on"
 LANG_ENGLISH        "No vote in progress."
-LANG_RUSSIAN         "Нет активных голосований."
+LANG_RUSSIAN         "РќРµС‚ Р°РєС‚РёРІРЅС‹С… РіРѕР»РѕСЃРѕРІР°РЅРёР№."
 
 REFERENCE           VOTEALREADY
 NOTES               "Player already cast a vote"
 LANG_ENGLISH        "Vote already cast."
-LANG_RUSSIAN         "Голос уже отдан."
+LANG_RUSSIAN         "Р“РѕР»РѕСЃ СѓР¶Рµ РѕС‚РґР°РЅ."
 
 REFERENCE           NOVOTEASSPEC
 LANG_ENGLISH        "Not allowed to vote as spectator."
-LANG_RUSSIAN         "Наблюдателям запрещено голосовать."
+LANG_RUSSIAN         "РќР°Р±Р»СЋРґР°С‚РµР»СЏРј Р·Р°РїСЂРµС‰РµРЅРѕ РіРѕР»РѕСЃРѕРІР°С‚СЊ."
 
 REFERENCE           TEAMVOTEALREADY
 LANG_ENGLISH        "A team vote already in progress."
-LANG_RUSSIAN         "Голосование отряда уже началось."
+LANG_RUSSIAN         "Р“РѕР»РѕСЃРѕРІР°РЅРёРµ РѕС‚СЂСЏРґР° СѓР¶Рµ РЅР°С‡Р°Р»РѕСЃСЊ."
 
 REFERENCE           MAXTEAMVOTES
 LANG_ENGLISH        "You have called the maximum number of team votes."
-LANG_RUSSIAN         "Вы созвали максимум отрядных голосований."
+LANG_RUSSIAN         "Р’С‹ СЃРѕР·РІР°Р»Рё РјР°РєСЃРёРјСѓРј РѕС‚СЂСЏРґРЅС‹С… РіРѕР»РѕСЃРѕРІР°РЅРёР№."
 
 REFERENCE           NOTEAMVOTEINPROG
 LANG_ENGLISH        "No team vote in progress."
-LANG_RUSSIAN         "Нет активных отрядных голосований."
+LANG_RUSSIAN         "РќРµС‚ Р°РєС‚РёРІРЅС‹С… РѕС‚СЂСЏРґРЅС‹С… РіРѕР»РѕСЃРѕРІР°РЅРёР№."
 
 REFERENCE           TEAMVOTEALREADYCAST
 LANG_ENGLISH        "Team vote already cast."
-LANG_RUSSIAN         "Отрядный голос уже отдан."
+LANG_RUSSIAN         "РћС‚СЂСЏРґРЅС‹Р№ РіРѕР»РѕСЃ СѓР¶Рµ РѕС‚РґР°РЅ."
 
 REFERENCE           VOTEFAILED
 LANG_ENGLISH        "Vote failed."
-LANG_RUSSIAN         "Голосование не состоялось."
+LANG_RUSSIAN         "Р“РѕР»РѕСЃРѕРІР°РЅРёРµ РЅРµ СЃРѕСЃС‚РѕСЏР»РѕСЃСЊ."
 
 REFERENCE           VOTEPASSED
 LANG_ENGLISH        "Vote passed."
-LANG_RUSSIAN         "Голосование состоялось."
+LANG_RUSSIAN         "Р“РѕР»РѕСЃРѕРІР°РЅРёРµ СЃРѕСЃС‚РѕСЏР»РѕСЃСЊ."
 
 REFERENCE           FORCEPOWERCHANGED
 NOTES               "Tell the player his settings will take effect after he respawns"
 LANG_ENGLISH        "Changes to your force power settings will take effect the next time you respawn."
-LANG_RUSSIAN         "Изменения ваших способностей в Силе начнут действовать после вашего следующего появления."
+LANG_RUSSIAN         "РР·РјРµРЅРµРЅРёСЏ РІР°С€РёС… СЃРїРѕСЃРѕР±РЅРѕСЃС‚РµР№ РІ РЎРёР»Рµ РЅР°С‡РЅСѓС‚ РґРµР№СЃС‚РІРѕРІР°С‚СЊ РїРѕСЃР»Рµ РІР°С€РµРіРѕ СЃР»РµРґСѓСЋС‰РµРіРѕ РїРѕСЏРІР»РµРЅРёСЏ."
 
 REFERENCE           TEAMVOTEFAILED
 LANG_ENGLISH        "Team vote failed."
-LANG_RUSSIAN         "Отрядное голосование не состоялось."
+LANG_RUSSIAN         "РћС‚СЂСЏРґРЅРѕРµ РіРѕР»РѕСЃРѕРІР°РЅРёРµ РЅРµ СЃРѕСЃС‚РѕСЏР»РѕСЃСЊ."
 
 REFERENCE           TEAMVOTEPASSED
 LANG_ENGLISH        "Team vote passed."
-LANG_RUSSIAN         "Отрядное голосование состоялось."
+LANG_RUSSIAN         "РћС‚СЂСЏРґРЅРѕРµ РіРѕР»РѕСЃРѕРІР°РЅРёРµ СЃРѕСЃС‚РѕСЏР»РѕСЃСЊ."
 
 REFERENCE           PLVOTECAST
 LANG_ENGLISH        "Vote cast."
-LANG_RUSSIAN         "Голосование."
+LANG_RUSSIAN         "Р“РѕР»РѕСЃРѕРІР°РЅРёРµ."
 
 REFERENCE           PLTEAMVOTECAST
 LANG_ENGLISH        "Team vote cast."
-LANG_RUSSIAN         "Отрядное голосование."
+LANG_RUSSIAN         "РћС‚СЂСЏРґРЅРѕРµ РіРѕР»РѕСЃРѕРІР°РЅРёРµ."
 
 REFERENCE           NEWTEAMLEADER
 NOTES               "Player becomes the new team leader"
 LANG_ENGLISH        "is the new team leader."
-LANG_RUSSIAN         "является новым лидером отряда."
+LANG_RUSSIAN         "СЏРІР»СЏРµС‚СЃСЏ РЅРѕРІС‹Рј Р»РёРґРµСЂРѕРј РѕС‚СЂСЏРґР°."
 
 REFERENCE           PLDUELCHALLENGE
 NOTES               "A player has challenged this player to a duel"
 LANG_ENGLISH        "has challenged you to a duel!"
-LANG_RUSSIAN         "вызвал вас на дуэль!"
+LANG_RUSSIAN         "РІС‹Р·РІР°Р» РІР°СЃ РЅР° РґСѓСЌР»СЊ!"
 
 REFERENCE           PLDUELACCEPT
 NOTES               "Player accepts another player's challenge to a duel"
 LANG_ENGLISH        "has become engaged in a duel with"
-LANG_RUSSIAN         "получил вызов на дуэль с"
+LANG_RUSSIAN         "РїРѕР»СѓС‡РёР» РІС‹Р·РѕРІ РЅР° РґСѓСЌР»СЊ СЃ"
 
 REFERENCE           PLDUELWINNER
 NOTES               "A player has defeated another player in a duel"
 LANG_ENGLISH        "has defeated"
-LANG_RUSSIAN         "понес поражение"
+LANG_RUSSIAN         "РїРѕРЅРµСЃ РїРѕСЂР°Р¶РµРЅРёРµ"
 
 REFERENCE           PLDUELSTOP
 NOTES               "Players got too far away from each other in a duel"
 LANG_ENGLISH        "The duel has been severed."
-LANG_RUSSIAN         "Дуэль была суровой."
+LANG_RUSSIAN         "Р”СѓСЌР»СЊ Р±С‹Р»Р° СЃСѓСЂРѕРІРѕР№."
 
 REFERENCE           JOINEDTHEBATTLE
 NOTES               "Team change"
 LANG_ENGLISH        "joined the battle."
-LANG_RUSSIAN         "вступил в бой."
+LANG_RUSSIAN         "РІСЃС‚СѓРїРёР» РІ Р±РѕР№."
 
 REFERENCE           JOINEDTHESPECTATORS
 LANG_ENGLISH        "joined the spectators."
-LANG_RUSSIAN         "присоединился к наблюдателям."
+LANG_RUSSIAN         "РїСЂРёСЃРѕРµРґРёРЅРёР»СЃСЏ Рє РЅР°Р±Р»СЋРґР°С‚РµР»СЏРј."
 
 REFERENCE           JOINEDTHEREDTEAM
 LANG_ENGLISH        "joined the red team."
-LANG_RUSSIAN         "вступил в красную команду."
+LANG_RUSSIAN         "РІСЃС‚СѓРїРёР» РІ РєСЂР°СЃРЅСѓСЋ РєРѕРјР°РЅРґСѓ."
 
 REFERENCE           JOINEDTHEBLUETEAM
 LANG_ENGLISH        "joined the blue team."
-LANG_RUSSIAN         "вступил в синюю команду."
+LANG_RUSSIAN         "РІСЃС‚СѓРїРёР» РІ СЃРёРЅСЋСЋ РєРѕРјР°РЅРґСѓ."
 
 REFERENCE           VERSUS
 NOTES               "Tournament mode display"
 LANG_ENGLISH        "vs."
-LANG_RUSSIAN         "против"
+LANG_RUSSIAN         "РїСЂРѕС‚РёРІ"
 
 REFERENCE           ATTEMPTDUELKILL
 NOTES               "Attempt to kill self in a duel"
 LANG_ENGLISH        "You may not end yourself in the midst of a duel."
-LANG_RUSSIAN         "Вы не должны уходить посреди дуэли."
+LANG_RUSSIAN         "Р’С‹ РЅРµ РґРѕР»Р¶РЅС‹ СѓС…РѕРґРёС‚СЊ РїРѕСЃСЂРµРґРё РґСѓСЌР»Рё."
 
 REFERENCE           CANTDUEL_JUSTDID
 LANG_ENGLISH        "You must wait 10 seconds after finishing a duel to initiate another duel, or have someone else challenge you."
-LANG_RUSSIAN         "Вы должны подождать 10 секунд после окончания дуэли, чтобы начать новую или получить вызов."
+LANG_RUSSIAN         "Р’С‹ РґРѕР»Р¶РЅС‹ РїРѕРґРѕР¶РґР°С‚СЊ 10 СЃРµРєСѓРЅРґ РїРѕСЃР»Рµ РѕРєРѕРЅС‡Р°РЅРёСЏ РґСѓСЌР»Рё, С‡С‚РѕР±С‹ РЅР°С‡Р°С‚СЊ РЅРѕРІСѓСЋ РёР»Рё РїРѕР»СѓС‡РёС‚СЊ РІС‹Р·РѕРІ."
 
 REFERENCE           CANTDUEL_BUSY
 LANG_ENGLISH        "You cannot initiate a duel until the other two players have finished their duel."
-LANG_RUSSIAN         "Вы не можете завязать дуэль, пока два других игрока не завершат свой бой."
+LANG_RUSSIAN         "Р’С‹ РЅРµ РјРѕР¶РµС‚Рµ Р·Р°РІСЏР·Р°С‚СЊ РґСѓСЌР»СЊ, РїРѕРєР° РґРІР° РґСЂСѓРіРёС… РёРіСЂРѕРєР° РЅРµ Р·Р°РІРµСЂС€Р°С‚ СЃРІРѕР№ Р±РѕР№."
 
 REFERENCE           FORCEAPPLIED
 NOTES               "Player applied force changes while spectator"
 LANG_ENGLISH        "Your new force power settings have been applied."
-LANG_RUSSIAN         "Были применены ваши новые способности в Силе."
+LANG_RUSSIAN         "Р‘С‹Р»Рё РїСЂРёРјРµРЅРµРЅС‹ РІР°С€Рё РЅРѕРІС‹Рµ СЃРїРѕСЃРѕР±РЅРѕСЃС‚Рё РІ РЎРёР»Рµ."
 
 REFERENCE           MUSTBELIGHT
 NOTES               "Force-based teams are on, a dark side player tries to join the blue team"
 LANG_ENGLISH        "You must be on the Light side of the force to join the Blue Team."
-LANG_RUSSIAN         "Чтобы вступить в синий отряд, вы должны находиться на светлой стороне Силы."
+LANG_RUSSIAN         "Р§С‚РѕР±С‹ РІСЃС‚СѓРїРёС‚СЊ РІ СЃРёРЅРёР№ РѕС‚СЂСЏРґ, РІС‹ РґРѕР»Р¶РЅС‹ РЅР°С…РѕРґРёС‚СЊСЃСЏ РЅР° СЃРІРµС‚Р»РѕР№ СЃС‚РѕСЂРѕРЅРµ РЎРёР»С‹."
 
 REFERENCE           MUSTBEDARK
 NOTES               "Force-based teams are on, a light side player tries to join the red team"
 LANG_ENGLISH        "You must be on the Dark side of the force to join the Red Team."
-LANG_RUSSIAN         "Чтобы вступить в красный отряд, вы должны находиться на темной стороне Силы."
+LANG_RUSSIAN         "Р§С‚РѕР±С‹ РІСЃС‚СѓРїРёС‚СЊ РІ РєСЂР°СЃРЅС‹Р№ РѕС‚СЂСЏРґ, РІС‹ РґРѕР»Р¶РЅС‹ РЅР°С…РѕРґРёС‚СЊСЃСЏ РЅР° С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅРµ РЎРёР»С‹."
 
 REFERENCE           TOOMANYRED_SWITCH
 LANG_ENGLISH        "Red team has too many players, switch to the light side of the force and join blue."
-LANG_RUSSIAN         "В красном отряде слишком много игроков, перейдите на светлую сторону и вступите в синий отряд."
+LANG_RUSSIAN         "Р’ РєСЂР°СЃРЅРѕРј РѕС‚СЂСЏРґРµ СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ РёРіСЂРѕРєРѕРІ, РїРµСЂРµР№РґРёС‚Рµ РЅР° СЃРІРµС‚Р»СѓСЋ СЃС‚РѕСЂРѕРЅСѓ Рё РІСЃС‚СѓРїРёС‚Рµ РІ СЃРёРЅРёР№ РѕС‚СЂСЏРґ."
 
 REFERENCE           TOOMANYRED
 LANG_ENGLISH        "Red team has too many players."
-LANG_RUSSIAN         "В красном отряде слишком много игроков."
+LANG_RUSSIAN         "Р’ РєСЂР°СЃРЅРѕРј РѕС‚СЂСЏРґРµ СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ РёРіСЂРѕРєРѕРІ."
 
 REFERENCE           TOOMANYBLUE_SWITCH
 LANG_ENGLISH        "Blue team has too many players, switch to the dark side of the force and join red."
-LANG_RUSSIAN         "В синем отряде слишком много игроков, перейдите на темную сторону и вступите в красный отряд."
+LANG_RUSSIAN         "Р’ СЃРёРЅРµРј РѕС‚СЂСЏРґРµ СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ РёРіСЂРѕРєРѕРІ, РїРµСЂРµР№РґРёС‚Рµ РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ Рё РІСЃС‚СѓРїРёС‚Рµ РІ РєСЂР°СЃРЅС‹Р№ РѕС‚СЂСЏРґ."
 
 REFERENCE           TOOMANYBLUE
 LANG_ENGLISH        "Blue team has too many players."
-LANG_RUSSIAN         "В синем отряде слишком много игроков."
+LANG_RUSSIAN         "Р’ СЃРёРЅРµРј РѕС‚СЂСЏРґРµ СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ РёРіСЂРѕРєРѕРІ."
 
 REFERENCE           PLDUELTIE
 LANG_ENGLISH        "The duel is ended in a draw, both fighters have died!"
-LANG_RUSSIAN         "Дуэль завершилась ничьей, оба дуэлянта погибли!"
+LANG_RUSSIAN         "Р”СѓСЌР»СЊ Р·Р°РІРµСЂС€РёР»Р°СЃСЊ РЅРёС‡СЊРµР№, РѕР±Р° РґСѓСЌР»СЏРЅС‚Р° РїРѕРіРёР±Р»Рё!"
 
 REFERENCE           PLDUELCHALLENGED
 LANG_ENGLISH        "You have challenged"
-LANG_RUSSIAN         "Вы вызвали на бой"
+LANG_RUSSIAN         "Р’С‹ РІС‹Р·РІР°Р»Рё РЅР° Р±РѕР№"
 
 REFERENCE           NODUEL_GAMETYPE
 LANG_ENGLISH        "This gametype does not support saber dueling."
-LANG_RUSSIAN         "В этой разновидности игры дуэли на мечах не предусмотрены."
+LANG_RUSSIAN         "Р’ СЌС‚РѕР№ СЂР°Р·РЅРѕРІРёРґРЅРѕСЃС‚Рё РёРіСЂС‹ РґСѓСЌР»Рё РЅР° РјРµС‡Р°С… РЅРµ РїСЂРµРґСѓСЃРјРѕС‚СЂРµРЅС‹."
 
 REFERENCE           BECOMEJM
 LANG_ENGLISH        "has become the Jedi Master!"
-LANG_RUSSIAN         "стал мастером джедай!"
+LANG_RUSSIAN         "СЃС‚Р°Р» РјР°СЃС‚РµСЂРѕРј РґР¶РµРґР°Р№!"
 
 REFERENCE           UNABLE_TO_ADD_BOT
 LANG_ENGLISH        "Unable to add bot. All player slots are in use.\nStart server with more 'open' slots.\n"
-LANG_RUSSIAN         "Невозможно добавить бота. Все слоты игроков заняты.\nЗапустите сервер с большим количеством 'свободных' слотов.\n"
+LANG_RUSSIAN         "РќРµРІРѕР·РјРѕР¶РЅРѕ РґРѕР±Р°РІРёС‚СЊ Р±РѕС‚Р°. Р’СЃРµ СЃР»РѕС‚С‹ РёРіСЂРѕРєРѕРІ Р·Р°РЅСЏС‚С‹.\nР—Р°РїСѓСЃС‚РёС‚Рµ СЃРµСЂРІРµСЂ СЃ Р±РѕР»СЊС€РёРј РєРѕР»РёС‡РµСЃС‚РІРѕРј 'СЃРІРѕР±РѕРґРЅС‹С…' СЃР»РѕС‚РѕРІ.\n"
 
 REFERENCE           CANNOT_KICK_HOST
 LANG_ENGLISH        "Cannot kick host player.\n"
-LANG_RUSSIAN         "Невозможно выбросить игрока, являющегося хостом.\n"
+LANG_RUSSIAN         "РќРµРІРѕР·РјРѕР¶РЅРѕ РІС‹Р±СЂРѕСЃРёС‚СЊ РёРіСЂРѕРєР°, СЏРІР»СЏСЋС‰РµРіРѕСЃСЏ С…РѕСЃС‚РѕРј.\n"
 
 REFERENCE           NOVOTE_MAPNOTSUPPORTEDBYGAME
 LANG_ENGLISH        "You can't vote for this map, it isn't supported by the current gametype.\n"
-LANG_RUSSIAN         "Вы не можете голосовать за эту карту, она не поддерживается текущей разновидностью игры.\n"
+LANG_RUSSIAN         "Р’С‹ РЅРµ РјРѕР¶РµС‚Рµ РіРѕР»РѕСЃРѕРІР°С‚СЊ Р·Р° СЌС‚Сѓ РєР°СЂС‚Сѓ, РѕРЅР° РЅРµ РїРѕРґРґРµСЂР¶РёРІР°РµС‚СЃСЏ С‚РµРєСѓС‰РµР№ СЂР°Р·РЅРѕРІРёРґРЅРѕСЃС‚СЊСЋ РёРіСЂС‹.\n"
 
 REFERENCE           WAS_KICKED
 LANG_ENGLISH        "was kicked."
-LANG_RUSSIAN         "был удален."
+LANG_RUSSIAN         "Р±С‹Р» СѓРґР°Р»РµРЅ."
 
 REFERENCE           BEGIN_DUEL
 LANG_ENGLISH        "BEGIN"
-LANG_RUSSIAN         "НАЧАЛО"
+LANG_RUSSIAN         "РќРђР§РђР›Рћ"
 
 REFERENCE           HIT_THE_KILL_LIMIT
 NOTES               ""[playername][/teamname] hit the kill limit""
 LANG_ENGLISH        "hit the kill limit."
-LANG_RUSSIAN         "достиг предела убийств."
+LANG_RUSSIAN         "РґРѕСЃС‚РёРі РїСЂРµРґРµР»Р° СѓР±РёР№СЃС‚РІ."
 
 REFERENCE           SERVER_IS_FULL
 LANG_ENGLISH        "Server is full."
-LANG_RUSSIAN         "Сервер заполнен."
+LANG_RUSSIAN         "РЎРµСЂРІРµСЂ Р·Р°РїРѕР»РЅРµРЅ."
 
 REFERENCE           SERVER_DISCONNECTED
 LANG_ENGLISH        "Server disconnected"
-LANG_RUSSIAN         "Сервер отключен"
+LANG_RUSSIAN         "РЎРµСЂРІРµСЂ РѕС‚РєР»СЋС‡РµРЅ"
 
 REFERENCE           SERVER_CONNECTION_TIMED_OUT
 LANG_ENGLISH        "Server connection timed out."
-LANG_RUSSIAN         "Время подключения к серверу вышло."
+LANG_RUSSIAN         "Р’СЂРµРјСЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ Рє СЃРµСЂРІРµСЂСѓ РІС‹С€Р»Рѕ."
 
 REFERENCE           INVALID_PASSWORD
 LANG_ENGLISH        "Invalid password"
-LANG_RUSSIAN         "Неверный пароль"
+LANG_RUSSIAN         "РќРµРІРµСЂРЅС‹Р№ РїР°СЂРѕР»СЊ"
 
 REFERENCE           TIMELIMIT_HIT
 LANG_ENGLISH        "Timelimit hit"
-LANG_RUSSIAN         "Достигнут лимит времени"
+LANG_RUSSIAN         "Р”РѕСЃС‚РёРіРЅСѓС‚ Р»РёРјРёС‚ РІСЂРµРјРµРЅРё"
 
 REFERENCE           ONLY_ADD_BOTS_AS_SERVER
 LANG_ENGLISH        "You can only add bots as the server"
-LANG_RUSSIAN         "Ботов может добавлять только сервер"
+LANG_RUSSIAN         "Р‘РѕС‚РѕРІ РјРѕР¶РµС‚ РґРѕР±Р°РІР»СЏС‚СЊ С‚РѕР»СЊРєРѕ СЃРµСЂРІРµСЂ"
 
 REFERENCE           DISCONNECTED
 NOTES               "used just after playername has been printed to show someone disconnecting"
 LANG_ENGLISH        "disconnected"
-LANG_RUSSIAN         "отключен"
+LANG_RUSSIAN         "РѕС‚РєР»СЋС‡РµРЅ"
 
 REFERENCE           NOCLASSSWITCH
 LANG_ENGLISH        "You can only switch classes once every 5 seconds."
-LANG_RUSSIAN         "Класс можно переключать только каждые 5 секунд."
+LANG_RUSSIAN         "РљР»Р°СЃСЃ РјРѕР¶РЅРѕ РїРµСЂРµРєР»СЋС‡Р°С‚СЊ С‚РѕР»СЊРєРѕ РєР°Р¶РґС‹Рµ 5 СЃРµРєСѓРЅРґ."
 
 REFERENCE           NOCLASSTEAM
 LANG_ENGLISH        "The class you've tried to select does not belong to the team you're on."
-LANG_RUSSIAN         "Класс, который вы пытались использовать, не подходит для вашего отряда."
+LANG_RUSSIAN         "РљР»Р°СЃСЃ, РєРѕС‚РѕСЂС‹Р№ РІС‹ РїС‹С‚Р°Р»РёСЃСЊ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ, РЅРµ РїРѕРґС…РѕРґРёС‚ РґР»СЏ РІР°С€РµРіРѕ РѕС‚СЂСЏРґР°."
 
 REFERENCE           NOVOICECHATASSPEC
 LANG_ENGLISH        "You cannot voice chat as a spectator."
-LANG_RUSSIAN         "Вам недоступен голосовой чат, пока вы наблюдатель."
+LANG_RUSSIAN         "Р’Р°Рј РЅРµРґРѕСЃС‚СѓРїРµРЅ РіРѕР»РѕСЃРѕРІРѕР№ С‡Р°С‚, РїРѕРєР° РІС‹ РЅР°Р±Р»СЋРґР°С‚РµР»СЊ."
 
 REFERENCE           DUELMORESINGLE
 LANG_ENGLISH        "Need another single duelist"
-LANG_RUSSIAN         "Нужен еще один одиночный дуэлянт"
+LANG_RUSSIAN         "РќСѓР¶РµРЅ РµС‰Рµ РѕРґРёРЅ РѕРґРёРЅРѕС‡РЅС‹Р№ РґСѓСЌР»СЏРЅС‚"
 
 REFERENCE           DUELMOREPAIRED
 LANG_ENGLISH        "Need more paired duelists"
-LANG_RUSSIAN         "Нужны еще пары дуэлянтов"
+LANG_RUSSIAN         "РќСѓР¶РЅС‹ РµС‰Рµ РїР°СЂС‹ РґСѓСЌР»СЏРЅС‚РѕРІ"
 
 REFERENCE           HIT_CAPTURE_LIMIT
 LANG_ENGLISH        "hit the capture limit."
-LANG_RUSSIAN         "достиг предела захватов."
+LANG_RUSSIAN         "РґРѕСЃС‚РёРі РїСЂРµРґРµР»Р° Р·Р°С…РІР°С‚РѕРІ."
 
 REFERENCE           INVALID_ESCAPE_TO_MAIN
 LANG_ENGLISH        "Invalid Password.  Press ESCAPE to return to Main Menu"
-LANG_RUSSIAN         "Неверный пароль.  Нажмите ESCAPE, чтобы вернуться в главное меню"
+LANG_RUSSIAN         "РќРµРІРµСЂРЅС‹Р№ РїР°СЂРѕР»СЊ.  РќР°Р¶РјРёС‚Рµ ESCAPE, С‡С‚РѕР±С‹ РІРµСЂРЅСѓС‚СЊСЃСЏ РІ РіР»Р°РІРЅРѕРµ РјРµРЅСЋ"
 
 REFERENCE           CANCEL_PASSWORD
 LANG_ENGLISH        "Close menu, do not attempt to connect"
-LANG_RUSSIAN         "Закрыть меню, не подключаться"
+LANG_RUSSIAN         "Р—Р°РєСЂС‹С‚СЊ РјРµРЅСЋ, РЅРµ РїРѕРґРєР»СЋС‡Р°С‚СЊСЃСЏ"
 
 REFERENCE           CANNOT_TASK_INTERMISSION
 LANG_ENGLISH        "You cannot perform this task during the intermission."
-LANG_RUSSIAN         "Во время перерыва вы не можете выполнить эту задачу."
+LANG_RUSSIAN         "Р’Рѕ РІСЂРµРјСЏ РїРµСЂРµСЂС‹РІР° РІС‹ РЅРµ РјРѕР¶РµС‚Рµ РІС‹РїРѕР»РЅРёС‚СЊ СЌС‚Сѓ Р·Р°РґР°С‡Сѓ."
 
 REFERENCE           SAY
 NOTES               "no more than 5 characters long!"
 LANG_ENGLISH        "Say:"
-LANG_RUSSIAN         "Сказать:"
+LANG_RUSSIAN         "РЎРєР°Р·Р°С‚СЊ:"
 
 REFERENCE           SAY_TEAM
 NOTES               "no more than 11 characters long!"
 LANG_ENGLISH        "Say Team:"
-LANG_RUSSIAN         "Сказать отряду:"
+LANG_RUSSIAN         "РЎРєР°Р·Р°С‚СЊ РѕС‚СЂСЏРґСѓ:"
 
 REFERENCE           SNAPSHOT_TIMEOUT
 LANG_ENGLISH        "Timeout waiting for initial snapshot"
-LANG_RUSSIAN         "Истечение времени ожидания первого снимка"
+LANG_RUSSIAN         "РСЃС‚РµС‡РµРЅРёРµ РІСЂРµРјРµРЅРё РѕР¶РёРґР°РЅРёСЏ РїРµСЂРІРѕРіРѕ СЃРЅРёРјРєР°"
 
 REFERENCE           CLIENT_CONN_WITH_PING
 LANG_ENGLISH        "Client %i connecting with %i challenge ping\n"
-LANG_RUSSIAN         "Клиент %i подключается с пингом запросов %i \n"
+LANG_RUSSIAN         "РљР»РёРµРЅС‚ %i РїРѕРґРєР»СЋС‡Р°РµС‚СЃСЏ СЃ РїРёРЅРіРѕРј Р·Р°РїСЂРѕСЃРѕРІ %i \n"
 
 REFERENCE           SERVER_FOR_HIGH_PING
 LANG_ENGLISH        "Server is for high pings only\n"
-LANG_RUSSIAN         "Сервер предназначен только для высокого пинга\n"
+LANG_RUSSIAN         "РЎРµСЂРІРµСЂ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ С‚РѕР»СЊРєРѕ РґР»СЏ РІС‹СЃРѕРєРѕРіРѕ РїРёРЅРіР°\n"
 
 REFERENCE           CLIENT_REJECTED_LOW_PING
 LANG_ENGLISH        "Client %i rejected on a too low ping\n"
-LANG_RUSSIAN         "Клиенту %i отказано ввиду чрезмерно низкого пинга\n"
+LANG_RUSSIAN         "РљР»РёРµРЅС‚Сѓ %i РѕС‚РєР°Р·Р°РЅРѕ РІРІРёРґСѓ С‡СЂРµР·РјРµСЂРЅРѕ РЅРёР·РєРѕРіРѕ РїРёРЅРіР°\n"
 
 REFERENCE           SERVER_FOR_LOW_PING
 LANG_ENGLISH        "Server is for low pings only\n"
-LANG_RUSSIAN         "Сервер предназначен только для низкого пинга\n"
+LANG_RUSSIAN         "РЎРµСЂРІРµСЂ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ С‚РѕР»СЊРєРѕ РґР»СЏ РЅРёР·РєРѕРіРѕ РїРёРЅРіР°\n"
 
 REFERENCE           CLIENT_REJECTED_HIGH_PING
 LANG_ENGLISH        "Client %i rejected on a too high ping\n"
-LANG_RUSSIAN         "Клиенту %i отказано ввиду чрезмерно высокого пинга\n"
+LANG_RUSSIAN         "РљР»РёРµРЅС‚Сѓ %i РѕС‚РєР°Р·Р°РЅРѕ РІРІРёРґСѓ С‡СЂРµР·РјРµСЂРЅРѕ РІС‹СЃРѕРєРѕРіРѕ РїРёРЅРіР°\n"
 
 REFERENCE           NONAMECHANGE
 LANG_ENGLISH        "You must wait 5 seconds before changing your name again."
-LANG_RUSSIAN         "Перед новой сменой своего имени вы должны обождать 5 секунд."
+LANG_RUSSIAN         "РџРµСЂРµРґ РЅРѕРІРѕР№ СЃРјРµРЅРѕР№ СЃРІРѕРµРіРѕ РёРјРµРЅРё РІС‹ РґРѕР»Р¶РЅС‹ РѕР±РѕР¶РґР°С‚СЊ 5 СЃРµРєСѓРЅРґ."
 
 REFERENCE           TOO_MANY_INFO
 LANG_ENGLISH        "Warning: Too many info changes, last info ignored"
-LANG_RUSSIAN         "Предупреждение: Слишком много изменений информации, последняя информация пропущена"
+LANG_RUSSIAN         "РџСЂРµРґСѓРїСЂРµР¶РґРµРЅРёРµ: РЎР»РёС€РєРѕРј РјРЅРѕРіРѕ РёР·РјРµРЅРµРЅРёР№ РёРЅС„РѕСЂРјР°С†РёРё, РїРѕСЃР»РµРґРЅСЏСЏ РёРЅС„РѕСЂРјР°С†РёСЏ РїСЂРѕРїСѓС‰РµРЅР°"
 
 
 ENDMARKER

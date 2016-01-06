@@ -1,4 +1,4 @@
-// Note to translators:
+п»ї// Note to translators:
 // If a sentence is the same in your language then please change it to "#same"
 //
 // eg:
@@ -16,213 +16,213 @@ FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy
 REFERENCE           19KYK001
 NOTES               "(via comm)"
 LANG_ENGLISH        "What's going on, Jaden?"
-LANG_RUSSIAN         "Что происходит, Джейден?"
+LANG_RUSSIAN         "Р§С‚Рѕ РїСЂРѕРёСЃС…РѕРґРёС‚, Р”Р¶РµР№РґРµРЅ?"
 
 REFERENCE           19JAK001
 LANG_ENGLISH        "Nothing I can't handle."
-LANG_RUSSIAN         "Ничего, с чем бы я не справился."
+LANG_RUSSIAN         "РќРёС‡РµРіРѕ, СЃ С‡РµРј Р±С‹ СЏ РЅРµ СЃРїСЂР°РІРёР»СЃСЏ."
 
 REFERENCE           19KYK002
 NOTES               "(via comm)"
 LANG_ENGLISH        "Good.  I ran into some trouble, but I'm almost to the top of the core."
-LANG_RUSSIAN         "Хорошо.  У меня неприятности, но я почти на вершине центра."
+LANG_RUSSIAN         "РҐРѕСЂРѕС€Рѕ.  РЈ РјРµРЅСЏ РЅРµРїСЂРёСЏС‚РЅРѕСЃС‚Рё, РЅРѕ СЏ РїРѕС‡С‚Рё РЅР° РІРµСЂС€РёРЅРµ С†РµРЅС‚СЂР°."
 
 REFERENCE           19JAK002
 LANG_ENGLISH        "This place is strong with the dark side."
-LANG_RUSSIAN         "В этом месте сильна темная сторона."
+LANG_RUSSIAN         "Р’ СЌС‚РѕРј РјРµСЃС‚Рµ СЃРёР»СЊРЅР° С‚РµРјРЅР°СЏ СЃС‚РѕСЂРѕРЅР°."
 
 REFERENCE           19JAK003
 LANG_ENGLISH        "I wonder why the Imperials are here now?"
-LANG_RUSSIAN         "Интересно, что здесь сейчас делают имперцы?"
+LANG_RUSSIAN         "РРЅС‚РµСЂРµСЃРЅРѕ, С‡С‚Рѕ Р·РґРµСЃСЊ СЃРµР№С‡Р°СЃ РґРµР»Р°СЋС‚ РёРјРїРµСЂС†С‹?"
 
 REFERENCE           19KYK003
 NOTES               "(via comm)"
 LANG_ENGLISH        "Jaden, I just got into the castle.  Looks like you took care of everything down here.  Where are you now?"
-LANG_RUSSIAN         "Джейден, я уже в замке.  Похоже, ты уже разобрался со всеми, кто был внизу.  Где ты сейчас?"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ, СЏ СѓР¶Рµ РІ Р·Р°РјРєРµ.  РџРѕС…РѕР¶Рµ, С‚С‹ СѓР¶Рµ СЂР°Р·РѕР±СЂР°Р»СЃСЏ СЃРѕ РІСЃРµРјРё, РєС‚Рѕ Р±С‹Р» РІРЅРёР·Сѓ.  Р“РґРµ С‚С‹ СЃРµР№С‡Р°СЃ?"
 
 REFERENCE           19JAK004
 LANG_ENGLISH        "I'm in a hangar."
-LANG_RUSSIAN         "Я уже в ангаре."
+LANG_RUSSIAN         "РЇ СѓР¶Рµ РІ Р°РЅРіР°СЂРµ."
 
 REFERENCE           19KYK004
 NOTES               "(via comm)"
 LANG_ENGLISH        "Okay, I'll catch up with you soon"
-LANG_RUSSIAN         "О'кей, скоро я догоню тебя"
+LANG_RUSSIAN         "Рћ'РєРµР№, СЃРєРѕСЂРѕ СЏ РґРѕРіРѕРЅСЋ С‚РµР±СЏ"
 
 REFERENCE           19JAK005
 LANG_ENGLISH        "Hmm... someone didn't like Vader much."
-LANG_RUSSIAN         "Хммм... кто-то недолюбливал Вейдера."
+LANG_RUSSIAN         "РҐРјРјРј... РєС‚Рѕ-С‚Рѕ РЅРµРґРѕР»СЋР±Р»РёРІР°Р» Р’РµР№РґРµСЂР°."
 
 REFERENCE           19ROP001
 NOTES               "(calmly, very different for Rosh)"
 LANG_ENGLISH        "I sense your presence, Jaden."
-LANG_RUSSIAN         "Я ощущаю твое присутствие, Джейден."
+LANG_RUSSIAN         "РЇ РѕС‰СѓС‰Р°СЋ С‚РІРѕРµ РїСЂРёСЃСѓС‚СЃС‚РІРёРµ, Р”Р¶РµР№РґРµРЅ."
 
 REFERENCE           19JAK006
 LANG_ENGLISH        "Rosh?  What are you doing here?"
-LANG_RUSSIAN         "Рош?  Что ты здесь делаешь?"
+LANG_RUSSIAN         "Р РѕС€?  Р§С‚Рѕ С‚С‹ Р·РґРµСЃСЊ РґРµР»Р°РµС€СЊ?"
 
 REFERENCE           19ROP002
 NOTES               "(calmly, very different for Rosh)"
 LANG_ENGLISH        "The Disciples of Ragnos brought me.  At first, I thought they were going to kill me, but I was wrong about them."
-LANG_RUSSIAN         "Меня притащили последователи Рагноса.  Сначала я думал, что они хотят меня убить, но я ошибался."
+LANG_RUSSIAN         "РњРµРЅСЏ РїСЂРёС‚Р°С‰РёР»Рё РїРѕСЃР»РµРґРѕРІР°С‚РµР»Рё Р Р°РіРЅРѕСЃР°.  РЎРЅР°С‡Р°Р»Р° СЏ РґСѓРјР°Р», С‡С‚Рѕ РѕРЅРё С…РѕС‚СЏС‚ РјРµРЅСЏ СѓР±РёС‚СЊ, РЅРѕ СЏ РѕС€РёР±Р°Р»СЃСЏ."
 
 REFERENCE           19ROP003
 NOTES               "(Pause)"
 LANG_ENGLISH        "Do you realize how much power there is in the dark side?  Kyle was holding us back, Jaden.  You should feel the power.  It's beyond anything you ever imagined!"
-LANG_RUSSIAN         "Да ты понимаешь, насколько здесь сильна темная сторона?  Кайл сдерживает нас, Джейден.  Ты должен ощущать мощь.  Они лежит за пределами любого воображения!"
+LANG_RUSSIAN         "Р”Р° С‚С‹ РїРѕРЅРёРјР°РµС€СЊ, РЅР°СЃРєРѕР»СЊРєРѕ Р·РґРµСЃСЊ СЃРёР»СЊРЅР° С‚РµРјРЅР°СЏ СЃС‚РѕСЂРѕРЅР°?  РљР°Р№Р» СЃРґРµСЂР¶РёРІР°РµС‚ РЅР°СЃ, Р”Р¶РµР№РґРµРЅ.  РўС‹ РґРѕР»Р¶РµРЅ РѕС‰СѓС‰Р°С‚СЊ РјРѕС‰СЊ.  РћРЅРё Р»РµР¶РёС‚ Р·Р° РїСЂРµРґРµР»Р°РјРё Р»СЋР±РѕРіРѕ РІРѕРѕР±СЂР°Р¶РµРЅРёСЏ!"
 
 REFERENCE           19JAK007
 LANG_ENGLISH        "Rosh, what are you saying?!  You're a Jedi.  "
-LANG_RUSSIAN         "Рош, о чем ты говоришь?!  Ты же джедай.  "
+LANG_RUSSIAN         "Р РѕС€, Рѕ С‡РµРј С‚С‹ РіРѕРІРѕСЂРёС€СЊ?!  РўС‹ Р¶Рµ РґР¶РµРґР°Р№.  "
 
 REFERENCE           19ROP004
 NOTES               "(conflicted)"
 LANG_ENGLISH        "N...no, I..."
-LANG_RUSSIAN         "Н...нет, я..."
+LANG_RUSSIAN         "Рќ...РЅРµС‚, СЏ..."
 
 REFERENCE           19VIK001
 LANG_ENGLISH        "Enough talk!"
-LANG_RUSSIAN         "Хватит болтовни!"
+LANG_RUSSIAN         "РҐРІР°С‚РёС‚ Р±РѕР»С‚РѕРІРЅРё!"
 
 REFERENCE           19DAK001
 LANG_ENGLISH        "Rosh! Destroy this puny Jedi so we can complete our task!"
-LANG_RUSSIAN         "Рош! Убей этого хилого джедая, и покончим с этим!"
+LANG_RUSSIAN         "Р РѕС€! РЈР±РµР№ СЌС‚РѕРіРѕ С…РёР»РѕРіРѕ РґР¶РµРґР°СЏ, Рё РїРѕРєРѕРЅС‡РёРј СЃ СЌС‚РёРј!"
 
 REFERENCE           19ROP005
 NOTES               "(with new resolve, nods)"
 LANG_ENGLISH        "Yes... if you're too weak to join us, Jaden, then we can't let you stand in our way.  "
-LANG_RUSSIAN         "Да... если ты слишком слаб, чтобы перейти к нам, Джейден, мы не можем позволить тебе стоять у нас на пути.  "
+LANG_RUSSIAN         "Р”Р°... РµСЃР»Рё С‚С‹ СЃР»РёС€РєРѕРј СЃР»Р°Р±, С‡С‚РѕР±С‹ РїРµСЂРµР№С‚Рё Рє РЅР°Рј, Р”Р¶РµР№РґРµРЅ, РјС‹ РЅРµ РјРѕР¶РµРј РїРѕР·РІРѕР»РёС‚СЊ С‚РµР±Рµ СЃС‚РѕСЏС‚СЊ Сѓ РЅР°СЃ РЅР° РїСѓС‚Рё.  "
 
 REFERENCE           19VIK002
 LANG_ENGLISH        "This Jedi is no match for us."
-LANG_RUSSIAN         "Этот джедай для нас ничто."
+LANG_RUSSIAN         "Р­С‚РѕС‚ РґР¶РµРґР°Р№ РґР»СЏ РЅР°СЃ РЅРёС‡С‚Рѕ."
 
 REFERENCE           MR_19DAK002
 LANG_ENGLISH        "You're right brother.  He will be easy to defeat."
-LANG_RUSSIAN         "Ты прав, брат.  Его будет не сложно победить."
+LANG_RUSSIAN         "РўС‹ РїСЂР°РІ, Р±СЂР°С‚.  Р•РіРѕ Р±СѓРґРµС‚ РЅРµ СЃР»РѕР¶РЅРѕ РїРѕР±РµРґРёС‚СЊ."
 
 REFERENCE           MS_19DAK002
 LANG_ENGLISH        "You're right brother.  She will be easy to defeat."
-LANG_RUSSIAN         "Ты прав, брат.  Ее будет не сложно победить."
+LANG_RUSSIAN         "РўС‹ РїСЂР°РІ, Р±СЂР°С‚.  Р•Рµ Р±СѓРґРµС‚ РЅРµ СЃР»РѕР¶РЅРѕ РїРѕР±РµРґРёС‚СЊ."
 
 REFERENCE           19VIK003
 LANG_ENGLISH        "How are you fairing brother?"
-LANG_RUSSIAN         "Как тебя понимать, брат?"
+LANG_RUSSIAN         "РљР°Рє С‚РµР±СЏ РїРѕРЅРёРјР°С‚СЊ, Р±СЂР°С‚?"
 
 REFERENCE           19DAK004
 LANG_ENGLISH        "Very well.  This Jedi is no challenge at all."
-LANG_RUSSIAN         "Очень хорошо.  Этот джедай для нас ничто."
+LANG_RUSSIAN         "РћС‡РµРЅСЊ С…РѕСЂРѕС€Рѕ.  Р­С‚РѕС‚ РґР¶РµРґР°Р№ РґР»СЏ РЅР°СЃ РЅРёС‡С‚Рѕ."
 
 REFERENCE           MR_19DAK005
 LANG_ENGLISH        "Shall we attack him together?"
-LANG_RUSSIAN         "Мы нападем на него вместе?"
+LANG_RUSSIAN         "РњС‹ РЅР°РїР°РґРµРј РЅР° РЅРµРіРѕ РІРјРµСЃС‚Рµ?"
 
 REFERENCE           MS_19DAK005
 LANG_ENGLISH        "Shall we attack her together?"
-LANG_RUSSIAN         "Мы нападем на нее вместе?"
+LANG_RUSSIAN         "РњС‹ РЅР°РїР°РґРµРј РЅР° РЅРµРµ РІРјРµСЃС‚Рµ?"
 
 REFERENCE           19VIK004
 LANG_ENGLISH        "Yes brother."
-LANG_RUSSIAN         "Да, брат."
+LANG_RUSSIAN         "Р”Р°, Р±СЂР°С‚."
 
 REFERENCE           19DAK007
 LANG_ENGLISH        "Nooooo! You will pay for that Jedi."
-LANG_RUSSIAN         "Неееет! Ты заплатишь за это, джедай."
+LANG_RUSSIAN         "РќРµРµРµРµС‚! РўС‹ Р·Р°РїР»Р°С‚РёС€СЊ Р·Р° СЌС‚Рѕ, РґР¶РµРґР°Р№."
 
 REFERENCE           19VIK005
 LANG_ENGLISH        "Nooooo! You will pay for that Jedi."
-LANG_RUSSIAN         "Неееет! Ты заплатишь за это, джедай."
+LANG_RUSSIAN         "РќРµРµРµРµС‚! РўС‹ Р·Р°РїР»Р°С‚РёС€СЊ Р·Р° СЌС‚Рѕ, РґР¶РµРґР°Р№."
 
 REFERENCE           19ROP006
 LANG_ENGLISH        "You are weak!"
-LANG_RUSSIAN         "Ты слишком слаб!"
+LANG_RUSSIAN         "РўС‹ СЃР»РёС€РєРѕРј СЃР»Р°Р±!"
 
 REFERENCE           19ROP007
 NOTES               "(confused)"
 LANG_ENGLISH        "Jaden...?"
-LANG_RUSSIAN         "Джейден...?"
+LANG_RUSSIAN         "Р”Р¶РµР№РґРµРЅ...?"
 
 REFERENCE           19ROP008
 NOTES               "(snaps out of it)"
 LANG_ENGLISH        "You can't stop us!"
-LANG_RUSSIAN         "Ты не остановишь нас!"
+LANG_RUSSIAN         "РўС‹ РЅРµ РѕСЃС‚Р°РЅРѕРІРёС€СЊ РЅР°СЃ!"
 
 REFERENCE           19ROP009
 LANG_ENGLISH        "Kyle is holding you back."
-LANG_RUSSIAN         "Кайл не дает тебе расти."
+LANG_RUSSIAN         "РљР°Р№Р» РЅРµ РґР°РµС‚ С‚РµР±Рµ СЂР°СЃС‚Рё."
 
 REFERENCE           19ROP010
 LANG_ENGLISH        "Come to the dark side!"
-LANG_RUSSIAN         "Переходи на темную сторону!"
+LANG_RUSSIAN         "РџРµСЂРµС…РѕРґРё РЅР° С‚РµРјРЅСѓСЋ СЃС‚РѕСЂРѕРЅСѓ!"
 
 REFERENCE           19ROP011
 NOTES               "(ashamed)"
 LANG_ENGLISH        "Kyle... I..."
-LANG_RUSSIAN         "Кайл... Я..."
+LANG_RUSSIAN         "РљР°Р№Р»... РЇ..."
 
 REFERENCE           19TAA001
 NOTES               "(emerging from the shadows)"
 LANG_ENGLISH        "Tsk-tsk, did you think I would give up my new apprentice so easily?"
-LANG_RUSSIAN         "Тсс-тсс, ты думаешь, я так просто отдам своего нового ученика?"
+LANG_RUSSIAN         "РўСЃСЃ-С‚СЃСЃ, С‚С‹ РґСѓРјР°РµС€СЊ, СЏ С‚Р°Рє РїСЂРѕСЃС‚Рѕ РѕС‚РґР°Рј СЃРІРѕРµРіРѕ РЅРѕРІРѕРіРѕ СѓС‡РµРЅРёРєР°?"
 
 REFERENCE           19KYK005
 NOTES               "(recognizing her)"
 LANG_ENGLISH        "Tavion!"
-LANG_RUSSIAN         "Тавион!"
+LANG_RUSSIAN         "РўР°РІРёРѕРЅ!"
 
 REFERENCE           19TAA002
 LANG_ENGLISH        "You should have killed me when you had the chance, Katarn.  Your pathetic Jedi mercy is a weakness that shall cost you your life... and the life of your Academy's students."
-LANG_RUSSIAN         "Тебе следовало убить меня при первой же возможности, Катарн.  Твое жалкое джедайское милосердие - слабость, которая будет стоить жизни тебе... и твоим кадетам."
+LANG_RUSSIAN         "РўРµР±Рµ СЃР»РµРґРѕРІР°Р»Рѕ СѓР±РёС‚СЊ РјРµРЅСЏ РїСЂРё РїРµСЂРІРѕР№ Р¶Рµ РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё, РљР°С‚Р°СЂРЅ.  РўРІРѕРµ Р¶Р°Р»РєРѕРµ РґР¶РµРґР°Р№СЃРєРѕРµ РјРёР»РѕСЃРµСЂРґРёРµ - СЃР»Р°Р±РѕСЃС‚СЊ, РєРѕС‚РѕСЂР°СЏ Р±СѓРґРµС‚ СЃС‚РѕРёС‚СЊ Р¶РёР·РЅРё С‚РµР±Рµ... Рё С‚РІРѕРёРј РєР°РґРµС‚Р°Рј."
 
 REFERENCE           19TAA003
 NOTES               "(to Rosh)"
 LANG_ENGLISH        "But not you, my dear Rosh. Come."
-LANG_RUSSIAN         "Но не сейчас, мой дорогой Рош. Идем."
+LANG_RUSSIAN         "РќРѕ РЅРµ СЃРµР№С‡Р°СЃ, РјРѕР№ РґРѕСЂРѕРіРѕР№ Р РѕС€. РРґРµРј."
 
 REFERENCE           19ROP012
 LANG_ENGLISH        "Yes, Tavion."
-LANG_RUSSIAN         "Да, Тавион."
+LANG_RUSSIAN         "Р”Р°, РўР°РІРёРѕРЅ."
 
 REFERENCE           19JAK008
 LANG_ENGLISH        "Rosh, no!"
-LANG_RUSSIAN         "Рош, нет!"
+LANG_RUSSIAN         "Р РѕС€, РЅРµС‚!"
 
 REFERENCE           19TAA004
 LANG_ENGLISH        "Fool!  Your petty friendship cannot compare with the power of the Dark Side!"
-LANG_RUSSIAN         "Дурак!  Твоя чудесная дружба ничто по сравнению с могуществом темной стороны Силы!"
+LANG_RUSSIAN         "Р”СѓСЂР°Рє!  РўРІРѕСЏ С‡СѓРґРµСЃРЅР°СЏ РґСЂСѓР¶Р±Р° РЅРёС‡С‚Рѕ РїРѕ СЃСЂР°РІРЅРµРЅРёСЋ СЃ РјРѕРіСѓС‰РµСЃС‚РІРѕРј С‚РµРјРЅРѕР№ СЃС‚РѕСЂРѕРЅС‹ РЎРёР»С‹!"
 
 REFERENCE           19KYK006
 LANG_ENGLISH        "So, is this what it's come to, Tavion?  Stealing scraps of the Force like some sort of intergalactic parasite?"
-LANG_RUSSIAN         "Так вот к чему все идет, Тавион?  Крадешь кусочки Силы, как межгалактический паразит?"
+LANG_RUSSIAN         "РўР°Рє РІРѕС‚ Рє С‡РµРјСѓ РІСЃРµ РёРґРµС‚, РўР°РІРёРѕРЅ?  РљСЂР°РґРµС€СЊ РєСѓСЃРѕС‡РєРё РЎРёР»С‹, РєР°Рє РјРµР¶РіР°Р»Р°РєС‚РёС‡РµСЃРєРёР№ РїР°СЂР°Р·РёС‚?"
 
 REFERENCE           19TAA005
 NOTES               "(enraged)"
 LANG_ENGLISH        "Spare me your self-righteous pity, Katarn!  You may have shamed me when you spared my life, but that was before I found THIS..."
-LANG_RUSSIAN         "Поделись со мной своим ханжеским состраданием, Катарн!  Ты мог опозорить меня, сохранив мне жизнь, но это было до того, как я нашла ЕГО..."
+LANG_RUSSIAN         "РџРѕРґРµР»РёСЃСЊ СЃРѕ РјРЅРѕР№ СЃРІРѕРёРј С…Р°РЅР¶РµСЃРєРёРј СЃРѕСЃС‚СЂР°РґР°РЅРёРµРј, РљР°С‚Р°СЂРЅ!  РўС‹ РјРѕРі РѕРїРѕР·РѕСЂРёС‚СЊ РјРµРЅСЏ, СЃРѕС…СЂР°РЅРёРІ РјРЅРµ Р¶РёР·РЅСЊ, РЅРѕ СЌС‚Рѕ Р±С‹Р»Рѕ РґРѕ С‚РѕРіРѕ, РєР°Рє СЏ РЅР°С€Р»Р° Р•Р“Рћ..."
 
 REFERENCE           19TAA006
 NOTES               "(shakes scepter)"
 LANG_ENGLISH        "Now... I have a new Master, one who has promised me the power to destroy you and all the Jedi!"
-LANG_RUSSIAN         "А теперь... У меня новый хозяин, который обещал мне достаточно силы, чтобы уничтожить тебя и всех джедаев!"
+LANG_RUSSIAN         "Рђ С‚РµРїРµСЂСЊ... РЈ РјРµРЅСЏ РЅРѕРІС‹Р№ С…РѕР·СЏРёРЅ, РєРѕС‚РѕСЂС‹Р№ РѕР±РµС‰Р°Р» РјРЅРµ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ СЃРёР»С‹, С‡С‚РѕР±С‹ СѓРЅРёС‡С‚РѕР¶РёС‚СЊ С‚РµР±СЏ Рё РІСЃРµС… РґР¶РµРґР°РµРІ!"
 
 REFERENCE           19KYK007
 LANG_ENGLISH        "Ragnos?  What can a dead Sith Lord give you?"
-LANG_RUSSIAN         "Рагнос?  Что тебе может дать дохлый лорд Сита?"
+LANG_RUSSIAN         "Р Р°РіРЅРѕСЃ?  Р§С‚Рѕ С‚РµР±Рµ РјРѕР¶РµС‚ РґР°С‚СЊ РґРѕС…Р»С‹Р№ Р»РѕСЂРґ РЎРёС‚Р°?"
 
 REFERENCE           19TAA007
 NOTES               "(venomously)"
 LANG_ENGLISH        "Everything I've ever wanted...not that you'll be around to see it!"
-LANG_RUSSIAN         "Все, что я пожелаю... только ты этого не увидишь!"
+LANG_RUSSIAN         "Р’СЃРµ, С‡С‚Рѕ СЏ РїРѕР¶РµР»Р°СЋ... С‚РѕР»СЊРєРѕ С‚С‹ СЌС‚РѕРіРѕ РЅРµ СѓРІРёРґРёС€СЊ!"
 
 REFERENCE           19KYK008
 NOTES               "(straining)"
 LANG_ENGLISH        "I can't... keep this up for long."
-LANG_RUSSIAN         "Я не могу... долго держаться."
+LANG_RUSSIAN         "РЇ РЅРµ РјРѕРіСѓ... РґРѕР»РіРѕ РґРµСЂР¶Р°С‚СЊСЃСЏ."
 
 REFERENCE           19JAK009
 LANG_ENGLISH        "Hold on."
-LANG_RUSSIAN         "Держись."
+LANG_RUSSIAN         "Р”РµСЂР¶РёСЃСЊ."
 
 
 ENDMARKER
