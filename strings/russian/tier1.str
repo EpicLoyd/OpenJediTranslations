@@ -1,0 +1,43 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "W:\bin\stringed.cfg"
+FILENOTES           "XMAKE-auto-generated from "w:\documents\script\jedi academy script2.txt""
+
+REFERENCE           1
+LANG_ENGLISH        "We receive countless requests for assistance from all over the galaxy.  Since we believe in learning by doing at the Academy, students of all levels help with these requests.  Since you're an Initiate, however, Kyle will travel with you on most of your missions in order to instruct you and ensure your safety."
+LANG_RUSSIAN         "—о всей галактики к нам приход€т запросы о помощи.  “ак как мы считаем подготовкой работу на пользу академии, кадеты всех уровней будут задействованы в этом деле.  ќднако, так как ты новичок, на большинство твоих заданий с тобой отправитс€  айл, он будет теб€ инструктировать и обеспечивать твою безопасность."
+
+REFERENCE           3
+LANG_ENGLISH        "I have some troubling news. While Kyle and I attended to the crashed shuttle, someone broke into my quarters and sliced into my records. Artoo is trying to figure out what they may be looking for."
+LANG_RUSSIAN         "” мен€ плохие новости. ѕока мы с кайлом занимались разбившимс€ челноком, кто-то вломилс€ в мои апартаменты и добралс€ до моих записей. –2 пытаетс€ вы€снить, что они искали."
+
+REFERENCE           4
+LANG_ENGLISH        "This is getting more serious.  We have been receiving numerous reports of a Sith cult called the Disciples of Ragnos appearing all over the galaxy."
+LANG_RUSSIAN         "ƒело приобретает серьезный характер.  ћы получаем множество докладов о культе —ита, называемом последователи –агноса, расползающемс€ по всей галактике."
+
+REFERENCE           2
+LANG_ENGLISH        "We've been looking into the shuttle crash and it doesn't look like laser damage or a mechanical failure was responsible. It's almost as if something just... tore apart the engines."
+LANG_RUSSIAN         "ћы занимались крушением челнока и не похоже, что причиной €вл€етс€ попадание лазера или отказ механизмов. Ѕольше всего похоже,... будто что-то разорвало двигатель на части."
+
+REFERENCE           5
+LANG_ENGLISH        "Nicely done, Jaden. I think you're ready for the next stage of training, but there's still another mission left if you choose to accept it. Remember, every mission is a chance to learn more about being a Jedi."
+LANG_RUSSIAN         "ќтлично сделано, ƒжейден. ƒумаю, ты готов к следующему этапу обучени€, но есть еще одно задание, если ты захочешь за него вз€тьс€. ѕомни, каждое задание дает тебе шанс больше узнать о том, что значит быть джедаем."
+
+REFERENCE           6
+LANG_ENGLISH        "Something's come up. We need you back at the Academy."
+LANG_RUSSIAN         "„то-то про€сн€етс€. “ы должен вернутьс€ в академию."
+
+
+ENDMARKER
+
+
